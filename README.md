@@ -56,69 +56,6 @@ graph TB
     CB --> CR
 ```
 
-## Quick Start
-
-### Prerequisites
-
-- Google Cloud SDK (`gcloud`) installed and configured
-- Python 3.11+
-- Terraform 1.5+
-- Docker
-- Make
-
-### 1. Clone and Setup
-
-```bash
-git clone <repository-url>
-cd vertexrec
-make setup
-```
-
-### 2. Configure GCP Project
-
-```bash
-export PROJECT_ID="your-gcp-project"
-export REGION="us-central1"
-export BUCKET_NAME="vertexrec-data-${PROJECT_ID}"
-
-# Set project and authenticate
-gcloud config set project $PROJECT_ID
-gcloud auth application-default login
-```
-
-### 3. Deploy Infrastructure
-
-```bash
-make deploy-infra
-```
-
-### 4. Generate and Upload Data
-
-```bash
-make generate-data
-make upload-data
-```
-
-### 5. Run ML Pipeline
-
-```bash
-make run-pipeline
-```
-
-### 6. Deploy Serving API
-
-```bash
-make deploy-api
-```
-
-### 7. Test Recommendations
-
-```bash
-curl -X POST "https://your-cloud-run-url/recommend" \
-  -H "Content-Type: application/json" \
-  -d '{"user_id": "user_001", "k": 10}'
-```
-
 ## Features
 
 ### Core ML Capabilities
