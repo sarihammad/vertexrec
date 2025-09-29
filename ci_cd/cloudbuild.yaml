@@ -1,0 +1,142 @@
+# Cloud Build configuration for VertexRec
+# Automated CI/CD pipeline for ML recommendation system
+
+steps:
+  # Step 1: Install dependencies and run tests
+  - name: "python:3.11-slim"
+    entrypoint: "bash"
+    args:
+      - "-c"
+      - |
+        pip install -r requirements.txt
+        python -m pytest tests/ -v --junitxml=test-results.xml
+        python -m flake8 pipelines/ serving/ scripts/ --max-line-length=88
+        python -m mypy pipelines/ serving/ scripts/ --ignore-missing-imports
+    id: "test"
+
+  # Step 2: Build Docker image
+  - name: "gcr.io/cloud-builders/docker"
+    args:
+      - "build"
+      - "-t"
+      - "gcr.io/$PROJECT_ID/vertexrec-api:$COMMIT_SHA"
+      - "-t"
+      - "gcr.io/$PROJECT_ID/vertexrec-api:latest"
+      - "."
+    id: "build"
+
+  # Step 3: Push Docker image
+  - name: "gcr.io/cloud-builders/docker"
+    args:
+      - "push"
+      - "gcr.io/$PROJECT_ID/vertexrec-api:$COMMIT_SHA"
+    id: "push-image"
+
+  # Step 4: Push latest tag
+  - name: "gcr.io/cloud-builders/docker"
+    args:
+      - "push"
+      - "gcr.io/$PROJECT_ID/vertexrec-api:latest"
+    id: "push-latest"
+
+  # Step 5: Deploy to Cloud Run
+  - name: "gcr.io/cloud-builders/gcloud"
+    entrypoint: "bash"
+    args:
+      - "-c"
+      - |
+        gcloud run deploy vertexrec-api \
+          --image gcr.io/$PROJECT_ID/vertexrec-api:$COMMIT_SHA \
+          --platform managed \
+          --region us-central1 \
+          --allow-unauthenticated \
+          --memory 2Gi \
+          --cpu 2 \
+          --min-instances 0 \
+          --max-instances 10 \
+          --port 8080 \
+          --set-env-vars PROJECT_ID=$PROJECT_ID,REGION=us-central1 \
+          --timeout 300
+    id: "deploy"
+
+  # Step 6: Run integration tests
+  - name: "python:3.11-slim"
+    entrypoint: "bash"
+    args:
+      - "-c"
+      - |
+        pip install requests pytest
+        # Get service URL
+        SERVICE_URL=$(gcloud run services describe vertexrec-api --platform managed --region us-central1 --format 'value(status.url)')
+        echo "Testing service at: $SERVICE_URL"
+        # Run integration tests
+        python -m pytest tests/integration/ -v --service-url=$SERVICE_URL
+    id: "integration-test"
+
+  # Step 7: Run ML pipeline (if on main branch)
+  - name: "gcr.io/cloud-builders/gcloud"
+    entrypoint: "bash"
+    args:
+      - "-c"
+      - |
+        if [ "$BRANCH_NAME" = "main" ]; then
+          echo "Running ML pipeline on main branch"
+          python scripts/deploy_pipeline.py \
+            --project-id $PROJECT_ID \
+            --region us-central1 \
+            --bucket-name vertexrec-data-$PROJECT_ID \
+            --action deploy
+        else
+          echo "Skipping ML pipeline for branch: $BRANCH_NAME"
+        fi
+    id: "ml-pipeline"
+
+  # Step 8: Update monitoring dashboards
+  - name: "gcr.io/cloud-builders/gcloud"
+    entrypoint: "bash"
+    args:
+      - "-c"
+      - |
+        # Update monitoring configuration
+        gcloud monitoring dashboards create --config-from-file=monitoring/dashboard.json || true
+        gcloud monitoring alert-policies create --config-from-file=monitoring/alerts.json || true
+    id: "monitoring"
+
+  # Step 9: Security scanning
+  - name: "gcr.io/cloud-builders/gcloud"
+    entrypoint: "bash"
+    args:
+      - "-c"
+      - |
+        # Run security scan on container image
+        gcloud container images scan gcr.io/$PROJECT_ID/vertexrec-api:$COMMIT_SHA \
+          --format="value(vulnerability.severity)" | grep -E "(HIGH|CRITICAL)" && exit 1 || exit 0
+    id: "security-scan"
+
+# Configuration
+options:
+  machineType: "E2_HIGHCPU_8"
+  diskSizeGb: 100
+  logging: CLOUD_LOGGING_ONLY
+
+# Substitutions
+substitutions:
+  _REGION: "us-central1"
+  _SERVICE_NAME: "vertexrec-api"
+  _BUCKET_NAME: "vertexrec-data-${PROJECT_ID}"
+
+# Timeout
+timeout: "1200s"
+
+# Images to be pushed
+images:
+  - "gcr.io/$PROJECT_ID/vertexrec-api:$COMMIT_SHA"
+  - "gcr.io/$PROJECT_ID/vertexrec-api:latest"
+
+# Artifacts
+artifacts:
+  objects:
+    location: "gs://${_BUCKET_NAME}/build-artifacts"
+    paths:
+      - "test-results.xml"
+      - "coverage.xml"
