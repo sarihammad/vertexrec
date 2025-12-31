@@ -1,0 +1,28 @@
+version: "3.9"
+
+x-app: &app
+  build:
+    context: .
+  working_dir: /app
+  volumes:
+    - .:/app
+  environment:
+    PYTHONUNBUFFERED: "1"
+
+services:
+  training:
+    <<: *app
+    command: >
+      python scripts/local_mode.py training
+  inference:
+    <<: *app
+    depends_on:
+      - training
+    command: >
+      bash -c "until [ -f artifacts/local/training_summary.json ]; do sleep 1; done; python scripts/local_mode.py inference"
+  metrics:
+    <<: *app
+    depends_on:
+      - inference
+    command: >
+      bash -c "until [ -f artifacts/local/recommendations.json ]; do sleep 1; done; python scripts/local_mode.py metrics"
