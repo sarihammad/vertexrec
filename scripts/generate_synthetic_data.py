@@ -144,7 +144,7 @@ class SyntheticDataGenerator:
             release_date = fake.date_between(start_date='-10y', end_date='today')
             
             # Generate price (free or paid)
-            is_free = random.choice([True, False], p=[0.3, 0.7])
+            is_free = np.random.choice([True, False], p=[0.3, 0.7])
             price = 0 if is_free else round(random.uniform(0.99, 29.99), 2)
             
             item = {
@@ -267,10 +267,9 @@ class SyntheticDataGenerator:
             interaction_date = base_date
             
         # Evening hours bias (6 PM - 11 PM)
-        hour = np.random.choice(
-            list(range(24)), 
-            p=[0.01]*6 + [0.02]*6 + [0.03]*6 + [0.05]*3 + [0.08]*3 + [0.02]*6
-        )
+        hour_weights = [0.01]*6 + [0.02]*6 + [0.03]*6 + [0.05]*3 + [0.08]*3
+        normalized = [w / sum(hour_weights) for w in hour_weights]
+        hour = np.random.choice(list(range(24)), p=normalized)
         minute = random.randint(0, 59)
         second = random.randint(0, 59)
         
