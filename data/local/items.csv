@@ -1,0 +1,1501 @@
+item_id,title,genre,release_date,popularity_score,quality_score,price,duration_minutes,language,rating_avg,rating_count
+item_000000,Horizontal uniform framework,Fantasy,2024-05-16,0.429,0.608,22.66,84,Spanish,4.5,4452
+item_000001,Reduced stable matrix,Western,2024-08-25,0.192,0.732,21.18,65,English,3.8,9624
+item_000002,Organized national matrices,Family,2019-06-13,0.105,0.5,8.02,165,Spanish,3.9,870
+item_000003,Reactive well-modulated moratorium,Comedy,2019-10-08,0.109,0.803,12.98,150,English,4.0,2262
+item_000004,Inverse content-based standardization,Action,2018-05-21,0.133,0.461,0.0,170,Spanish,3.2,7803
+item_000005,Networked discrete time-frame,Thriller,2020-02-08,0.311,1.0,0.0,81,French,3.0,979
+item_000006,Intuitive value-added leverage,Animation,2023-01-19,0.659,0.843,19.91,89,Japanese,4.2,621
+item_000007,Multi-tiered human-resource protocol,Documentary,2023-12-03,0.043,0.785,13.11,75,English,5.0,6514
+item_000008,Streamlined coherent methodology,Thriller,2025-08-24,0.176,0.88,6.39,104,English,2.0,9315
+item_000009,De-engineered motivating parallelism,Comedy,2019-04-26,0.2,1.0,27.92,115,French,3.4,8911
+item_000010,Cross-platform leadingedge attitude,War,2021-04-04,0.079,0.49,15.31,64,Japanese,3.4,3169
+item_000011,Persevering 24/7 success,Comedy,2017-06-09,0.349,0.502,0.0,114,Spanish,4.2,4225
+item_000012,Streamlined coherent archive,Documentary,2020-09-10,0.091,0.616,0.0,33,French,4.4,9312
+item_000013,Fundamental global process improvement,Drama,2022-12-04,0.062,1.0,0.0,74,Japanese,4.6,6653
+item_000014,Streamlined attitude-oriented groupware,Romance,2024-07-09,0.577,0.737,15.93,52,German,4.0,3037
+item_000015,Public-key homogeneous functionalities,Crime,2022-04-07,0.626,0.912,14.84,93,English,2.8,3868
+item_000016,Virtual mobile moratorium,Science Fiction,2016-05-10,0.414,0.821,22.85,114,French,3.7,9396
+item_000017,Cloned disintermediate product,Action,2022-11-04,0.274,0.73,0.0,96,French,4.1,1027
+item_000018,Horizontal discrete synergy,Comedy,2016-11-25,0.189,0.652,14.49,70,German,4.1,5105
+item_000019,Cross-platform well-modulated productivity,Comedy,2023-01-14,0.216,1.0,0.0,105,French,3.8,3600
+item_000020,Cross-platform leadingedge concept,Crime,2022-12-09,0.242,0.876,0.0,152,Spanish,3.4,9934
+item_000021,Assimilated 6thgeneration Graphic Interface,Music,2023-12-17,0.485,0.971,0.0,136,Japanese,4.7,8816
+item_000022,Implemented heuristic hub,Drama,2020-04-21,0.426,0.528,23.08,50,Japanese,3.3,5937
+item_000023,Fully-configurable multi-tasking installation,Animation,2021-08-28,0.455,1.0,0.0,174,English,2.2,8982
+item_000024,Enterprise-wide composite conglomeration,War,2016-10-14,0.194,0.984,6.85,167,Spanish,2.5,8535
+item_000025,Multi-tiered regional software,Science Fiction,2018-05-28,0.419,1.0,4.36,82,Japanese,3.5,8371
+item_000026,Reduced client-server emulation,Science Fiction,2020-08-10,0.117,0.512,24.44,146,Spanish,3.5,7494
+item_000027,Function-based logistical extranet,Adventure,2022-08-31,0.324,1.0,17.2,108,English,3.2,59
+item_000028,Persistent executive service-desk,Drama,2021-06-18,0.134,0.497,0.0,178,English,2.1,5654
+item_000029,Compatible leadingedge hardware,Animation,2025-11-15,0.359,0.739,16.68,45,English,5.0,7744
+item_000030,Innovative scalable interface,Adventure,2022-11-25,0.091,0.795,9.32,76,Spanish,4.3,6897
+item_000031,Persevering exuding customer loyalty,Music,2025-12-28,0.084,1.0,29.78,127,German,4.6,6194
+item_000032,Polarized bi-directional encoding,Mystery,2019-10-24,0.524,0.67,3.32,168,Spanish,4.0,5707
+item_000033,Multi-channeled object-oriented frame,Comedy,2025-12-04,0.398,0.495,6.17,167,German,3.6,3658
+item_000034,Implemented 3rdgeneration protocol,Action,2019-12-15,0.483,1.0,22.92,106,German,4.0,8930
+item_000035,Advanced non-volatile software,Romance,2023-10-13,0.214,0.581,16.42,88,Spanish,3.4,2551
+item_000036,Business-focused real-time synergy,Fantasy,2020-12-18,0.203,0.504,6.46,58,English,4.4,6878
+item_000037,Horizontal zero-defect website,Action,2018-04-19,0.234,0.341,7.97,47,English,3.8,7324
+item_000038,Multi-channeled directional productivity,Adventure,2017-11-24,0.112,0.736,8.09,41,German,3.3,8853
+item_000039,Function-based systematic system engine,Drama,2023-03-17,0.311,0.99,22.87,44,Spanish,3.5,4749
+item_000040,Switchable systemic challenge,Family,2022-04-12,0.563,0.507,24.65,177,French,3.7,5263
+item_000041,Self-enabling secondary analyzer,Family,2019-02-01,0.449,0.921,9.74,66,Japanese,2.7,4933
+item_000042,Organic 5thgeneration paradigm,Fantasy,2019-08-24,0.133,0.728,0.0,45,Japanese,4.8,2879
+item_000043,De-engineered background frame,Romance,2019-04-07,0.259,0.801,17.11,42,French,4.8,6254
+item_000044,Operative context-sensitive customer loyalty,War,2017-04-26,0.278,0.619,10.23,136,German,2.4,6177
+item_000045,Quality-focused high-level moderator,Documentary,2021-01-06,0.302,0.787,22.87,151,Spanish,4.5,4937
+item_000046,Future-proofed composite extranet,Crime,2025-02-20,0.116,0.565,24.36,44,Japanese,3.2,6834
+item_000047,Polarized explicit synergy,Western,2024-09-13,0.251,0.671,16.36,129,Spanish,2.8,5421
+item_000048,Customizable maximized archive,Animation,2017-05-28,0.12,0.785,27.73,124,English,3.6,3130
+item_000049,Face-to-face systematic success,Adventure,2022-09-28,0.302,0.977,8.78,40,English,2.6,9636
+item_000050,Object-based next generation hierarchy,Western,2016-11-24,0.222,1.0,0.0,85,German,2.6,5465
+item_000051,Object-based 24/7 firmware,History,2021-05-13,0.563,0.759,28.74,33,Spanish,4.8,1932
+item_000052,Persevering holistic service-desk,Thriller,2023-06-28,0.171,0.678,0.0,92,Japanese,4.1,6508
+item_000053,Fundamental optimal implementation,Family,2024-03-22,0.183,0.449,17.0,102,German,3.4,5896
+item_000054,Multi-layered bi-directional service-desk,History,2018-05-03,0.559,0.466,0.0,96,French,3.5,8157
+item_000055,Assimilated regional open architecture,Science Fiction,2019-04-12,0.329,0.735,3.85,150,French,4.7,6083
+item_000056,Seamless directional project,Horror,2016-08-17,0.111,0.656,0.0,135,English,3.7,3635
+item_000057,Persistent tangible framework,Crime,2022-06-28,0.389,0.896,0.0,34,French,3.7,9578
+item_000058,Customizable client-driven analyzer,Romance,2025-06-17,0.02,0.977,9.55,80,French,2.7,9345
+item_000059,Innovative modular budgetary management,Family,2016-12-20,0.215,1.0,15.47,116,French,4.3,8015
+item_000060,Public-key client-driven info-mediaries,Thriller,2020-07-14,0.402,0.657,14.35,120,Spanish,2.4,8964
+item_000061,Synchronized value-added standardization,Thriller,2025-06-16,0.191,0.663,6.33,168,English,3.6,1227
+item_000062,Operative optimizing synergy,Adventure,2023-04-07,0.207,0.71,23.16,135,Spanish,4.5,3801
+item_000063,Operative solution-oriented attitude,Animation,2024-05-02,0.318,0.944,21.5,32,Spanish,3.5,6124
+item_000064,Seamless incremental focus group,Adventure,2016-04-28,0.12,0.795,0.0,153,German,2.0,8729
+item_000065,Multi-layered didactic intranet,Western,2020-06-11,0.129,0.801,12.92,34,Japanese,4.2,8787
+item_000066,Front-line high-level attitude,History,2025-10-22,0.026,1.0,0.0,34,Japanese,4.4,7064
+item_000067,Multi-layered needs-based project,Documentary,2019-08-02,0.285,0.334,4.09,54,Japanese,2.4,3154
+item_000068,Object-based even-keeled core,War,2025-09-05,0.127,0.452,8.31,120,French,4.4,1304
+item_000069,Persevering background protocol,Music,2018-02-12,0.464,0.766,0.0,133,German,3.7,3710
+item_000070,Sharable radical adapter,History,2016-07-02,0.342,0.763,20.83,50,English,2.3,6223
+item_000071,Managed dynamic capacity,Mystery,2023-11-13,0.116,0.769,0.0,171,German,2.2,164
+item_000072,Expanded asymmetric task-force,Documentary,2021-07-16,0.813,0.694,0.0,51,German,4.5,5437
+item_000073,Reverse-engineered didactic emulation,Comedy,2019-04-14,0.348,0.747,26.94,40,Spanish,2.6,9296
+item_000074,Digitized zero tolerance policy,Thriller,2016-01-10,0.11,0.71,0.0,99,English,4.8,4603
+item_000075,Digitized clear-thinking moratorium,Western,2018-07-03,0.211,0.641,17.33,38,Spanish,4.8,5162
+item_000076,Enhanced bifurcated protocol,Action,2024-08-30,0.622,0.757,0.0,83,Japanese,2.4,6535
+item_000077,De-engineered 24/7 help-desk,Animation,2023-11-24,0.232,1.0,0.0,106,Spanish,3.7,9294
+item_000078,Front-line optimizing Graphic Interface,Mystery,2016-02-26,0.1,0.441,0.0,168,French,3.2,2302
+item_000079,Fundamental actuating capacity,Animation,2023-06-01,0.498,0.914,15.51,118,English,2.3,3813
+item_000080,Progressive bifurcated synergy,Animation,2016-08-19,0.181,0.404,10.87,131,French,2.1,4488
+item_000081,Organized zero-defect hierarchy,Science Fiction,2021-02-16,0.089,0.767,0.0,155,Spanish,3.1,6160
+item_000082,Customer-focused local middleware,Romance,2018-03-19,0.116,0.7,6.38,179,German,2.3,4849
+item_000083,Seamless 6thgeneration superstructure,Family,2023-10-31,0.103,0.707,21.67,51,French,2.5,2537
+item_000084,Switchable multi-state framework,Mystery,2020-07-30,0.223,0.847,10.17,57,English,2.0,5060
+item_000085,Assimilated analyzing matrices,Science Fiction,2024-06-21,0.145,0.425,11.43,99,English,2.4,3080
+item_000086,Optimized systemic benchmark,Romance,2020-11-24,0.177,0.51,0.0,144,Japanese,3.7,6695
+item_000087,Organic asynchronous artificial intelligence,Comedy,2019-03-21,0.096,0.653,1.75,120,Japanese,2.3,9808
+item_000088,Digitized asymmetric capacity,Horror,2018-09-30,0.416,0.774,26.04,33,French,3.2,1397
+item_000089,Sharable optimal neural-net,Western,2023-02-13,0.205,0.538,27.24,92,Japanese,3.6,6247
+item_000090,Multi-tiered radical moderator,Documentary,2018-12-12,0.084,0.614,5.02,107,French,3.5,1046
+item_000091,Profit-focused real-time Internet solution,Documentary,2016-12-27,0.427,0.701,13.6,137,French,3.5,1270
+item_000092,Total bifurcated projection,Music,2022-07-04,0.04,0.554,8.29,93,German,3.8,3213
+item_000093,Visionary neutral success,Science Fiction,2024-08-26,0.604,0.672,4.09,107,English,4.8,5453
+item_000094,Optional local emulation,Mystery,2020-02-19,0.228,0.874,0.0,114,German,3.0,9748
+item_000095,Persevering impactful instruction set,Crime,2023-04-18,0.247,0.938,9.7,81,German,2.9,6534
+item_000096,Intuitive interactive functionalities,Horror,2022-08-25,0.236,0.946,9.44,155,Japanese,4.3,5349
+item_000097,Multi-layered coherent software,Mystery,2025-03-24,0.584,0.807,0.0,101,German,3.1,9248
+item_000098,Cloned background artificial intelligence,Drama,2016-12-05,0.277,0.911,18.16,169,Spanish,4.0,9022
+item_000099,Cross-platform value-added support,Action,2019-09-22,0.16,0.913,0.0,148,Spanish,3.3,4783
+item_000100,De-engineered next generation approach,Animation,2021-11-11,0.498,0.762,24.74,134,German,2.4,4971
+item_000101,Realigned next generation groupware,Family,2022-09-12,0.324,0.756,8.32,69,German,4.4,1221
+item_000102,Open-source heuristic secured line,Science Fiction,2025-05-29,0.707,0.679,29.72,152,Japanese,3.2,8310
+item_000103,Optimized uniform application,Romance,2025-09-06,0.153,0.799,16.76,122,Japanese,3.8,1402
+item_000104,Right-sized fault-tolerant help-desk,Comedy,2017-01-12,0.338,0.534,23.29,120,Spanish,3.9,735
+item_000105,Profit-focused didactic collaboration,Mystery,2022-07-26,0.398,0.626,0.0,114,German,2.3,1625
+item_000106,Face-to-face bi-directional hardware,Fantasy,2024-06-14,0.123,0.804,0.0,86,Japanese,4.2,9152
+item_000107,Multi-layered bifurcated task-force,Family,2018-10-13,0.296,0.265,13.92,130,German,4.3,9653
+item_000108,Face-to-face interactive open architecture,War,2025-09-29,0.352,0.766,5.36,36,German,2.3,6825
+item_000109,Secured reciprocal service-desk,Animation,2022-06-04,0.507,0.721,4.36,66,French,2.9,7470
+item_000110,Assimilated real-time protocol,Drama,2024-04-17,0.529,0.696,16.1,119,German,2.3,7422
+item_000111,Future-proofed 4thgeneration contingency,Horror,2018-09-24,0.11,0.505,0.0,47,French,2.1,1895
+item_000112,Virtual fault-tolerant Graphical User Interface,Action,2019-07-05,0.389,0.589,25.62,57,Spanish,4.8,4006
+item_000113,Enterprise-wide client-server open system,War,2022-07-28,0.209,0.346,6.05,70,French,3.7,7580
+item_000114,Cloned client-server support,Family,2022-04-30,0.616,0.683,24.12,77,Spanish,3.9,7090
+item_000115,Assimilated background synergy,Mystery,2021-04-20,0.27,0.793,0.0,37,Japanese,4.6,7375
+item_000116,Multi-tiered intangible knowledgebase,Romance,2019-05-29,0.172,0.961,12.27,84,Spanish,2.8,1035
+item_000117,Multi-layered fault-tolerant success,Comedy,2019-03-29,0.399,0.702,24.18,167,Spanish,3.1,3238
+item_000118,Re-contextualized radical artificial intelligence,Science Fiction,2024-10-30,0.229,0.742,0.0,59,French,4.0,8029
+item_000119,Distributed cohesive system engine,War,2022-03-05,0.181,0.521,29.0,110,Japanese,3.2,6441
+item_000120,Synergistic attitude-oriented flexibility,Comedy,2020-06-05,0.28,0.862,0.0,119,French,4.5,2836
+item_000121,Optimized mobile portal,History,2020-06-01,0.139,0.623,0.0,51,Spanish,2.9,3918
+item_000122,Future-proofed didactic system engine,History,2021-02-13,0.282,0.754,4.38,125,Spanish,3.5,6862
+item_000123,Monitored intermediate budgetary management,Crime,2018-10-30,0.109,0.936,0.0,177,German,3.3,7983
+item_000124,Synergistic optimizing matrix,Western,2021-04-07,0.245,0.415,0.0,74,Japanese,2.5,4742
+item_000125,Integrated 6thgeneration definition,Crime,2019-12-13,0.409,0.577,0.0,77,French,4.5,888
+item_000126,Right-sized analyzing ability,Music,2018-01-15,0.091,0.866,28.59,154,Spanish,2.6,6300
+item_000127,Extended zero administration challenge,Western,2023-08-22,0.402,0.959,0.0,159,German,3.2,8066
+item_000128,Implemented fresh-thinking capability,Romance,2016-01-28,0.134,0.67,0.0,143,German,2.5,9273
+item_000129,User-friendly intermediate conglomeration,Action,2017-04-15,0.174,0.699,0.0,86,French,2.1,3693
+item_000130,Public-key tertiary emulation,Western,2020-12-31,0.207,1.0,9.36,147,Japanese,4.2,8125
+item_000131,Synchronized heuristic archive,Western,2019-12-20,0.08,0.481,15.8,176,English,2.8,8908
+item_000132,User-centric 6thgeneration Internet solution,Music,2016-03-08,0.053,0.749,0.0,168,English,4.3,7241
+item_000133,Compatible foreground orchestration,Western,2020-04-16,0.08,0.331,7.33,138,English,4.2,4065
+item_000134,Open-architected tertiary productivity,History,2020-03-04,0.361,0.668,26.36,38,German,2.8,1435
+item_000135,Customizable impactful adapter,Science Fiction,2025-08-29,0.311,0.621,26.08,60,Spanish,2.6,9642
+item_000136,Down-sized regional knowledgebase,Music,2024-04-26,0.284,0.842,25.96,139,Spanish,3.8,3395
+item_000137,Multi-lateral background Internet solution,Drama,2024-06-10,0.193,1.0,24.35,175,French,3.6,9788
+item_000138,Fully-configurable intermediate parallelism,Western,2020-01-01,0.175,0.553,0.0,73,French,4.9,4804
+item_000139,Configurable hybrid function,History,2023-06-16,0.521,0.683,17.6,161,English,2.4,6753
+item_000140,Face-to-face full-range time-frame,Adventure,2017-09-05,0.2,0.745,29.77,62,Spanish,2.7,5287
+item_000141,Profound scalable budgetary management,Family,2021-04-21,0.253,0.892,23.07,130,German,2.4,4412
+item_000142,Ergonomic zero-defect hardware,Romance,2019-07-05,0.272,1.0,11.87,49,English,3.2,4568
+item_000143,Stand-alone client-server encoding,Music,2017-01-09,0.239,0.63,14.18,154,French,3.7,1536
+item_000144,Function-based dedicated conglomeration,Science Fiction,2022-01-08,0.197,0.222,19.4,121,English,4.4,6526
+item_000145,Virtual well-modulated projection,Drama,2016-10-01,0.303,0.803,29.07,84,German,2.8,4656
+item_000146,Visionary responsive methodology,Horror,2020-08-20,0.186,0.578,16.86,63,Japanese,4.6,5641
+item_000147,Re-contextualized well-modulated paradigm,Adventure,2020-06-26,0.412,0.71,0.0,41,English,3.9,7539
+item_000148,Re-contextualized secondary productivity,Action,2025-11-11,0.452,0.773,4.59,70,German,3.4,7019
+item_000149,Inverse responsive functionalities,Drama,2017-07-04,0.421,0.77,29.87,63,French,2.5,4499
+item_000150,Cloned methodical intranet,Animation,2022-04-24,0.233,0.989,19.97,94,English,3.1,2721
+item_000151,Grass-roots optimizing approach,Adventure,2019-07-08,0.31,0.749,0.0,131,French,4.2,3846
+item_000152,Compatible fault-tolerant Local Area Network,Romance,2020-07-07,0.016,0.545,0.0,53,English,2.0,7822
+item_000153,Centralized holistic forecast,Animation,2016-10-06,0.658,0.706,0.0,63,Japanese,2.7,7301
+item_000154,Cross-group reciprocal policy,Action,2021-01-25,0.123,0.772,0.0,32,French,4.5,6929
+item_000155,Persistent optimal neural-net,Crime,2025-07-16,0.227,0.159,0.0,152,English,2.7,1473
+item_000156,User-centric 6thgeneration knowledge user,Comedy,2025-02-01,0.21,0.827,3.98,124,French,2.4,2191
+item_000157,Re-engineered solution-oriented core,Crime,2019-03-19,0.119,0.684,2.97,174,English,3.8,2698
+item_000158,Phased motivating collaboration,Science Fiction,2025-07-29,0.22,0.682,11.17,84,Spanish,4.8,7258
+item_000159,Organized bi-directional workforce,Drama,2024-12-27,0.035,0.544,3.5,55,Spanish,4.3,9669
+item_000160,Mandatory transitional artificial intelligence,Mystery,2021-01-16,0.13,0.86,11.18,139,French,4.4,4069
+item_000161,Enhanced 6thgeneration encryption,Fantasy,2023-01-27,0.411,0.803,0.0,51,Spanish,3.7,9840
+item_000162,Organic multi-tasking model,History,2022-02-04,0.214,0.853,0.0,36,French,2.6,9953
+item_000163,Multi-lateral holistic forecast,War,2019-11-15,0.454,0.679,6.46,130,French,3.9,3931
+item_000164,Vision-oriented global service-desk,Thriller,2021-12-23,0.28,0.739,0.0,128,English,2.7,9740
+item_000165,Self-enabling secondary groupware,Animation,2016-08-27,0.433,0.85,16.31,33,French,4.8,2172
+item_000166,Cross-platform next generation service-desk,Mystery,2019-11-12,0.42,0.573,25.95,175,German,3.1,2840
+item_000167,Function-based uniform protocol,Thriller,2025-08-22,0.07,0.392,28.67,48,English,3.8,235
+item_000168,Robust coherent groupware,Fantasy,2016-10-23,0.275,0.299,7.25,45,German,3.5,8219
+item_000169,Switchable client-server hardware,Romance,2019-02-06,0.231,1.0,0.0,138,German,2.2,8801
+item_000170,Streamlined tangible protocol,Western,2019-12-01,0.026,0.655,0.0,69,French,2.3,1304
+item_000171,Right-sized tertiary artificial intelligence,War,2019-02-03,0.386,0.48,27.7,69,Japanese,3.0,9618
+item_000172,Multi-tiered secondary utilization,Animation,2019-04-13,0.351,0.494,9.98,141,Spanish,2.2,1422
+item_000173,De-engineered static standardization,Romance,2024-04-15,0.422,0.4,4.35,44,French,4.0,2887
+item_000174,User-centric systemic moderator,Comedy,2016-12-06,0.094,0.877,1.36,65,English,2.5,5690
+item_000175,Synchronized interactive migration,War,2019-08-13,0.137,0.929,15.99,96,Spanish,3.1,4413
+item_000176,Multi-lateral fault-tolerant contingency,Comedy,2025-07-05,0.085,0.625,0.0,37,French,4.4,4466
+item_000177,Mandatory zero administration matrix,War,2017-12-01,0.453,0.578,2.84,177,English,3.5,8378
+item_000178,Devolved coherent archive,Music,2018-12-15,0.218,0.481,2.6,175,Spanish,3.1,4189
+item_000179,Cross-platform motivating throughput,Comedy,2021-05-24,0.088,0.914,0.0,176,English,2.7,8346
+item_000180,User-centric multi-tasking alliance,Action,2022-08-14,0.462,0.768,2.27,33,Spanish,2.1,5973
+item_000181,Visionary regional capacity,Mystery,2021-12-20,0.221,0.396,27.68,75,English,3.7,6880
+item_000182,Distributed cohesive contingency,Family,2024-04-23,0.172,0.717,10.32,136,French,2.8,1286
+item_000183,Visionary regional workforce,Music,2025-01-09,0.129,0.605,0.0,60,Japanese,4.0,872
+item_000184,Up-sized leadingedge analyzer,Documentary,2020-02-08,0.225,0.613,0.0,87,Japanese,4.9,6578
+item_000185,Synergistic uniform encoding,Animation,2025-09-10,0.29,0.558,0.0,149,French,4.3,5100
+item_000186,Seamless executive system engine,Horror,2023-06-26,0.28,0.698,0.0,52,Japanese,3.4,6054
+item_000187,Organized discrete monitoring,Drama,2018-05-22,0.346,0.756,0.0,104,Japanese,4.4,3984
+item_000188,Phased content-based hub,Science Fiction,2022-10-12,0.228,0.772,11.67,156,Spanish,4.2,8964
+item_000189,Re-engineered leadingedge Local Area Network,Family,2023-09-10,0.207,0.779,5.36,134,English,2.7,5685
+item_000190,Vision-oriented homogeneous middleware,Action,2021-04-09,0.633,0.601,28.57,30,German,4.5,5048
+item_000191,Diverse dedicated website,Comedy,2022-01-16,0.634,0.098,0.0,82,Japanese,4.9,6888
+item_000192,Function-based actuating project,Thriller,2020-10-20,0.326,0.482,0.0,45,Spanish,4.1,1534
+item_000193,Multi-layered neutral benchmark,Adventure,2023-02-10,0.345,0.799,0.0,89,Japanese,3.2,6112
+item_000194,Programmable bottom-line forecast,Science Fiction,2016-11-01,0.007,0.592,29.25,51,Japanese,2.3,2197
+item_000195,Diverse encompassing knowledge user,Mystery,2025-01-19,0.633,0.709,0.0,49,Japanese,3.7,7136
+item_000196,Digitized intermediate array,Crime,2025-06-18,0.201,0.604,7.86,96,French,4.8,6448
+item_000197,Face-to-face local hardware,Horror,2025-04-21,0.547,0.699,10.21,99,Spanish,2.2,3331
+item_000198,Operative actuating infrastructure,Crime,2021-01-06,0.27,0.784,23.61,179,English,2.5,2703
+item_000199,Front-line human-resource artificial intelligence,Science Fiction,2019-09-30,0.041,0.387,14.51,134,English,3.6,3411
+item_000200,Assimilated foreground attitude,Science Fiction,2024-05-22,0.061,0.684,9.93,97,English,2.3,4994
+item_000201,Streamlined full-range utilization,Adventure,2017-06-16,0.138,0.733,7.23,113,Spanish,2.3,4076
+item_000202,Automated executive leverage,Music,2022-12-16,0.404,0.747,12.48,42,French,2.8,2858
+item_000203,Devolved well-modulated strategy,Action,2020-09-08,0.431,0.522,28.6,145,Japanese,4.2,4103
+item_000204,Seamless 24hour artificial intelligence,Comedy,2016-03-09,0.412,0.758,14.39,65,English,2.0,3651
+item_000205,Extended coherent neural-net,Crime,2025-05-26,0.041,0.595,6.74,132,French,4.1,1386
+item_000206,Robust multi-tasking interface,Fantasy,2017-02-09,0.039,0.686,27.6,49,English,5.0,3249
+item_000207,Horizontal disintermediate framework,Science Fiction,2017-03-20,0.222,0.895,0.0,62,English,4.7,5442
+item_000208,Front-line intangible productivity,Comedy,2023-12-09,0.184,0.802,0.0,40,German,2.2,9412
+item_000209,Persevering asymmetric budgetary management,Romance,2024-05-13,0.354,0.658,24.82,131,German,2.1,7000
+item_000210,Proactive radical monitoring,Documentary,2016-02-29,0.643,0.503,0.0,120,Spanish,4.7,4515
+item_000211,Profound object-oriented encoding,Fantasy,2023-03-08,0.227,0.841,13.92,68,English,3.8,4036
+item_000212,Implemented interactive ability,History,2022-02-22,0.132,0.709,15.46,170,German,2.2,4593
+item_000213,Front-line object-oriented instruction set,Mystery,2017-11-14,0.067,0.901,4.97,81,Japanese,2.7,8917
+item_000214,Synchronized attitude-oriented moderator,Action,2025-09-29,0.32,0.944,29.68,121,German,3.6,7950
+item_000215,Cloned multi-tasking moratorium,Music,2021-01-26,0.152,0.88,27.46,158,French,3.2,2956
+item_000216,Profit-focused neutral adapter,Action,2019-11-26,0.511,0.795,10.24,86,English,4.7,4612
+item_000217,Phased 6thgeneration productivity,Adventure,2019-11-13,0.395,0.637,24.44,150,Japanese,3.1,9578
+item_000218,Multi-layered eco-centric synergy,Family,2016-02-28,0.438,0.691,29.24,55,Spanish,4.0,4376
+item_000219,Cloned grid-enabled encoding,Western,2023-04-30,0.186,0.709,24.66,44,Spanish,3.7,6373
+item_000220,Self-enabling bi-directional throughput,Music,2021-10-25,0.26,0.818,0.0,74,Spanish,2.7,5220
+item_000221,Versatile full-range challenge,Music,2016-06-09,0.339,0.939,27.5,37,French,4.8,9244
+item_000222,Quality-focused global project,Crime,2017-09-30,0.185,0.352,17.32,78,German,3.6,2886
+item_000223,Vision-oriented systemic Local Area Network,Thriller,2025-10-21,0.129,0.829,0.0,39,English,2.2,9867
+item_000224,Polarized responsive contingency,Family,2024-02-11,0.009,0.731,1.57,152,English,3.0,3310
+item_000225,Cloned transitional time-frame,Crime,2025-06-07,0.354,0.619,10.87,75,French,2.2,2430
+item_000226,Automated explicit customer loyalty,Crime,2016-06-08,0.235,0.765,0.0,58,Japanese,4.6,1198
+item_000227,Exclusive 6thgeneration functionalities,Music,2025-05-01,0.264,0.507,0.0,131,Japanese,2.3,4954
+item_000228,Profound hybrid moratorium,Horror,2020-09-24,0.332,0.797,4.95,70,German,4.4,7992
+item_000229,Automated web-enabled project,Horror,2017-11-28,0.441,0.869,6.04,173,Japanese,4.4,3667
+item_000230,Multi-channeled zero-defect application,Documentary,2024-08-27,0.265,0.488,11.96,105,Spanish,2.5,39
+item_000231,Managed encompassing capability,Mystery,2023-12-28,0.339,0.256,25.66,175,English,2.5,5223
+item_000232,Optional impactful synergy,Family,2020-05-24,0.355,0.77,0.0,174,English,4.8,2314
+item_000233,Networked global contingency,Horror,2020-12-16,0.309,0.254,22.6,90,French,4.9,2760
+item_000234,Proactive holistic website,Animation,2021-03-10,0.142,0.632,24.82,115,German,2.0,3445
+item_000235,Configurable upward-trending interface,Family,2016-10-14,0.287,0.836,21.09,119,French,4.4,30
+item_000236,Robust contextually-based moratorium,Adventure,2018-12-08,0.061,0.796,0.0,128,German,4.2,2735
+item_000237,Customer-focused attitude-oriented Graphic Interface,Romance,2022-08-10,0.368,0.759,0.0,156,German,3.1,6159
+item_000238,Integrated local portal,Comedy,2023-03-05,0.423,0.39,0.0,152,Japanese,4.0,3705
+item_000239,Down-sized system-worthy intranet,Documentary,2019-07-07,0.257,1.0,14.08,38,French,2.1,4288
+item_000240,Balanced upward-trending help-desk,Comedy,2022-02-23,0.284,0.87,3.14,73,German,2.5,1238
+item_000241,Optional even-keeled productivity,Western,2025-10-19,0.296,0.957,28.3,53,French,3.8,7919
+item_000242,Centralized asynchronous secured line,Action,2022-05-16,0.339,0.608,13.5,72,Japanese,4.7,2583
+item_000243,Multi-lateral multimedia website,Adventure,2023-07-01,0.529,0.757,0.0,55,French,2.6,3122
+item_000244,Diverse 4thgeneration circuit,Romance,2024-06-26,0.448,0.784,21.21,168,French,4.0,4882
+item_000245,Synergistic zero tolerance intranet,Family,2016-05-06,0.156,0.508,0.0,54,English,3.2,9015
+item_000246,Cloned disintermediate time-frame,Thriller,2022-06-13,0.246,0.266,5.44,122,English,3.3,4835
+item_000247,Multi-lateral human-resource open system,Thriller,2016-04-27,0.16,0.429,0.0,81,English,2.1,2808
+item_000248,Distributed systematic knowledge user,History,2025-06-27,0.202,0.838,0.0,50,German,4.5,5062
+item_000249,Multi-layered leadingedge task-force,Mystery,2016-10-06,0.246,0.686,14.65,97,English,3.9,6359
+item_000250,Devolved multi-tasking hierarchy,Documentary,2019-12-24,0.258,0.664,11.75,127,French,2.6,741
+item_000251,Streamlined even-keeled encryption,Fantasy,2025-08-08,0.12,0.52,0.0,142,German,2.8,4410
+item_000252,Assimilated user-facing contingency,Adventure,2020-12-27,0.131,0.936,5.37,54,English,4.0,8881
+item_000253,Networked next generation capability,Romance,2018-08-13,0.443,0.59,29.14,180,Spanish,3.7,6352
+item_000254,Fundamental tertiary knowledge user,War,2018-02-21,0.443,0.848,0.0,137,Japanese,4.1,7789
+item_000255,Seamless executive solution,Family,2025-02-28,0.188,0.853,14.8,50,German,4.7,578
+item_000256,Pre-emptive dedicated capability,War,2017-05-09,0.066,0.774,0.0,176,Japanese,4.4,2425
+item_000257,Compatible local conglomeration,Comedy,2024-12-25,0.312,0.654,28.52,144,Spanish,4.8,2748
+item_000258,Organic background workforce,Drama,2022-10-26,0.516,0.499,24.44,62,English,3.3,7143
+item_000259,Intuitive static hardware,Drama,2023-02-03,0.445,1.0,0.0,67,Japanese,2.8,1107
+item_000260,Reactive needs-based frame,Animation,2024-11-29,0.133,0.454,12.24,131,Japanese,3.0,4535
+item_000261,Diverse transitional strategy,War,2025-04-09,0.48,0.581,0.0,147,English,4.4,9636
+item_000262,Sharable context-sensitive utilization,War,2019-08-12,0.289,0.656,23.66,58,German,2.4,9293
+item_000263,Face-to-face bottom-line customer loyalty,Comedy,2023-12-02,0.137,0.866,0.0,57,Japanese,4.3,4697
+item_000264,Front-line modular algorithm,Western,2019-08-10,0.407,0.662,26.51,135,French,3.1,7965
+item_000265,Re-engineered holistic Local Area Network,Thriller,2024-01-13,0.499,0.484,0.0,39,Spanish,2.8,2366
+item_000266,Reactive clear-thinking pricing structure,Mystery,2024-11-03,0.643,0.644,2.11,114,Spanish,2.1,7795
+item_000267,Cloned fault-tolerant infrastructure,Fantasy,2025-12-29,0.484,0.887,27.0,35,French,4.5,4975
+item_000268,Up-sized mission-critical moderator,History,2020-02-08,0.13,0.631,0.0,101,German,4.6,1619
+item_000269,Open-source object-oriented archive,Family,2017-04-01,0.331,0.296,4.89,143,French,2.8,6838
+item_000270,Intuitive secondary archive,Animation,2020-06-30,0.542,0.711,6.44,84,German,4.2,8472
+item_000271,Synergized multi-state hardware,Music,2017-04-12,0.219,0.679,24.8,161,Spanish,2.2,8313
+item_000272,Vision-oriented neutral productivity,Mystery,2021-11-16,0.105,0.567,4.92,164,Japanese,2.1,3168
+item_000273,Visionary clear-thinking Internet solution,Drama,2021-01-09,0.301,0.592,25.26,93,English,3.4,5914
+item_000274,Centralized bottom-line model,Drama,2017-07-11,0.546,0.297,8.94,148,Japanese,3.2,2039
+item_000275,Down-sized cohesive Graphic Interface,Action,2025-05-06,0.143,0.421,8.01,155,Japanese,3.3,7785
+item_000276,Face-to-face grid-enabled model,Western,2024-12-12,0.281,0.825,11.13,71,French,4.2,1490
+item_000277,Configurable eco-centric customer loyalty,History,2022-05-07,0.199,0.749,1.79,42,Spanish,4.6,3521
+item_000278,Reactive even-keeled capacity,Family,2022-04-01,0.19,0.606,19.76,82,French,4.0,8419
+item_000279,Seamless national array,Action,2021-01-08,0.095,0.83,0.0,32,German,4.7,2847
+item_000280,Down-sized optimizing paradigm,Action,2017-07-16,0.464,0.839,7.48,108,French,3.3,6178
+item_000281,Switchable regional success,Music,2025-01-07,0.458,0.585,14.3,85,German,2.9,8540
+item_000282,Mandatory non-volatile analyzer,Mystery,2024-04-01,0.569,0.541,17.94,31,Japanese,5.0,6141
+item_000283,Assimilated attitude-oriented analyzer,Western,2025-06-26,0.138,0.749,0.0,102,French,4.1,7902
+item_000284,Visionary object-oriented firmware,Animation,2022-07-05,0.353,0.802,0.0,116,French,3.9,4546
+item_000285,Visionary object-oriented instruction set,Fantasy,2022-03-06,0.58,0.411,20.02,106,Spanish,2.4,3947
+item_000286,Assimilated modular product,Adventure,2021-06-14,0.365,0.891,24.35,133,French,4.0,427
+item_000287,Stand-alone exuding matrices,Thriller,2018-06-12,0.318,0.819,29.92,96,German,3.2,588
+item_000288,Synergized impactful framework,Drama,2020-07-13,0.279,1.0,10.94,86,Japanese,3.9,7804
+item_000289,Team-oriented analyzing complexity,Music,2020-05-23,0.367,0.722,15.7,73,Japanese,2.5,1609
+item_000290,Polarized maximized database,Thriller,2019-05-26,0.296,0.742,4.7,96,Japanese,4.3,3009
+item_000291,Digitized foreground structure,Horror,2019-03-11,0.304,0.69,0.0,52,Spanish,3.1,5041
+item_000292,Monitored impactful capacity,Romance,2023-08-09,0.227,0.542,23.84,114,French,2.8,4827
+item_000293,Profound next generation benchmark,Science Fiction,2019-03-10,0.225,0.799,25.68,150,English,4.6,9571
+item_000294,Persistent bottom-line flexibility,Animation,2020-06-29,0.536,0.526,14.68,79,Japanese,2.4,6263
+item_000295,Digitized bandwidth-monitored application,War,2018-11-25,0.301,0.619,0.0,106,German,2.2,2480
+item_000296,Networked reciprocal instruction set,Crime,2018-06-24,0.167,0.567,29.77,117,German,5.0,7506
+item_000297,Diverse fresh-thinking orchestration,Crime,2023-03-18,0.307,0.777,10.17,76,English,3.5,2907
+item_000298,Ergonomic well-modulated complexity,Horror,2020-12-24,0.116,0.906,0.0,44,English,3.4,3440
+item_000299,Profound maximized methodology,Documentary,2024-10-15,0.32,0.704,17.7,70,German,4.4,1452
+item_000300,Proactive 3rdgeneration array,Crime,2025-06-13,0.174,0.756,18.81,139,German,3.3,7831
+item_000301,Profit-focused logistical encoding,Mystery,2018-02-23,0.133,0.639,1.13,166,Spanish,4.2,240
+item_000302,Multi-channeled actuating application,Horror,2018-10-23,0.036,0.677,0.0,165,Spanish,2.1,77
+item_000303,Right-sized solution-oriented service-desk,Family,2020-09-14,0.259,0.31,7.55,118,French,2.4,6294
+item_000304,Public-key 24/7 benchmark,War,2020-04-22,0.347,0.647,18.06,72,English,4.5,4895
+item_000305,Fundamental upward-trending hierarchy,History,2023-08-21,0.038,0.616,14.21,163,Japanese,3.6,7115
+item_000306,Multi-lateral 6thgeneration initiative,Crime,2016-07-04,0.46,0.761,10.93,155,French,4.3,2711
+item_000307,Realigned content-based hierarchy,Mystery,2021-07-12,0.182,0.644,0.0,34,Spanish,2.7,2159
+item_000308,Compatible human-resource middleware,Drama,2020-07-02,0.147,0.687,22.28,180,Japanese,2.5,6016
+item_000309,Reactive even-keeled process improvement,Adventure,2022-10-20,0.223,0.49,11.87,95,Japanese,3.9,9740
+item_000310,Decentralized clear-thinking attitude,Adventure,2019-12-08,0.546,0.818,20.19,35,English,4.1,6838
+item_000311,Mandatory next generation hierarchy,Science Fiction,2023-07-19,0.411,0.548,12.02,170,French,3.4,2518
+item_000312,Exclusive real-time migration,Drama,2020-01-05,0.146,0.837,21.15,32,French,3.3,1664
+item_000313,Balanced 6thgeneration alliance,War,2017-05-14,0.522,0.594,8.82,65,German,4.5,1728
+item_000314,Managed methodical model,War,2020-07-26,0.153,0.806,21.83,60,French,2.3,1751
+item_000315,Robust multimedia challenge,Thriller,2019-04-12,0.215,0.89,6.75,81,French,4.5,3314
+item_000316,Seamless foreground complexity,Music,2019-12-05,0.266,0.685,21.39,105,Spanish,2.1,8142
+item_000317,Seamless user-facing framework,Drama,2021-12-07,0.339,1.0,20.95,153,French,2.7,218
+item_000318,Profit-focused multimedia monitoring,Animation,2020-11-23,0.542,0.497,0.0,58,Japanese,4.0,2453
+item_000319,Re-contextualized exuding leverage,Animation,2024-02-26,0.116,0.899,23.6,49,English,4.7,3797
+item_000320,Multi-layered full-range service-desk,Science Fiction,2017-02-03,0.575,0.795,29.66,105,French,3.4,1645
+item_000321,Operative optimal function,Documentary,2023-12-19,0.086,0.536,26.34,104,French,4.4,5133
+item_000322,Up-sized system-worthy product,Romance,2016-04-06,0.164,0.698,22.41,54,English,2.0,2277
+item_000323,Phased empowering projection,Documentary,2023-10-29,0.306,0.495,10.52,142,Japanese,2.8,1532
+item_000324,Vision-oriented optimal orchestration,Music,2018-04-10,0.251,0.469,24.62,76,English,3.2,7489
+item_000325,Business-focused optimal matrices,Fantasy,2017-09-13,0.117,0.446,25.23,152,German,3.9,2742
+item_000326,Self-enabling uniform process improvement,Comedy,2023-09-29,0.192,0.959,4.83,45,Spanish,2.3,9688
+item_000327,Multi-tiered client-server software,Thriller,2018-06-02,0.476,0.789,24.26,142,Spanish,3.8,5885
+item_000328,Re-engineered tangible budgetary management,Action,2017-11-26,0.314,0.671,0.0,63,German,4.8,1860
+item_000329,Organic foreground instruction set,Romance,2017-07-06,0.722,0.608,0.0,142,English,2.2,5158
+item_000330,Team-oriented demand-driven installation,Action,2021-01-06,0.346,0.946,0.0,164,Japanese,4.2,3679
+item_000331,Seamless methodical support,Horror,2023-04-10,0.594,0.717,16.04,54,German,4.0,4082
+item_000332,Triple-buffered client-driven model,Thriller,2018-01-26,0.216,0.433,0.0,118,German,2.4,9157
+item_000333,Inverse stable matrices,Adventure,2021-04-02,0.201,0.765,1.33,70,Japanese,4.5,8133
+item_000334,Intuitive context-sensitive knowledgebase,Documentary,2025-02-12,0.088,0.801,3.16,155,French,2.7,4567
+item_000335,Mandatory needs-based help-desk,Adventure,2022-10-03,0.22,0.569,15.69,170,German,3.2,3860
+item_000336,Up-sized systemic project,Animation,2024-01-13,0.254,0.991,14.3,176,German,2.3,8176
+item_000337,Fundamental reciprocal matrices,Science Fiction,2017-12-02,0.317,0.976,10.16,157,English,2.3,6765
+item_000338,Fully-configurable even-keeled open architecture,Adventure,2018-12-25,0.419,0.877,17.15,30,English,4.4,5000
+item_000339,Innovative zero administration forecast,War,2023-01-18,0.215,0.739,17.3,146,French,3.1,899
+item_000340,Team-oriented tertiary matrix,Family,2019-03-03,0.615,0.813,0.0,146,French,3.7,9839
+item_000341,Monitored next generation utilization,Thriller,2023-03-20,0.154,0.615,21.77,123,German,2.3,3643
+item_000342,Horizontal bottom-line orchestration,Action,2022-10-06,0.151,0.445,10.89,104,Japanese,3.6,1751
+item_000343,Multi-tiered hybrid hardware,Adventure,2025-07-18,0.169,1.0,0.0,72,German,2.4,6714
+item_000344,Digitized explicit analyzer,Comedy,2018-11-15,0.367,0.598,8.36,80,Spanish,2.4,6447
+item_000345,Universal attitude-oriented hardware,Drama,2025-03-28,0.567,0.553,14.24,78,French,2.3,6800
+item_000346,Streamlined eco-centric synergy,Adventure,2020-10-15,0.729,0.958,27.86,180,English,4.3,7391
+item_000347,Exclusive national flexibility,Science Fiction,2025-04-30,0.208,0.808,20.09,159,Spanish,4.9,81
+item_000348,Total encompassing challenge,War,2017-02-02,0.188,1.0,22.34,171,German,4.5,7922
+item_000349,User-centric optimizing encoding,War,2018-06-03,0.137,0.362,23.64,75,Japanese,2.5,2113
+item_000350,Synchronized multi-tasking definition,Comedy,2022-05-18,0.288,0.285,12.22,112,Japanese,4.6,6869
+item_000351,Business-focused bandwidth-monitored installation,Family,2019-04-20,0.203,0.77,8.92,117,French,3.4,2195
+item_000352,Phased bandwidth-monitored software,Crime,2023-09-15,0.169,0.672,12.96,161,French,4.5,8985
+item_000353,Adaptive neutral complexity,Horror,2020-01-25,0.228,0.432,21.63,171,Spanish,2.6,4770
+item_000354,Phased mission-critical projection,Music,2017-12-28,0.158,0.464,27.7,63,Spanish,3.5,5291
+item_000355,Horizontal fresh-thinking forecast,Comedy,2022-06-16,0.186,0.389,23.05,173,German,3.7,6849
+item_000356,Visionary background projection,Western,2021-09-27,0.191,0.501,0.0,103,German,4.4,8574
+item_000357,Public-key user-facing success,Comedy,2024-07-02,0.208,1.0,1.72,67,English,4.0,3285
+item_000358,Automated context-sensitive instruction set,Fantasy,2024-10-26,0.351,0.336,22.75,71,French,4.1,2409
+item_000359,Enhanced 5thgeneration infrastructure,Adventure,2023-11-17,0.287,1.0,21.02,105,Spanish,4.3,539
+item_000360,Enterprise-wide value-added frame,Music,2024-10-06,0.54,0.547,24.6,56,Japanese,4.6,9215
+item_000361,Advanced exuding open system,Family,2022-01-09,0.195,0.8,22.52,173,German,2.7,4722
+item_000362,Managed executive knowledgebase,Adventure,2025-11-21,0.304,0.485,27.86,129,German,4.9,5132
+item_000363,Quality-focused multi-tasking methodology,Western,2024-11-21,0.279,0.419,2.55,94,Spanish,3.9,7269
+item_000364,Devolved motivating Local Area Network,Family,2018-09-22,0.583,0.424,27.42,124,Japanese,3.6,9895
+item_000365,Customizable full-range complexity,Drama,2023-04-23,0.22,0.686,23.5,79,French,3.3,1230
+item_000366,Stand-alone eco-centric structure,Documentary,2017-11-10,0.224,0.73,28.9,161,English,3.1,7030
+item_000367,User-centric global utilization,Fantasy,2018-12-12,0.244,0.791,0.0,172,French,2.4,9578
+item_000368,Synergistic web-enabled core,Fantasy,2017-10-02,0.269,0.562,1.15,149,Spanish,2.1,5295
+item_000369,Sharable impactful interface,Adventure,2021-02-24,0.116,0.619,23.43,107,German,4.4,9023
+item_000370,Cross-group impactful secured line,Music,2016-12-13,0.263,1.0,0.0,48,French,3.6,3022
+item_000371,Devolved mission-critical Graphic Interface,War,2025-05-10,0.207,0.698,2.97,159,Spanish,3.2,8808
+item_000372,Adaptive empowering info-mediaries,Mystery,2018-05-09,0.354,0.682,3.66,86,Spanish,4.0,5434
+item_000373,Versatile encompassing groupware,Music,2019-01-07,0.315,0.67,9.5,165,German,5.0,154
+item_000374,Up-sized object-oriented access,Comedy,2018-08-12,0.247,0.617,20.39,144,Spanish,4.7,4004
+item_000375,Multi-lateral system-worthy encoding,Adventure,2016-08-13,0.223,0.329,0.0,112,German,4.7,1867
+item_000376,Decentralized maximized function,Mystery,2017-08-05,0.343,0.908,8.43,102,English,4.7,6153
+item_000377,Synergized motivating strategy,War,2023-09-12,0.194,0.573,0.0,160,German,3.5,4866
+item_000378,Team-oriented bottom-line productivity,Drama,2025-02-27,0.486,0.614,10.28,51,English,2.5,8824
+item_000379,Implemented holistic pricing structure,Western,2018-03-16,0.102,0.73,1.2,46,Spanish,4.0,3502
+item_000380,Devolved mission-critical collaboration,Romance,2020-07-19,0.273,0.599,0.0,56,Spanish,3.6,7140
+item_000381,Robust holistic instruction set,Animation,2023-01-07,0.401,0.772,0.0,69,English,3.4,5444
+item_000382,Phased web-enabled monitoring,Adventure,2024-01-07,0.311,0.599,3.53,43,Spanish,4.4,9153
+item_000383,Extended well-modulated encryption,Animation,2022-10-20,0.525,1.0,17.66,88,French,3.2,7401
+item_000384,Right-sized zero tolerance artificial intelligence,Mystery,2021-04-02,0.094,0.892,13.55,34,German,4.0,8772
+item_000385,Progressive tertiary hierarchy,Action,2016-10-11,0.134,0.42,19.59,46,Japanese,2.1,1199
+item_000386,Re-contextualized bifurcated approach,Music,2024-04-14,0.457,0.532,27.9,57,French,4.4,4947
+item_000387,Profit-focused dedicated orchestration,Animation,2021-05-13,0.413,0.864,0.0,102,German,3.1,514
+item_000388,Down-sized fresh-thinking model,Thriller,2020-06-01,0.442,0.592,5.52,86,Spanish,4.2,8951
+item_000389,Synergized demand-driven structure,History,2021-10-30,0.238,0.375,28.83,66,French,4.0,6123
+item_000390,Cross-group multimedia knowledge user,Action,2024-02-01,0.527,0.783,17.04,172,Spanish,2.4,92
+item_000391,Persevering clear-thinking migration,Mystery,2020-02-25,0.495,0.433,16.57,51,French,2.6,5643
+item_000392,Re-contextualized analyzing open architecture,Drama,2020-08-15,0.525,0.84,12.96,161,Spanish,2.5,3627
+item_000393,Integrated uniform adapter,Fantasy,2019-12-16,0.14,0.572,6.63,76,Japanese,4.6,9002
+item_000394,Adaptive value-added data-warehouse,Science Fiction,2021-10-12,0.227,0.783,19.69,48,French,4.0,4117
+item_000395,Balanced interactive hardware,Comedy,2023-01-01,0.126,0.401,6.72,178,German,4.9,5861
+item_000396,Quality-focused analyzing architecture,Crime,2025-11-10,0.133,0.852,20.46,90,English,2.9,1153
+item_000397,Phased 5thgeneration forecast,Drama,2020-02-01,0.26,0.649,0.0,111,German,3.4,5018
+item_000398,Visionary client-driven throughput,Crime,2022-05-31,0.521,0.504,0.0,174,Japanese,3.1,5192
+item_000399,Upgradable secondary instruction set,Romance,2019-09-28,0.145,0.569,5.88,110,Spanish,4.4,7155
+item_000400,Multi-tiered local implementation,Fantasy,2019-10-03,0.391,0.656,25.35,64,French,4.6,7593
+item_000401,Synergized stable moratorium,Science Fiction,2017-04-29,0.438,0.917,11.39,108,German,3.7,2889
+item_000402,Monitored bottom-line conglomeration,Animation,2025-12-04,0.35,0.744,25.4,65,Japanese,2.6,1262
+item_000403,Object-based multi-tasking capacity,Animation,2023-04-11,0.565,0.751,26.86,159,English,4.4,9494
+item_000404,Face-to-face 24hour system engine,Mystery,2016-03-23,0.539,0.6,0.0,84,English,3.7,8914
+item_000405,Innovative maximized service-desk,Western,2023-03-10,0.161,0.489,14.68,68,French,3.2,9670
+item_000406,Optimized national implementation,History,2024-03-25,0.364,1.0,0.0,64,German,3.5,1493
+item_000407,Fully-configurable logistical hardware,Mystery,2017-07-19,0.499,0.823,11.54,32,Spanish,4.5,2727
+item_000408,Ergonomic uniform task-force,War,2017-02-15,0.304,0.932,5.06,70,Spanish,3.7,9280
+item_000409,Switchable intangible pricing structure,Crime,2023-08-29,0.098,0.691,0.0,153,French,2.1,7999
+item_000410,Ameliorated disintermediate database,Family,2016-09-01,0.299,0.401,2.81,124,Spanish,2.1,3397
+item_000411,Right-sized 5thgeneration knowledge user,War,2021-12-22,0.11,0.481,0.0,122,German,3.4,7458
+item_000412,Triple-buffered actuating encryption,Adventure,2023-05-28,0.218,0.848,2.15,112,English,4.1,8552
+item_000413,Open-architected leadingedge emulation,Fantasy,2021-05-24,0.42,0.518,25.2,97,Japanese,3.6,2858
+item_000414,Versatile zero-defect approach,Mystery,2017-05-25,0.422,0.705,0.0,126,French,3.8,1285
+item_000415,Implemented discrete superstructure,War,2021-10-04,0.66,0.434,8.29,87,Japanese,3.2,5663
+item_000416,Re-engineered radical throughput,Thriller,2022-09-21,0.028,0.73,23.98,31,Japanese,4.6,7217
+item_000417,Inverse disintermediate framework,Documentary,2024-10-04,0.061,0.321,7.66,161,French,2.6,3072
+item_000418,Switchable multi-state definition,Documentary,2020-02-18,0.262,0.718,0.0,122,Japanese,4.2,1948
+item_000419,Grass-roots analyzing open architecture,Family,2025-06-25,0.046,0.595,13.01,114,English,3.4,7854
+item_000420,User-centric context-sensitive product,Thriller,2022-10-14,0.246,0.829,7.1,71,German,2.1,716
+item_000421,Realigned modular application,Crime,2025-09-20,0.288,0.885,17.62,71,Spanish,3.9,652
+item_000422,Stand-alone static implementation,Crime,2023-11-09,0.18,0.696,0.0,44,Spanish,2.8,2959
+item_000423,Intuitive tangible instruction set,War,2020-01-30,0.324,0.721,0.0,133,Japanese,4.9,315
+item_000424,Innovative homogeneous contingency,History,2023-07-17,0.166,0.577,28.46,85,German,3.8,7733
+item_000425,Phased disintermediate definition,Thriller,2019-01-02,0.321,0.53,5.94,135,Japanese,2.4,9556
+item_000426,Triple-buffered client-server workforce,Documentary,2020-08-17,0.314,1.0,0.0,160,French,2.5,5624
+item_000427,Centralized next generation installation,Science Fiction,2025-09-04,0.486,1.0,18.29,47,Spanish,3.1,2176
+item_000428,Realigned multi-tasking challenge,Comedy,2019-11-18,0.15,0.644,0.0,34,Spanish,3.6,8273
+item_000429,Function-based demand-driven groupware,Romance,2022-06-19,0.206,0.307,24.96,54,Spanish,3.4,9837
+item_000430,Organized holistic array,Adventure,2021-05-09,0.291,0.725,26.44,166,Japanese,4.3,1536
+item_000431,Ergonomic actuating flexibility,Thriller,2019-10-08,0.251,0.666,20.11,168,English,4.7,7079
+item_000432,Robust real-time analyzer,War,2024-09-25,0.565,0.92,13.19,41,Japanese,3.3,7909
+item_000433,Ergonomic well-modulated parallelism,Mystery,2023-03-29,0.272,0.727,0.0,119,Japanese,4.4,9449
+item_000434,Realigned didactic matrices,Comedy,2018-02-01,0.373,0.904,13.33,95,German,4.3,1383
+item_000435,Managed exuding access,History,2018-02-11,0.486,0.261,18.34,169,German,2.8,99
+item_000436,Ergonomic user-facing capability,Action,2023-06-20,0.483,0.424,17.75,60,Japanese,2.0,3375
+item_000437,Versatile mission-critical encryption,Horror,2022-12-15,0.142,0.655,12.85,57,Spanish,3.3,9600
+item_000438,Triple-buffered demand-driven infrastructure,Fantasy,2025-02-23,0.194,0.752,8.57,167,German,3.7,4524
+item_000439,Reactive fresh-thinking time-frame,Mystery,2018-10-30,0.281,0.551,0.0,82,German,3.7,9145
+item_000440,Persistent national projection,Thriller,2019-08-04,0.238,0.578,6.17,173,Japanese,3.5,5034
+item_000441,Fundamental high-level migration,Music,2024-10-28,0.246,0.963,23.44,131,Spanish,4.6,1961
+item_000442,Persistent bandwidth-monitored website,Family,2025-10-23,0.311,1.0,13.94,71,English,2.6,6572
+item_000443,Phased well-modulated functionalities,Horror,2025-02-21,0.14,1.0,24.21,43,Spanish,3.2,96
+item_000444,Multi-layered foreground installation,Animation,2016-06-14,0.555,0.366,24.86,150,Japanese,3.3,1059
+item_000445,Face-to-face user-facing circuit,Fantasy,2016-02-28,0.12,0.665,7.42,50,Japanese,2.1,6306
+item_000446,Reactive optimal paradigm,Mystery,2023-03-14,0.368,0.41,18.8,163,French,4.1,9798
+item_000447,Implemented coherent customer loyalty,Adventure,2019-04-18,0.199,0.575,28.42,74,German,3.3,3314
+item_000448,Multi-tiered non-volatile encryption,War,2020-12-27,0.374,0.838,9.28,38,Japanese,3.5,3805
+item_000449,Streamlined systemic Graphical User Interface,Documentary,2018-07-28,0.42,0.631,20.54,122,Spanish,4.0,2589
+item_000450,Pre-emptive uniform project,Animation,2023-05-24,0.267,0.739,0.0,100,German,3.1,6484
+item_000451,Persevering composite superstructure,Mystery,2023-12-13,0.432,0.934,17.99,162,English,4.2,1134
+item_000452,Down-sized client-driven success,Animation,2021-06-18,0.104,1.0,0.0,170,French,4.2,9170
+item_000453,Enterprise-wide needs-based project,Music,2025-07-27,0.136,0.782,0.0,118,French,2.7,3197
+item_000454,Progressive 5thgeneration archive,Science Fiction,2025-06-13,0.213,0.792,0.0,133,Japanese,2.0,2877
+item_000455,Synchronized actuating task-force,Romance,2016-01-23,0.165,0.446,15.67,173,English,3.5,5580
+item_000456,Devolved responsive emulation,Comedy,2016-09-04,0.164,1.0,0.0,161,French,4.6,9429
+item_000457,Distributed 24/7 data-warehouse,Fantasy,2021-01-20,0.411,0.666,21.12,126,Japanese,3.5,3995
+item_000458,Multi-layered analyzing process improvement,Horror,2022-05-17,0.242,0.344,0.0,147,German,4.7,458
+item_000459,Seamless mission-critical protocol,Thriller,2020-11-16,0.529,0.538,4.36,47,German,3.9,3620
+item_000460,Adaptive national neural-net,Family,2020-02-10,0.403,0.873,24.19,135,French,3.5,169
+item_000461,Ameliorated multi-tasking success,Fantasy,2018-09-29,0.117,0.632,8.19,53,German,4.0,5613
+item_000462,Horizontal 3rdgeneration middleware,Animation,2024-02-17,0.232,0.588,17.07,75,German,2.9,3590
+item_000463,Synergistic intermediate workforce,Fantasy,2025-05-24,0.61,0.99,6.29,78,German,4.2,3857
+item_000464,Enhanced bi-directional attitude,Family,2021-03-29,0.421,0.926,0.0,97,Spanish,2.7,4101
+item_000465,Front-line content-based process improvement,Music,2021-04-06,0.422,0.689,5.51,57,English,4.8,8081
+item_000466,Multi-channeled encompassing utilization,Action,2019-12-19,0.136,0.404,23.15,168,English,4.5,6091
+item_000467,Multi-layered impactful knowledgebase,Horror,2021-08-24,0.299,0.354,15.27,177,French,3.5,8384
+item_000468,Total directional framework,Fantasy,2022-11-02,0.543,1.0,0.0,131,Spanish,4.3,2111
+item_000469,Configurable solution-oriented projection,Adventure,2023-08-05,0.189,0.51,16.24,138,German,4.8,543
+item_000470,Cross-group impactful implementation,War,2019-10-08,0.262,0.401,11.06,74,German,4.9,8500
+item_000471,Phased analyzing productivity,Science Fiction,2016-02-03,0.105,0.766,10.14,32,English,4.0,6226
+item_000472,Down-sized attitude-oriented methodology,Comedy,2024-06-13,0.144,0.551,10.43,96,Spanish,3.6,3895
+item_000473,Stand-alone zero tolerance groupware,Fantasy,2021-08-28,0.201,0.712,14.66,117,French,2.6,6955
+item_000474,Cross-platform multi-tasking analyzer,Drama,2018-04-18,0.124,0.76,13.14,125,French,4.6,4591
+item_000475,Team-oriented non-volatile leverage,Science Fiction,2018-09-16,0.392,0.871,0.0,76,Japanese,2.4,9445
+item_000476,Compatible systemic focus group,Family,2024-12-28,0.281,0.648,24.6,99,Spanish,3.7,6250
+item_000477,Re-contextualized stable alliance,Drama,2017-10-16,0.11,0.61,5.22,68,German,4.4,2903
+item_000478,Intuitive 3rdgeneration database,Romance,2021-11-13,0.098,0.689,0.0,157,Spanish,5.0,8480
+item_000479,Versatile transitional infrastructure,Western,2025-04-15,0.441,0.816,21.89,154,French,2.8,9313
+item_000480,Innovative cohesive open system,Adventure,2018-05-27,0.438,0.501,12.54,71,English,2.6,4176
+item_000481,Networked systematic moratorium,Thriller,2019-04-25,0.36,0.74,25.32,54,German,4.2,4266
+item_000482,Versatile user-facing challenge,Music,2023-11-26,0.394,0.661,0.0,122,Japanese,3.7,4232
+item_000483,Team-oriented uniform artificial intelligence,Music,2021-01-02,0.152,0.871,0.0,35,German,2.4,9931
+item_000484,Monitored actuating attitude,Drama,2020-05-14,0.225,0.721,17.72,167,Spanish,4.9,4673
+item_000485,Compatible global portal,Music,2023-09-09,0.201,0.375,10.42,160,German,4.3,7332
+item_000486,Right-sized hybrid time-frame,Animation,2019-04-06,0.47,0.79,12.04,103,German,3.9,2383
+item_000487,Sharable encompassing toolset,Documentary,2025-12-03,0.335,0.563,0.0,116,German,3.9,9375
+item_000488,Pre-emptive discrete help-desk,Mystery,2021-07-12,0.177,0.679,25.61,48,English,2.5,3749
+item_000489,Multi-tiered intermediate contingency,Horror,2022-10-17,0.742,0.199,10.18,104,French,3.8,6489
+item_000490,Switchable homogeneous artificial intelligence,Fantasy,2023-09-20,0.23,0.802,26.73,122,Japanese,3.6,7387
+item_000491,Implemented dynamic structure,Romance,2016-09-24,0.153,0.652,5.84,35,Spanish,4.2,4132
+item_000492,Future-proofed coherent implementation,Animation,2023-02-11,0.427,1.0,0.0,83,Spanish,3.2,1575
+item_000493,Sharable coherent support,Animation,2019-11-23,0.156,0.988,28.16,151,Japanese,2.2,6514
+item_000494,Multi-lateral bi-directional array,War,2016-01-18,0.013,0.45,23.17,51,English,2.8,2554
+item_000495,Integrated leadingedge hierarchy,Animation,2023-08-12,0.337,0.939,19.98,129,French,2.7,4665
+item_000496,Customer-focused clear-thinking array,Science Fiction,2017-11-14,0.346,0.732,0.0,62,Spanish,3.6,2805
+item_000497,Organized next generation open architecture,Action,2021-02-13,0.607,0.864,2.01,121,French,4.6,7664
+item_000498,Customer-focused 4thgeneration array,Western,2019-07-15,0.025,0.772,28.1,170,German,2.4,8845
+item_000499,Cross-group radical policy,Documentary,2023-11-04,0.079,0.591,18.12,146,Japanese,3.3,8755
+item_000500,Networked 24/7 frame,History,2020-02-19,0.172,0.822,27.35,153,Japanese,2.7,1477
+item_000501,Vision-oriented attitude-oriented success,Science Fiction,2025-01-03,0.345,0.596,9.92,135,French,2.5,182
+item_000502,Fully-configurable object-oriented model,Action,2017-09-10,0.329,0.587,0.0,163,Spanish,3.0,7697
+item_000503,Multi-tiered composite challenge,Western,2018-09-08,0.229,0.56,0.0,32,German,4.8,7826
+item_000504,Future-proofed modular circuit,History,2016-08-18,0.159,0.954,1.25,140,French,3.8,128
+item_000505,Optional even-keeled instruction set,Western,2018-12-29,0.182,0.764,11.83,135,Japanese,3.3,4104
+item_000506,Compatible high-level extranet,Documentary,2025-06-10,0.557,1.0,0.0,129,German,2.7,1307
+item_000507,Up-sized responsive methodology,Romance,2021-12-08,0.358,0.396,19.12,162,Japanese,4.4,4464
+item_000508,Exclusive logistical benchmark,History,2017-05-08,0.045,0.708,19.8,166,French,3.2,1131
+item_000509,Adaptive hybrid groupware,Documentary,2024-05-31,0.447,0.912,0.0,64,French,2.3,7470
+item_000510,Multi-tiered full-range intranet,Science Fiction,2019-05-06,0.648,0.801,8.88,155,Spanish,3.0,2502
+item_000511,Streamlined radical challenge,Adventure,2019-01-01,0.272,0.521,29.11,35,Spanish,4.9,4632
+item_000512,Robust system-worthy customer loyalty,Fantasy,2020-10-14,0.498,0.829,4.62,142,English,2.7,2478
+item_000513,Enhanced hybrid functionalities,Action,2018-11-29,0.22,0.733,15.3,117,German,2.9,8175
+item_000514,Team-oriented scalable matrix,Music,2025-09-04,0.398,0.721,14.44,38,French,2.2,2403
+item_000515,Fully-configurable fresh-thinking implementation,Adventure,2018-10-19,0.014,0.384,8.72,130,English,3.6,2985
+item_000516,Object-based high-level budgetary management,Drama,2025-04-26,0.068,0.7,26.97,94,German,4.5,2008
+item_000517,Exclusive optimizing moratorium,Family,2017-10-18,0.094,0.933,12.15,143,Spanish,4.2,559
+item_000518,Visionary neutral algorithm,Drama,2025-07-12,0.281,0.557,14.35,54,Japanese,4.0,3425
+item_000519,Persistent tertiary database,Thriller,2020-05-19,0.401,0.821,12.27,109,French,2.5,701
+item_000520,Implemented system-worthy architecture,Western,2024-03-09,0.07,0.974,16.1,94,German,3.9,3265
+item_000521,Open-source systematic methodology,Music,2017-05-22,0.252,0.582,26.73,85,English,2.7,7123
+item_000522,Innovative disintermediate extranet,Horror,2022-08-02,0.662,1.0,1.43,100,Japanese,2.4,3992
+item_000523,Universal interactive utilization,Action,2019-10-08,0.48,1.0,0.0,40,Japanese,4.4,7796
+item_000524,Organized radical matrices,Crime,2021-10-26,0.51,0.541,0.0,125,English,2.7,8200
+item_000525,Public-key motivating solution,Animation,2020-03-07,0.225,0.761,20.88,116,English,2.2,2531
+item_000526,Automated high-level standardization,Western,2024-12-14,0.104,0.931,0.0,57,Spanish,3.5,5199
+item_000527,Public-key radical productivity,Western,2025-02-21,0.169,0.574,0.0,118,German,4.2,359
+item_000528,Customer-focused zero administration encryption,Mystery,2022-07-29,0.173,0.928,11.38,64,French,4.7,7961
+item_000529,Multi-channeled composite project,Science Fiction,2022-02-15,0.136,0.919,17.2,168,German,2.6,3067
+item_000530,Re-contextualized secondary service-desk,Western,2022-06-19,0.555,0.75,11.07,149,French,4.6,9818
+item_000531,Versatile full-range utilization,Western,2020-04-20,0.358,0.723,5.64,165,Spanish,3.3,4324
+item_000532,Advanced bandwidth-monitored firmware,Western,2018-03-20,0.054,0.8,11.64,30,Japanese,3.1,3049
+item_000533,User-friendly multi-state open architecture,Action,2021-10-20,0.101,0.361,0.0,123,Japanese,2.7,1047
+item_000534,Re-engineered directional knowledge user,Western,2019-09-27,0.308,1.0,0.0,129,Spanish,3.6,8161
+item_000535,Persistent zero administration service-desk,Western,2021-11-19,0.211,1.0,0.0,69,Japanese,2.8,6724
+item_000536,Profit-focused coherent hardware,Horror,2025-12-22,0.365,0.768,4.19,163,English,2.1,2136
+item_000537,Polarized bi-directional frame,Documentary,2020-02-27,0.255,0.82,26.32,81,English,3.5,1627
+item_000538,Configurable bifurcated superstructure,Adventure,2017-05-31,0.213,0.736,17.55,129,German,3.6,9681
+item_000539,Integrated global knowledgebase,Fantasy,2023-11-03,0.164,0.601,2.41,86,Japanese,4.2,224
+item_000540,Programmable mission-critical hardware,Drama,2020-10-04,0.545,1.0,20.01,50,German,4.4,1004
+item_000541,Organic uniform standardization,Music,2020-07-09,0.268,0.967,0.0,172,German,4.5,965
+item_000542,Cloned exuding analyzer,Fantasy,2024-02-06,0.459,0.681,0.0,165,English,4.2,4989
+item_000543,Customizable 3rdgeneration Graphical User Interface,Animation,2022-06-24,0.195,0.692,28.38,162,English,2.3,3794
+item_000544,Synergistic composite support,Western,2018-06-09,0.326,0.471,0.0,128,Spanish,2.6,4085
+item_000545,Enhanced neutral complexity,Documentary,2019-04-23,0.256,0.556,0.0,172,Japanese,3.2,1738
+item_000546,Optimized maximized emulation,Music,2023-12-23,0.164,0.521,20.55,139,English,2.5,2965
+item_000547,Self-enabling contextually-based contingency,Western,2022-05-27,0.368,0.555,12.64,116,Spanish,3.6,9839
+item_000548,Optional hybrid algorithm,Science Fiction,2023-05-16,0.439,0.864,0.0,120,French,3.7,5329
+item_000549,Exclusive local parallelism,Music,2020-04-17,0.154,0.73,0.0,135,German,4.5,5309
+item_000550,Adaptive tertiary data-warehouse,Family,2018-01-20,0.587,0.537,0.0,174,Japanese,2.6,9025
+item_000551,Versatile tertiary workforce,Fantasy,2023-12-16,0.039,0.707,11.43,145,German,4.9,13
+item_000552,Re-engineered bi-directional website,Adventure,2024-09-19,0.498,0.603,29.5,34,Japanese,2.4,4955
+item_000553,Enterprise-wide high-level Graphic Interface,Action,2017-12-19,0.258,0.837,9.7,86,Spanish,4.6,365
+item_000554,Customizable empowering secured line,Fantasy,2024-08-16,0.309,1.0,27.64,160,Japanese,3.7,9375
+item_000555,Progressive scalable functionalities,Crime,2021-12-19,0.194,0.526,0.0,54,English,3.4,2567
+item_000556,Seamless hybrid parallelism,Crime,2017-02-20,0.328,0.668,0.0,97,French,4.7,4103
+item_000557,Multi-channeled logistical process improvement,Family,2017-09-21,0.129,0.874,8.42,106,English,3.7,9333
+item_000558,Synergistic tertiary website,Drama,2018-12-21,0.573,0.668,22.28,113,German,2.5,9450
+item_000559,Seamless optimizing artificial intelligence,Comedy,2022-09-20,0.371,0.436,18.25,106,English,4.2,9451
+item_000560,Intuitive bottom-line encoding,Mystery,2019-01-19,0.37,0.893,3.27,44,French,3.0,7125
+item_000561,Enterprise-wide holistic solution,Romance,2017-05-30,0.223,0.55,27.97,60,Spanish,4.2,9878
+item_000562,Networked intangible policy,Action,2017-05-17,0.17,0.917,19.37,127,English,2.9,684
+item_000563,Networked interactive contingency,Horror,2020-11-11,0.406,0.67,0.0,168,Japanese,2.4,8241
+item_000564,Public-key system-worthy project,Family,2025-04-21,0.25,0.59,5.43,130,German,4.3,9434
+item_000565,Enhanced next generation concept,War,2020-11-22,0.05,1.0,3.6,140,French,4.4,2435
+item_000566,Devolved contextually-based functionalities,Crime,2024-06-01,0.195,0.897,0.0,116,English,3.4,817
+item_000567,Secured actuating help-desk,Western,2025-07-08,0.331,0.439,12.57,51,German,3.5,2146
+item_000568,Pre-emptive client-driven core,Crime,2024-02-24,0.399,0.94,14.94,80,German,3.2,9370
+item_000569,Realigned motivating projection,Drama,2020-12-12,0.216,0.634,0.0,173,Japanese,5.0,8599
+item_000570,Synergized mobile instruction set,Family,2023-02-06,0.465,0.758,8.02,98,German,3.0,9447
+item_000571,Organic mobile concept,Animation,2016-10-27,0.228,0.894,0.0,58,German,3.3,5716
+item_000572,Assimilated well-modulated definition,Drama,2018-12-02,0.137,0.967,0.0,112,French,3.8,406
+item_000573,Grass-roots directional monitoring,History,2018-11-19,0.477,0.8,5.9,119,Japanese,4.5,7255
+item_000574,Vision-oriented logistical open system,Crime,2023-06-04,0.04,1.0,13.76,89,Spanish,4.1,2565
+item_000575,Visionary modular neural-net,Animation,2021-02-07,0.2,0.431,0.0,58,English,2.7,2429
+item_000576,Re-engineered bifurcated flexibility,History,2023-10-01,0.145,0.668,1.39,58,French,3.4,382
+item_000577,Multi-lateral needs-based system engine,Horror,2016-05-31,0.376,0.728,7.05,167,Spanish,2.6,8583
+item_000578,Up-sized leadingedge moratorium,Fantasy,2018-03-08,0.359,0.628,0.0,170,German,3.9,2325
+item_000579,Optimized bi-directional support,Action,2024-04-19,0.423,0.717,0.0,126,Japanese,4.7,8641
+item_000580,Versatile dynamic framework,Adventure,2024-09-29,0.423,0.458,8.4,45,French,2.6,4454
+item_000581,Automated local firmware,Adventure,2019-06-26,0.2,0.904,0.0,149,English,2.2,4455
+item_000582,Cross-group leadingedge capability,Music,2023-10-03,0.093,0.652,26.05,34,French,4.6,6342
+item_000583,Front-line demand-driven workforce,Family,2023-05-17,0.633,0.836,29.4,160,English,4.7,7950
+item_000584,Team-oriented grid-enabled strategy,Western,2022-02-06,0.264,0.892,0.0,52,Spanish,2.6,7513
+item_000585,Optimized composite pricing structure,Western,2017-05-22,0.692,0.896,0.0,35,English,2.7,8683
+item_000586,Expanded demand-driven workforce,History,2016-08-03,0.25,0.452,10.66,130,Spanish,2.1,5775
+item_000587,Monitored national focus group,Music,2021-12-19,0.181,0.594,19.12,90,Japanese,2.8,1025
+item_000588,Down-sized fresh-thinking strategy,Fantasy,2018-12-03,0.451,0.602,26.47,37,Japanese,4.8,3705
+item_000589,Re-engineered encompassing migration,Crime,2025-11-07,0.049,0.722,10.9,130,Spanish,2.3,6272
+item_000590,Synergistic bandwidth-monitored challenge,War,2025-08-17,0.221,0.838,28.85,88,German,2.7,2512
+item_000591,Open-source analyzing focus group,Romance,2024-09-01,0.282,0.677,0.0,109,Japanese,3.0,8893
+item_000592,De-engineered tangible capacity,Crime,2018-06-30,0.256,0.614,6.99,65,Japanese,3.6,3324
+item_000593,Universal fresh-thinking encryption,Crime,2023-08-12,0.223,0.492,0.0,109,Japanese,4.7,7056
+item_000594,Synergistic hybrid matrix,Crime,2017-06-02,0.038,0.304,20.02,174,Spanish,3.0,9141
+item_000595,Self-enabling encompassing product,Western,2020-02-21,0.095,0.837,28.5,60,Spanish,3.0,2394
+item_000596,Organized asynchronous productivity,Action,2023-12-11,0.522,0.648,23.19,135,German,2.9,4495
+item_000597,Visionary background initiative,Crime,2021-02-25,0.25,0.92,23.58,57,Spanish,2.6,4382
+item_000598,Grass-roots system-worthy hub,Family,2020-07-18,0.394,1.0,18.28,89,English,3.1,7818
+item_000599,Pre-emptive fresh-thinking paradigm,Crime,2016-01-09,0.198,0.695,15.56,150,French,2.6,6358
+item_000600,Vision-oriented upward-trending array,Thriller,2023-04-23,0.083,0.382,14.73,71,Spanish,2.7,6704
+item_000601,Persevering scalable secured line,Action,2022-12-21,0.161,0.443,27.83,135,Spanish,4.2,3333
+item_000602,Cloned national infrastructure,Drama,2018-03-05,0.406,0.627,2.91,142,Japanese,3.5,5333
+item_000603,Optimized didactic methodology,Science Fiction,2018-09-06,0.349,0.761,0.0,93,German,3.2,695
+item_000604,Horizontal global neural-net,Mystery,2021-10-11,0.34,0.773,21.88,130,Japanese,4.8,9380
+item_000605,Re-contextualized mobile toolset,Western,2019-06-08,0.138,0.654,0.0,164,English,3.6,7409
+item_000606,Synergized well-modulated application,Science Fiction,2016-06-15,0.445,0.59,24.97,40,Spanish,3.6,6491
+item_000607,Self-enabling zero tolerance knowledgebase,Adventure,2016-02-28,0.227,0.607,0.0,172,German,3.5,817
+item_000608,Diverse leadingedge knowledgebase,Drama,2016-01-02,0.498,0.727,9.43,131,French,4.3,4694
+item_000609,Optimized dedicated solution,Science Fiction,2025-02-03,0.18,0.806,0.0,72,German,2.9,903
+item_000610,Streamlined exuding complexity,War,2024-09-28,0.06,0.547,0.0,66,German,4.5,7410
+item_000611,Grass-roots background projection,Animation,2019-08-08,0.468,0.767,21.95,58,Spanish,4.3,8962
+item_000612,Configurable holistic secured line,Crime,2025-01-13,0.151,0.464,12.39,112,German,2.1,7443
+item_000613,Down-sized actuating infrastructure,Drama,2022-04-03,0.46,0.446,26.58,53,French,3.0,2696
+item_000614,Up-sized tangible system engine,Comedy,2018-05-04,0.076,0.53,0.0,53,English,4.1,5956
+item_000615,Streamlined background strategy,Animation,2016-12-12,0.191,0.637,16.18,128,Japanese,3.8,2629
+item_000616,Extended mission-critical archive,Mystery,2017-04-28,0.038,0.651,0.0,170,German,2.1,2809
+item_000617,Face-to-face multi-state software,Horror,2020-06-12,0.247,0.294,0.0,174,Spanish,2.5,2379
+item_000618,Advanced tangible Graphical User Interface,Documentary,2024-03-02,0.181,0.78,0.0,43,German,2.9,7321
+item_000619,Optimized system-worthy capacity,History,2020-10-10,0.363,0.833,0.0,76,English,4.7,3333
+item_000620,Focused human-resource array,Action,2023-04-22,0.301,0.945,0.0,94,English,3.4,8179
+item_000621,Customer-focused bi-directional functionalities,Western,2019-09-03,0.068,0.648,24.41,156,Spanish,2.7,7804
+item_000622,Innovative client-driven implementation,Science Fiction,2023-09-25,0.402,0.455,12.88,50,Japanese,3.8,4019
+item_000623,Versatile client-driven project,Western,2025-12-05,0.571,0.639,9.06,172,Spanish,2.1,2439
+item_000624,Digitized asymmetric moderator,Adventure,2021-08-18,0.498,0.63,19.94,39,Spanish,4.6,9481
+item_000625,Seamless solution-oriented concept,History,2020-05-25,0.286,0.861,10.59,52,English,2.3,2930
+item_000626,Up-sized didactic product,Documentary,2023-06-25,0.217,0.816,20.48,176,Japanese,2.5,7470
+item_000627,Open-source reciprocal software,Music,2020-06-03,0.412,0.864,0.0,39,English,4.3,5299
+item_000628,Extended background attitude,Music,2017-05-25,0.28,0.35,0.0,127,English,4.3,9028
+item_000629,Decentralized optimizing superstructure,Animation,2019-11-02,0.418,0.536,9.48,64,English,4.1,4506
+item_000630,Optimized foreground utilization,Horror,2017-05-24,0.177,0.644,0.0,164,German,3.6,3435
+item_000631,Grass-roots secondary artificial intelligence,Adventure,2018-06-24,0.089,0.922,4.16,165,English,3.5,9918
+item_000632,Right-sized radical success,History,2022-01-27,0.137,0.696,13.37,111,French,3.6,5807
+item_000633,Vision-oriented system-worthy algorithm,Crime,2024-06-23,0.348,0.958,18.8,157,Japanese,4.2,8164
+item_000634,Switchable exuding database,Thriller,2021-03-05,0.627,0.732,0.0,76,Japanese,2.7,4769
+item_000635,Profound content-based synergy,Drama,2019-12-01,0.411,0.341,0.0,30,English,2.1,1942
+item_000636,Stand-alone actuating toolset,Drama,2024-12-23,0.202,1.0,24.18,136,German,2.1,5738
+item_000637,Front-line modular info-mediaries,Western,2017-02-14,0.375,0.754,24.37,84,English,3.9,4624
+item_000638,Proactive scalable policy,Fantasy,2016-09-15,0.559,0.599,23.91,108,French,3.5,5317
+item_000639,Advanced high-level functionalities,Action,2017-04-26,0.294,0.712,4.29,115,French,3.2,9331
+item_000640,Re-contextualized intangible hierarchy,Action,2021-06-17,0.459,0.538,25.12,79,French,4.5,7859
+item_000641,Enhanced well-modulated leverage,Thriller,2025-07-17,0.234,0.893,24.11,64,German,2.5,7556
+item_000642,Visionary asynchronous adapter,Western,2021-11-14,0.381,0.412,0.0,115,German,4.4,6792
+item_000643,Advanced empowering data-warehouse,Adventure,2016-05-24,0.541,0.739,25.21,106,Japanese,4.2,5179
+item_000644,Centralized hybrid middleware,Western,2018-11-11,0.391,0.775,16.53,83,Japanese,4.1,5803
+item_000645,Universal motivating throughput,Animation,2020-02-25,0.681,0.791,0.0,68,French,4.5,5566
+item_000646,Total impactful artificial intelligence,Mystery,2022-05-27,0.274,0.548,0.0,166,Spanish,3.7,6392
+item_000647,Public-key reciprocal collaboration,Documentary,2018-10-09,0.238,0.692,18.25,108,French,4.1,4458
+item_000648,Integrated attitude-oriented migration,Romance,2025-03-17,0.19,0.811,3.51,90,French,3.4,4968
+item_000649,Distributed national Graphic Interface,Drama,2019-11-27,0.122,0.631,0.0,164,French,2.5,6141
+item_000650,Sharable well-modulated projection,Adventure,2022-10-22,0.097,0.446,23.55,53,German,3.5,7917
+item_000651,Cloned fault-tolerant standardization,War,2020-05-16,0.404,0.574,0.0,69,Spanish,3.0,7931
+item_000652,Front-line analyzing encryption,War,2016-11-09,0.768,0.556,9.99,113,Spanish,4.3,1619
+item_000653,Optional bifurcated knowledgebase,War,2022-02-13,0.117,0.841,20.61,63,Spanish,4.2,7536
+item_000654,Centralized fault-tolerant secured line,Mystery,2023-06-01,0.307,0.887,0.0,163,English,2.0,731
+item_000655,User-centric context-sensitive capability,Animation,2016-02-15,0.459,0.59,0.0,115,German,4.7,1699
+item_000656,Devolved tangible access,War,2017-08-20,0.378,0.703,0.0,109,English,3.7,5124
+item_000657,Monitored multi-state model,Drama,2023-10-30,0.507,0.561,10.3,79,French,2.8,5238
+item_000658,Up-sized empowering concept,Science Fiction,2019-09-19,0.416,0.652,0.0,60,French,2.4,4493
+item_000659,User-friendly zero-defect flexibility,Comedy,2023-04-30,0.246,0.925,0.0,33,Japanese,3.7,1687
+item_000660,Decentralized zero administration algorithm,Drama,2019-05-07,0.461,0.65,16.72,170,French,2.8,4651
+item_000661,Optimized encompassing moderator,Family,2016-08-20,0.062,0.642,5.96,109,Japanese,4.7,8866
+item_000662,Universal object-oriented product,Science Fiction,2016-10-07,0.447,0.91,2.46,37,German,4.7,836
+item_000663,Persevering multimedia hierarchy,Comedy,2016-07-20,0.207,0.917,12.11,52,German,3.2,9776
+item_000664,Re-contextualized composite hub,Science Fiction,2017-07-27,0.124,0.491,18.86,109,French,4.5,8750
+item_000665,Visionary bi-directional orchestration,Animation,2022-09-27,0.51,0.564,29.23,149,Japanese,2.4,7682
+item_000666,Customizable discrete support,Comedy,2021-01-31,0.352,0.358,14.2,149,German,2.7,3676
+item_000667,Balanced 24/7 encryption,Crime,2016-06-15,0.3,0.516,0.0,96,French,3.2,5422
+item_000668,Multi-lateral human-resource collaboration,Horror,2017-10-14,0.108,0.879,14.14,37,English,3.4,5768
+item_000669,Automated neutral website,Thriller,2025-02-19,0.349,0.223,14.37,73,French,4.3,9913
+item_000670,User-centric solution-oriented instruction set,Crime,2018-03-30,0.545,0.864,15.72,133,English,3.0,1172
+item_000671,Fully-configurable intangible success,History,2019-03-13,0.502,0.783,16.44,132,Japanese,3.2,4002
+item_000672,Compatible object-oriented hub,Western,2017-03-11,0.585,0.256,5.6,153,German,2.2,3421
+item_000673,Synergistic actuating conglomeration,Romance,2018-03-25,0.077,0.765,23.74,141,Japanese,4.4,8931
+item_000674,Programmable 6thgeneration initiative,Family,2016-09-07,0.445,0.837,0.0,74,English,4.2,9417
+item_000675,Persistent executive time-frame,Thriller,2024-06-12,0.306,0.837,4.31,148,French,3.7,7304
+item_000676,Inverse background neural-net,Documentary,2020-07-25,0.472,1.0,9.92,133,English,3.8,9781
+item_000677,Multi-layered dedicated frame,Mystery,2021-08-20,0.615,0.519,10.48,45,English,2.7,2286
+item_000678,Innovative user-facing process improvement,Action,2018-06-04,0.151,0.625,0.0,67,Spanish,3.4,4785
+item_000679,Multi-layered optimizing methodology,Mystery,2025-12-22,0.136,0.279,0.0,177,German,2.6,5197
+item_000680,Vision-oriented dedicated superstructure,History,2025-01-01,0.085,1.0,17.53,107,German,4.2,5650
+item_000681,Virtual dynamic collaboration,Animation,2016-01-23,0.451,0.581,0.0,179,English,3.8,8372
+item_000682,Open-source 4thgeneration emulation,Mystery,2021-05-31,0.077,0.788,25.57,105,English,3.1,9002
+item_000683,Sharable system-worthy access,Adventure,2025-07-04,0.136,0.465,1.01,173,French,2.3,4633
+item_000684,Adaptive well-modulated protocol,Action,2019-10-05,0.199,1.0,0.0,90,German,4.1,6469
+item_000685,User-centric upward-trending function,Horror,2017-01-13,0.122,1.0,21.63,133,German,3.3,3470
+item_000686,Progressive disintermediate instruction set,Documentary,2020-12-01,0.206,0.549,14.76,78,Japanese,3.2,5912
+item_000687,Centralized client-server structure,Romance,2018-10-18,0.153,0.576,5.46,62,Spanish,2.0,267
+item_000688,Balanced discrete model,Crime,2020-02-16,0.234,0.751,21.91,154,German,4.9,2234
+item_000689,Multi-layered logistical synergy,Animation,2016-11-05,0.529,0.782,4.97,136,German,4.7,9912
+item_000690,Cross-platform motivating challenge,Romance,2022-05-15,0.536,0.52,19.06,146,Japanese,3.3,7383
+item_000691,Object-based asynchronous parallelism,Mystery,2021-09-04,0.4,0.554,0.0,120,Spanish,2.6,9915
+item_000692,Optional stable capacity,Action,2018-05-13,0.4,1.0,0.0,177,German,4.5,3888
+item_000693,Fundamental foreground website,War,2019-12-05,0.163,0.451,0.0,98,German,4.8,9452
+item_000694,User-centric fresh-thinking functionalities,Music,2020-07-10,0.414,0.475,1.96,39,Japanese,3.4,6048
+item_000695,Focused asynchronous customer loyalty,Comedy,2017-05-11,0.402,0.627,17.82,50,Spanish,4.2,8634
+item_000696,Visionary optimal benchmark,Fantasy,2017-07-20,0.404,0.522,14.47,50,Japanese,4.7,1459
+item_000697,Down-sized local Local Area Network,Family,2019-02-20,0.108,0.914,14.69,49,Japanese,4.4,5129
+item_000698,Decentralized national help-desk,Adventure,2025-08-23,0.049,0.694,27.19,166,English,3.4,8409
+item_000699,Expanded local function,Thriller,2020-08-18,0.411,0.704,0.0,176,French,3.3,4837
+item_000700,Decentralized background complexity,History,2024-01-28,0.157,0.871,5.85,107,Japanese,2.8,7762
+item_000701,Innovative tertiary standardization,Documentary,2022-01-11,0.347,0.614,17.6,104,Japanese,2.1,7952
+item_000702,Extended fresh-thinking circuit,Animation,2016-11-28,0.057,0.892,4.67,49,French,2.8,4613
+item_000703,Fully-configurable heuristic infrastructure,Fantasy,2021-02-17,0.034,0.626,25.87,33,English,3.8,9705
+item_000704,Synergistic exuding firmware,Crime,2024-03-13,0.56,0.566,20.11,124,Spanish,2.8,3879
+item_000705,Enhanced 4thgeneration initiative,Thriller,2024-07-17,0.155,1.0,6.23,165,English,3.0,1392
+item_000706,Realigned value-added neural-net,Crime,2018-06-30,0.193,0.746,18.26,69,German,4.3,6775
+item_000707,Persistent bi-directional website,Mystery,2023-12-08,0.246,0.688,0.0,90,German,4.2,2750
+item_000708,Decentralized 24/7 approach,Drama,2024-04-20,0.522,0.69,0.0,177,French,2.2,4341
+item_000709,Face-to-face clear-thinking customer loyalty,Comedy,2024-03-26,0.42,0.764,0.0,43,Spanish,3.4,7812
+item_000710,Multi-layered systemic product,History,2025-05-16,0.272,0.31,14.8,166,Spanish,3.1,6400
+item_000711,Configurable optimal parallelism,Thriller,2018-08-02,0.284,0.42,0.0,97,Spanish,3.6,7132
+item_000712,Compatible 3rdgeneration architecture,Action,2017-12-22,0.501,0.892,9.36,144,German,4.0,8697
+item_000713,Stand-alone leadingedge workforce,Adventure,2017-04-14,0.194,0.699,0.0,54,Japanese,3.9,7084
+item_000714,Managed bottom-line analyzer,Fantasy,2025-06-03,0.254,0.344,10.7,98,English,2.8,9581
+item_000715,Business-focused composite orchestration,Mystery,2020-04-30,0.399,1.0,14.36,91,Japanese,4.3,8528
+item_000716,Up-sized hybrid methodology,Horror,2016-04-16,0.435,0.706,20.64,76,French,3.6,148
+item_000717,Synergized interactive conglomeration,Animation,2019-07-15,0.188,0.958,1.34,55,Japanese,2.3,7316
+item_000718,Enterprise-wide even-keeled focus group,Music,2020-06-16,0.328,0.707,7.35,102,French,2.6,398
+item_000719,Distributed 5thgeneration pricing structure,Animation,2022-03-10,0.444,0.427,0.0,44,Japanese,4.0,3562
+item_000720,Fully-configurable secondary frame,Comedy,2020-12-26,0.106,0.945,21.52,60,English,4.6,2138
+item_000721,Reactive mission-critical approach,Mystery,2016-11-15,0.107,0.853,20.03,174,Spanish,4.7,3028
+item_000722,Networked client-driven instruction set,Fantasy,2017-12-28,0.172,0.396,9.53,49,German,4.8,4538
+item_000723,Progressive dynamic product,Romance,2025-12-09,0.274,0.894,21.06,112,French,2.5,1222
+item_000724,Quality-focused 3rdgeneration implementation,Fantasy,2023-10-26,0.31,0.355,0.0,45,German,3.2,994
+item_000725,Multi-channeled mission-critical moratorium,Fantasy,2023-10-24,0.473,0.558,0.0,97,Spanish,3.3,8066
+item_000726,Monitored non-volatile middleware,Drama,2019-03-19,0.319,0.659,18.69,75,German,2.3,8867
+item_000727,Future-proofed contextually-based algorithm,Romance,2019-03-09,0.563,0.846,7.32,57,German,4.1,1702
+item_000728,Face-to-face 4thgeneration workforce,Adventure,2023-10-14,0.393,0.669,3.1,176,French,4.3,317
+item_000729,Centralized methodical moderator,Thriller,2019-07-28,0.2,0.728,0.0,68,English,4.8,6407
+item_000730,Reduced discrete complexity,Fantasy,2016-12-30,0.203,0.408,5.39,114,German,3.7,8454
+item_000731,Switchable disintermediate flexibility,Thriller,2021-05-02,0.219,0.687,14.86,133,English,3.6,64
+item_000732,User-centric analyzing task-force,Mystery,2025-12-17,0.241,0.721,0.0,153,English,3.7,5890
+item_000733,Face-to-face object-oriented website,Horror,2019-11-18,0.449,0.67,20.76,132,English,3.9,1495
+item_000734,Enhanced context-sensitive encoding,Music,2021-12-03,0.189,0.51,16.49,117,English,4.5,4760
+item_000735,User-centric tangible help-desk,Drama,2025-02-19,0.566,0.532,0.0,75,Japanese,2.1,6304
+item_000736,Assimilated tertiary standardization,Drama,2019-07-07,0.423,0.691,9.66,129,English,3.9,5896
+item_000737,Re-contextualized non-volatile circuit,Thriller,2021-08-18,0.216,0.685,3.45,142,Spanish,2.4,3173
+item_000738,Ergonomic modular moratorium,Action,2019-02-01,0.271,0.803,0.0,91,German,3.2,8866
+item_000739,Pre-emptive 5thgeneration array,History,2016-07-23,0.115,0.707,0.0,157,Japanese,4.9,7371
+item_000740,Robust directional adapter,Action,2021-04-06,0.053,0.795,2.06,44,French,4.4,711
+item_000741,Adaptive full-range pricing structure,Mystery,2018-01-04,0.56,0.525,4.42,163,German,4.8,8801
+item_000742,De-engineered global structure,Crime,2017-10-09,0.258,0.545,0.0,178,Spanish,4.8,614
+item_000743,Inverse analyzing adapter,Crime,2017-06-22,0.31,0.552,15.17,34,German,4.7,760
+item_000744,Triple-buffered client-server time-frame,Family,2017-02-08,0.17,0.708,0.0,63,English,2.5,828
+item_000745,Progressive high-level archive,History,2019-09-25,0.193,0.937,0.0,54,German,3.8,9693
+item_000746,Switchable hybrid parallelism,Animation,2017-01-03,0.116,0.628,24.71,57,English,3.5,3623
+item_000747,Innovative fresh-thinking challenge,Animation,2025-10-03,0.214,0.643,24.32,139,French,4.4,6596
+item_000748,Upgradable intermediate utilization,Horror,2022-05-23,0.179,0.79,4.49,177,Japanese,2.4,3503
+item_000749,Pre-emptive solution-oriented functionalities,Adventure,2017-09-27,0.236,0.713,18.19,115,English,2.4,2324
+item_000750,Realigned system-worthy pricing structure,Romance,2023-11-13,0.052,0.446,5.86,124,Japanese,2.5,4001
+item_000751,Face-to-face static parallelism,Adventure,2024-02-22,0.603,0.619,4.86,126,Spanish,2.0,7988
+item_000752,Multi-tiered fault-tolerant superstructure,Animation,2022-11-19,0.102,0.921,1.17,75,English,4.1,9737
+item_000753,De-engineered context-sensitive superstructure,History,2016-01-06,0.025,0.476,0.0,136,German,4.1,3387
+item_000754,Total object-oriented infrastructure,Crime,2024-07-03,0.232,0.749,19.54,163,German,3.2,2869
+item_000755,Visionary non-volatile alliance,Adventure,2017-10-26,0.403,0.756,0.0,76,German,3.8,1452
+item_000756,Intuitive reciprocal definition,History,2022-05-24,0.419,0.529,0.0,119,German,2.0,3870
+item_000757,Customer-focused modular circuit,Drama,2019-04-23,0.18,0.703,4.4,165,English,3.9,8852
+item_000758,Compatible disintermediate hardware,War,2025-10-27,0.397,0.844,7.35,83,French,2.2,1856
+item_000759,Down-sized scalable array,Crime,2024-03-19,0.601,1.0,0.0,151,German,2.5,716
+item_000760,Synchronized scalable superstructure,Adventure,2024-11-11,0.551,0.671,0.0,123,French,2.6,4128
+item_000761,Organized 24/7 firmware,Horror,2018-02-03,0.123,0.716,0.0,146,English,2.3,869
+item_000762,Team-oriented asymmetric hardware,Western,2018-07-25,0.383,0.881,6.09,37,German,3.5,1170
+item_000763,Customer-focused uniform ability,Family,2016-06-23,0.337,0.687,21.91,178,French,3.3,5346
+item_000764,Organic upward-trending instruction set,Family,2025-09-09,0.093,1.0,23.58,113,Spanish,2.3,6769
+item_000765,Open-source modular implementation,Drama,2019-07-06,0.179,0.909,11.88,86,English,3.4,7946
+item_000766,Multi-tiered bandwidth-monitored matrices,Adventure,2023-11-20,0.006,0.724,0.0,141,Spanish,2.6,9994
+item_000767,Re-engineered solution-oriented task-force,Science Fiction,2022-11-14,0.265,0.924,0.0,75,German,3.1,7509
+item_000768,Diverse local archive,Drama,2023-12-28,0.174,0.904,19.32,99,Spanish,3.0,535
+item_000769,Automated explicit adapter,Adventure,2019-03-09,0.61,0.506,0.0,101,Spanish,2.3,7637
+item_000770,Customer-focused asynchronous Graphical User Interface,Science Fiction,2017-09-12,0.552,0.514,0.0,137,Spanish,4.3,3612
+item_000771,Multi-tiered cohesive superstructure,History,2016-09-29,0.383,0.676,0.0,70,Japanese,4.7,9481
+item_000772,Cross-group global policy,Western,2025-11-07,0.27,0.425,25.79,52,German,4.6,8025
+item_000773,Polarized tertiary algorithm,Drama,2020-04-23,0.087,0.979,18.15,148,French,2.0,7024
+item_000774,Streamlined composite portal,Family,2024-11-23,0.272,0.693,8.18,141,Japanese,2.7,9705
+item_000775,Diverse actuating attitude,Crime,2019-04-23,0.074,0.782,27.49,31,German,4.9,666
+item_000776,Ergonomic incremental standardization,Thriller,2021-07-16,0.291,0.52,22.26,159,English,3.3,6470
+item_000777,Upgradable needs-based firmware,Thriller,2022-08-09,0.537,0.936,24.47,55,German,3.5,1371
+item_000778,Innovative disintermediate attitude,Western,2016-06-29,0.333,0.548,22.83,134,Spanish,2.4,4856
+item_000779,Re-engineered neutral matrix,Family,2017-07-14,0.269,0.853,19.77,53,English,3.4,5004
+item_000780,Multi-lateral 24hour interface,Documentary,2016-11-15,0.12,0.621,21.39,176,Japanese,2.1,7462
+item_000781,Switchable responsive policy,Science Fiction,2020-10-19,0.036,0.822,23.37,133,Spanish,4.4,6078
+item_000782,Cross-platform 4thgeneration database,Science Fiction,2017-09-15,0.311,0.637,21.4,30,English,3.2,5464
+item_000783,Implemented attitude-oriented leverage,War,2024-06-08,0.172,0.763,1.94,139,French,4.1,8897
+item_000784,Integrated zero tolerance infrastructure,Drama,2020-09-15,0.448,0.709,23.83,50,Japanese,4.6,908
+item_000785,Switchable empowering array,War,2022-06-01,0.042,0.973,0.0,123,English,2.3,5999
+item_000786,Networked contextually-based hub,Science Fiction,2024-11-07,0.263,0.625,0.0,40,French,3.1,9165
+item_000787,Multi-layered contextually-based knowledge user,Animation,2016-06-10,0.621,0.936,17.25,82,Spanish,4.9,3919
+item_000788,Organic maximized firmware,Western,2018-04-05,0.199,0.856,4.28,152,Japanese,4.6,3447
+item_000789,Future-proofed non-volatile approach,Family,2017-07-05,0.139,0.65,0.0,112,French,4.7,8260
+item_000790,Total static attitude,Romance,2016-11-08,0.075,0.635,0.0,100,English,2.2,5666
+item_000791,Monitored needs-based installation,Science Fiction,2025-09-14,0.106,0.415,15.09,164,English,3.4,8724
+item_000792,Reverse-engineered discrete neural-net,Western,2016-08-09,0.177,0.397,27.07,145,Japanese,3.1,1085
+item_000793,Networked multi-state instruction set,Drama,2025-08-27,0.35,0.858,26.86,147,English,2.2,2939
+item_000794,Synergized methodical orchestration,History,2024-10-24,0.438,0.608,28.78,49,English,2.5,1845
+item_000795,Phased exuding artificial intelligence,Crime,2019-12-12,0.463,0.49,0.0,157,Spanish,4.6,8540
+item_000796,Universal 5thgeneration middleware,Action,2021-09-16,0.299,0.464,9.49,168,Spanish,3.4,6893
+item_000797,Programmable object-oriented service-desk,Science Fiction,2025-10-29,0.126,0.627,0.0,35,French,2.6,371
+item_000798,Digitized bottom-line system engine,Family,2020-06-27,0.443,0.681,25.2,163,French,3.2,5626
+item_000799,Down-sized didactic workforce,Horror,2017-12-04,0.795,0.739,15.09,165,Japanese,3.3,4992
+item_000800,Balanced interactive artificial intelligence,Crime,2025-11-18,0.207,0.588,0.0,108,Spanish,4.4,3725
+item_000801,Optional dedicated product,Thriller,2017-06-23,0.142,0.792,11.78,103,English,2.4,4669
+item_000802,Right-sized empowering functionalities,Science Fiction,2025-02-08,0.297,0.488,28.72,71,Japanese,2.9,2883
+item_000803,Cloned background info-mediaries,Crime,2021-07-24,0.204,1.0,5.67,59,English,5.0,9423
+item_000804,Reactive fresh-thinking focus group,Crime,2021-03-12,0.352,0.252,13.78,124,Spanish,2.6,578
+item_000805,Advanced zero tolerance standardization,Horror,2022-03-25,0.185,0.743,29.35,67,French,3.3,2673
+item_000806,Programmable zero tolerance instruction set,Western,2017-02-14,0.105,0.651,9.74,36,German,4.8,2391
+item_000807,Distributed client-server open system,Science Fiction,2021-11-16,0.621,0.685,27.9,69,English,4.9,8958
+item_000808,Virtual bandwidth-monitored benchmark,War,2021-08-16,0.104,0.619,10.6,105,German,4.7,9409
+item_000809,Cross-platform zero tolerance forecast,Crime,2024-09-02,0.388,0.594,24.18,143,French,4.1,7857
+item_000810,Monitored incremental firmware,Adventure,2019-10-30,0.162,0.638,0.0,65,Japanese,2.4,416
+item_000811,Pre-emptive object-oriented portal,Mystery,2020-09-23,0.361,0.859,18.9,86,German,3.1,5357
+item_000812,Enhanced even-keeled initiative,Adventure,2017-06-08,0.465,0.504,18.63,79,Japanese,3.6,4563
+item_000813,Robust systemic solution,Drama,2020-01-06,0.175,0.871,1.64,167,German,4.0,1441
+item_000814,Object-based full-range solution,War,2018-05-16,0.401,0.657,0.0,130,Spanish,3.5,9892
+item_000815,User-friendly methodical flexibility,War,2024-12-19,0.123,0.773,0.0,44,French,3.2,7016
+item_000816,Ameliorated global utilization,Music,2019-01-11,0.068,0.455,12.19,33,French,3.0,5057
+item_000817,Grass-roots mobile standardization,Science Fiction,2022-11-05,0.116,0.553,26.34,52,Spanish,4.2,7288
+item_000818,Focused client-driven framework,Romance,2025-09-27,0.109,0.414,24.3,103,Spanish,4.4,6954
+item_000819,Organic zero-defect Graphic Interface,Romance,2018-09-10,0.373,0.833,5.04,180,Japanese,2.3,3414
+item_000820,Operative real-time project,History,2016-11-21,0.127,0.734,0.0,151,Japanese,5.0,1093
+item_000821,Organic didactic installation,Mystery,2023-05-29,0.163,0.385,3.56,134,French,3.2,9116
+item_000822,Virtual multi-state hub,Science Fiction,2024-03-17,0.128,0.598,21.59,65,Spanish,2.6,6264
+item_000823,Profound cohesive architecture,History,2019-02-09,0.391,0.625,17.05,40,French,4.5,4989
+item_000824,Profit-focused impactful challenge,Thriller,2023-10-21,0.339,0.622,17.21,148,Spanish,2.1,50
+item_000825,Progressive non-volatile algorithm,Crime,2017-09-25,0.178,0.54,0.0,97,French,4.9,7752
+item_000826,Exclusive analyzing encryption,Comedy,2016-04-29,0.14,0.92,19.95,103,German,2.5,4019
+item_000827,Business-focused high-level strategy,Action,2017-12-27,0.244,0.529,0.0,60,French,3.5,1103
+item_000828,Multi-layered maximized middleware,Music,2019-12-20,0.338,0.48,17.84,174,German,4.6,7809
+item_000829,Decentralized systemic algorithm,Comedy,2018-06-01,0.457,0.718,0.0,125,Japanese,4.2,297
+item_000830,Pre-emptive radical knowledge user,Fantasy,2017-10-09,0.473,0.501,5.71,44,Spanish,3.0,2229
+item_000831,Phased optimizing neural-net,Music,2019-06-30,0.124,0.797,5.73,99,French,3.3,5842
+item_000832,Diverse empowering synergy,Adventure,2024-04-22,0.762,0.974,9.4,165,English,3.5,3012
+item_000833,Cross-group executive algorithm,Comedy,2019-11-12,0.213,0.828,0.0,72,Japanese,3.0,5190
+item_000834,Diverse object-oriented time-frame,History,2025-08-24,0.266,0.767,0.0,99,French,2.3,9513
+item_000835,Face-to-face secondary definition,Music,2022-10-10,0.238,0.0,0.0,66,English,2.4,4620
+item_000836,Future-proofed solution-oriented installation,Music,2021-02-17,0.439,0.899,0.0,154,German,3.0,2681
+item_000837,Vision-oriented zero administration software,Comedy,2016-02-01,0.46,0.809,0.0,85,Spanish,3.5,3097
+item_000838,De-engineered secondary conglomeration,Western,2022-01-03,0.392,0.824,18.78,164,Japanese,4.1,1877
+item_000839,Advanced directional extranet,Romance,2022-01-30,0.374,0.418,0.0,147,English,2.3,2160
+item_000840,Integrated transitional strategy,Action,2022-06-04,0.255,0.569,0.0,152,French,2.9,5950
+item_000841,Optimized homogeneous hardware,Crime,2020-08-02,0.508,0.64,24.68,163,French,2.5,5001
+item_000842,Extended maximized framework,Action,2022-10-08,0.229,0.767,22.58,60,Spanish,2.4,2342
+item_000843,Secured hybrid paradigm,Family,2017-01-07,0.102,0.767,9.91,83,Spanish,4.9,6970
+item_000844,Profound stable hub,Comedy,2021-08-12,0.105,0.666,3.24,153,German,2.1,1776
+item_000845,Right-sized real-time forecast,Adventure,2018-12-25,0.685,0.775,23.99,161,Japanese,2.2,1958
+item_000846,Customer-focused mission-critical architecture,Fantasy,2019-05-12,0.33,0.7,2.25,107,English,4.3,2038
+item_000847,Grass-roots scalable Graphic Interface,Drama,2024-08-12,0.276,0.672,0.0,180,Spanish,2.6,5769
+item_000848,Fundamental solution-oriented structure,Action,2025-07-09,0.415,0.846,3.62,101,Japanese,3.0,2640
+item_000849,Streamlined exuding core,War,2017-06-30,0.387,0.555,23.63,91,Japanese,3.7,1633
+item_000850,Virtual disintermediate approach,Action,2024-01-20,0.057,0.963,16.33,79,French,2.5,8810
+item_000851,Right-sized impactful protocol,Action,2019-03-12,0.243,0.694,29.22,55,Spanish,4.8,7787
+item_000852,Devolved uniform algorithm,Music,2022-07-21,0.263,0.642,21.24,77,German,4.0,1768
+item_000853,Implemented empowering instruction set,Documentary,2020-01-16,0.24,0.496,25.2,127,German,2.6,3738
+item_000854,User-centric 5thgeneration paradigm,Romance,2023-01-29,0.144,0.739,0.0,58,French,2.4,1817
+item_000855,Re-engineered content-based Graphical User Interface,War,2023-04-07,0.278,0.926,4.93,122,French,3.7,675
+item_000856,Face-to-face systemic monitoring,Animation,2022-05-19,0.163,0.432,10.51,59,German,2.9,9846
+item_000857,Phased static help-desk,History,2021-01-26,0.205,0.333,0.0,143,Spanish,3.7,4771
+item_000858,Down-sized stable open architecture,Romance,2017-10-22,0.141,0.786,6.46,47,German,4.8,6030
+item_000859,Cross-platform methodical capacity,Documentary,2023-05-29,0.455,0.664,1.36,155,English,3.2,8573
+item_000860,Up-sized next generation task-force,Animation,2025-02-14,0.267,0.61,4.45,131,German,4.1,1676
+item_000861,Synergized full-range projection,Documentary,2016-11-21,0.351,0.757,2.87,80,French,2.6,6633
+item_000862,Multi-channeled directional synergy,Comedy,2024-09-17,0.275,0.661,7.74,138,German,2.8,9544
+item_000863,Operative zero tolerance groupware,Fantasy,2019-09-18,0.313,0.646,22.92,132,French,3.4,9892
+item_000864,Reduced explicit Local Area Network,Mystery,2024-07-05,0.379,0.687,0.0,154,Japanese,2.8,7458
+item_000865,Phased actuating productivity,Comedy,2021-10-31,0.113,0.993,0.0,61,French,3.5,3791
+item_000866,Secured asynchronous leverage,Crime,2024-11-22,0.194,0.772,1.85,43,English,3.5,448
+item_000867,Profit-focused bottom-line software,Documentary,2019-10-25,0.467,0.529,0.0,127,Japanese,4.0,2512
+item_000868,Innovative incremental application,History,2024-09-15,0.526,0.571,19.03,54,English,4.0,8528
+item_000869,Distributed client-driven customer loyalty,Thriller,2019-06-04,0.314,1.0,23.98,81,French,4.0,8042
+item_000870,Re-contextualized logistical circuit,War,2019-02-28,0.286,0.629,0.0,96,Japanese,3.0,8866
+item_000871,Universal contextually-based time-frame,Western,2016-10-21,0.155,0.436,1.5,38,German,4.6,1961
+item_000872,Managed responsive conglomeration,Mystery,2019-02-17,0.217,0.795,14.04,126,German,3.4,548
+item_000873,Centralized 24hour knowledge user,Documentary,2018-09-25,0.382,0.461,0.0,172,French,4.7,2699
+item_000874,Virtual zero-defect concept,Thriller,2021-10-05,0.294,0.59,13.48,109,German,3.5,1802
+item_000875,Diverse mobile toolset,Thriller,2023-08-20,0.112,0.778,20.13,168,Japanese,3.4,9221
+item_000876,Cross-group clear-thinking pricing structure,Documentary,2020-05-02,0.104,0.644,15.68,130,French,3.5,6199
+item_000877,Optimized impactful interface,Music,2025-08-26,0.263,0.632,0.0,102,French,2.2,9684
+item_000878,Networked 24hour alliance,Adventure,2021-05-02,0.289,0.609,0.0,62,French,3.0,9577
+item_000879,Upgradable holistic access,Action,2024-12-01,0.139,0.962,0.0,117,German,2.3,5664
+item_000880,Versatile multi-tasking core,Music,2016-03-05,0.601,0.958,0.0,135,French,2.2,4011
+item_000881,Adaptive responsive superstructure,Family,2018-06-26,0.131,0.763,7.79,109,Japanese,2.3,1083
+item_000882,Team-oriented grid-enabled function,History,2017-04-14,0.083,0.972,4.31,73,English,3.6,622
+item_000883,Networked motivating parallelism,Science Fiction,2019-01-22,0.011,0.306,0.0,138,Japanese,3.5,6910
+item_000884,Cloned 6thgeneration framework,Fantasy,2025-06-25,0.485,0.789,1.58,150,Japanese,2.1,5195
+item_000885,Persevering upward-trending model,Mystery,2021-12-17,0.35,0.417,17.53,112,Japanese,2.3,8011
+item_000886,Mandatory intermediate software,Comedy,2025-12-14,0.444,0.422,21.03,82,French,3.5,5573
+item_000887,Mandatory mobile help-desk,Documentary,2023-07-02,0.274,0.718,18.82,123,German,2.6,1244
+item_000888,Down-sized impactful adapter,Western,2018-04-13,0.278,0.847,0.0,84,French,2.8,4881
+item_000889,Upgradable clear-thinking data-warehouse,Mystery,2023-05-04,0.465,1.0,0.0,87,Japanese,4.2,1516
+item_000890,Reverse-engineered motivating concept,Comedy,2017-03-24,0.353,0.764,18.15,99,English,3.7,8710
+item_000891,Universal solution-oriented utilization,Thriller,2016-05-15,0.097,0.514,0.0,139,Spanish,3.0,1266
+item_000892,Sharable eco-centric throughput,History,2021-05-06,0.196,1.0,0.0,159,French,3.3,8856
+item_000893,Business-focused radical application,Horror,2022-08-14,0.393,0.765,0.0,81,German,3.2,8453
+item_000894,Streamlined 3rdgeneration application,Science Fiction,2022-11-23,0.245,0.695,20.47,170,Spanish,4.6,8467
+item_000895,Operative leadingedge implementation,Documentary,2017-03-26,0.075,0.765,17.72,84,German,2.8,8738
+item_000896,Function-based methodical standardization,Romance,2017-07-12,0.149,0.599,28.09,45,Japanese,2.6,7587
+item_000897,Team-oriented systemic product,Crime,2016-02-02,0.395,0.637,7.96,106,German,3.2,1065
+item_000898,Operative stable attitude,Drama,2022-08-16,0.433,0.689,25.52,98,French,3.9,4211
+item_000899,Future-proofed regional portal,Family,2023-01-02,0.215,1.0,12.76,59,Spanish,2.6,4033
+item_000900,Operative bi-directional migration,History,2023-03-09,0.652,0.51,14.45,173,German,3.3,616
+item_000901,Decentralized executive budgetary management,Drama,2023-11-05,0.109,0.617,5.61,64,English,2.8,4561
+item_000902,Proactive dedicated portal,Western,2017-12-29,0.527,1.0,6.09,40,German,4.3,916
+item_000903,Fundamental multi-state customer loyalty,Animation,2019-07-30,0.12,0.66,10.09,106,English,4.7,6678
+item_000904,Open-source explicit complexity,Music,2016-05-22,0.17,0.858,0.0,53,German,4.8,2312
+item_000905,Proactive demand-driven solution,Family,2025-04-30,0.092,0.615,4.24,158,English,3.6,9519
+item_000906,Managed disintermediate ability,War,2016-02-15,0.187,0.642,8.29,53,Spanish,3.8,5144
+item_000907,Cross-group bifurcated orchestration,Horror,2022-09-08,0.403,0.399,25.13,129,Spanish,4.8,3581
+item_000908,Distributed background time-frame,Crime,2021-02-11,0.302,0.885,0.0,57,Spanish,2.6,4508
+item_000909,Up-sized uniform attitude,Science Fiction,2025-01-17,0.304,0.576,12.83,180,English,3.5,6149
+item_000910,Stand-alone discrete knowledgebase,Comedy,2025-11-19,0.157,0.927,10.17,138,German,4.0,4560
+item_000911,Implemented empowering Local Area Network,Crime,2016-06-30,0.108,0.408,11.52,124,French,2.1,9935
+item_000912,Enhanced 6thgeneration frame,Adventure,2019-08-07,0.259,0.596,0.0,43,Spanish,2.8,6312
+item_000913,Synergistic foreground interface,History,2023-05-20,0.087,0.708,19.52,122,English,3.6,3882
+item_000914,Cross-platform well-modulated analyzer,Science Fiction,2016-02-04,0.509,0.933,12.26,130,French,2.9,3867
+item_000915,Devolved stable project,History,2017-09-13,0.027,0.469,7.09,71,German,3.9,6666
+item_000916,Multi-channeled leadingedge process improvement,Adventure,2018-09-06,0.041,0.864,8.94,50,German,3.4,6775
+item_000917,Upgradable background hub,Horror,2024-02-24,0.305,0.522,21.79,55,Spanish,4.1,8305
+item_000918,Enterprise-wide bifurcated initiative,Animation,2020-01-01,0.26,0.702,11.19,170,French,3.4,458
+item_000919,Persevering encompassing info-mediaries,Adventure,2022-11-24,0.328,0.876,19.59,77,German,4.4,2239
+item_000920,Polarized intangible projection,Action,2024-11-10,0.149,0.817,0.0,132,Spanish,3.9,5150
+item_000921,Down-sized bifurcated capacity,Animation,2022-12-17,0.173,0.518,4.2,93,Japanese,4.1,2141
+item_000922,Centralized cohesive benchmark,Romance,2020-02-27,0.429,0.553,0.0,111,German,3.4,2197
+item_000923,Reverse-engineered mission-critical website,Fantasy,2021-09-08,0.431,0.753,0.0,74,Japanese,4.5,4626
+item_000924,Organic contextually-based pricing structure,Drama,2019-10-18,0.222,0.396,3.44,124,Spanish,3.2,6192
+item_000925,Multi-channeled reciprocal algorithm,Family,2024-08-15,0.409,0.672,1.59,35,Japanese,3.9,3757
+item_000926,Upgradable clear-thinking matrices,Animation,2025-03-15,0.632,1.0,29.24,80,French,4.1,2774
+item_000927,Customizable incremental intranet,Adventure,2016-06-15,0.164,0.753,12.62,139,Japanese,2.8,1469
+item_000928,Fundamental solution-oriented functionalities,Music,2016-02-14,0.185,0.924,5.92,175,English,2.0,8625
+item_000929,Synergistic multi-tasking throughput,Romance,2023-06-08,0.407,0.7,0.0,146,German,2.4,3338
+item_000930,Up-sized non-volatile definition,Drama,2025-10-11,0.237,0.826,28.43,98,French,4.2,6269
+item_000931,Synchronized global model,Crime,2021-03-24,0.402,0.722,13.5,82,Japanese,2.6,4646
+item_000932,Total regional attitude,Drama,2020-04-29,0.228,0.716,13.12,134,Spanish,2.1,4299
+item_000933,Upgradable dynamic matrices,Family,2019-06-16,0.253,0.822,18.9,93,French,3.7,7516
+item_000934,Synergistic secondary info-mediaries,Animation,2017-06-26,0.055,0.828,0.0,32,German,2.4,5306
+item_000935,Realigned reciprocal application,Mystery,2016-02-11,0.174,0.656,20.91,128,German,4.2,4208
+item_000936,Diverse motivating leverage,Animation,2024-07-07,0.073,0.79,3.75,45,English,3.0,3857
+item_000937,Down-sized asynchronous system engine,Thriller,2020-11-29,0.095,0.701,27.33,41,English,2.8,6251
+item_000938,Front-line full-range focus group,History,2016-07-01,0.031,0.858,29.34,124,Spanish,4.9,9177
+item_000939,Face-to-face neutral project,Adventure,2019-10-14,0.525,0.743,17.82,96,Spanish,3.5,5567
+item_000940,Front-line attitude-oriented knowledgebase,Science Fiction,2020-06-09,0.278,0.968,4.82,111,Japanese,3.3,4276
+item_000941,Re-engineered local array,Comedy,2024-07-25,0.305,0.618,10.07,62,German,4.6,4613
+item_000942,Organized foreground capability,Music,2025-10-21,0.115,0.985,27.85,102,French,3.8,4331
+item_000943,User-friendly solution-oriented adapter,War,2017-01-08,0.196,0.662,10.07,72,French,4.2,8059
+item_000944,Open-source 5thgeneration open architecture,Crime,2021-06-27,0.188,0.486,0.0,172,German,2.2,2445
+item_000945,Cross-group real-time process improvement,Adventure,2022-05-16,0.051,0.594,7.66,39,German,2.8,7663
+item_000946,Profound next generation database,Romance,2022-07-18,0.09,0.856,0.0,59,German,2.1,5851
+item_000947,Persevering global hierarchy,Western,2024-04-01,0.094,0.861,15.06,156,English,4.5,2435
+item_000948,Face-to-face logistical groupware,Comedy,2021-08-07,0.005,0.495,11.13,82,French,2.5,2767
+item_000949,Secured radical leverage,War,2023-03-01,0.121,0.876,24.84,174,Japanese,2.6,77
+item_000950,Multi-lateral transitional knowledge user,War,2017-02-19,0.441,0.907,23.23,76,German,4.8,4043
+item_000951,Virtual stable definition,Thriller,2016-01-08,0.153,0.866,20.62,114,English,2.9,2008
+item_000952,Multi-channeled scalable website,Mystery,2018-12-01,0.569,1.0,0.0,125,Japanese,4.8,1747
+item_000953,Programmable holistic standardization,Horror,2017-01-22,0.054,0.873,5.45,50,German,4.5,7871
+item_000954,Down-sized modular challenge,Science Fiction,2024-03-20,0.481,0.601,19.21,98,Japanese,4.0,5407
+item_000955,User-friendly uniform installation,Adventure,2017-01-24,0.364,0.668,0.0,145,French,4.8,9335
+item_000956,Seamless dedicated core,Crime,2017-03-16,0.245,0.929,7.12,42,French,3.0,919
+item_000957,Object-based didactic knowledgebase,Animation,2024-03-30,0.379,0.73,16.86,127,English,3.2,2926
+item_000958,Ergonomic transitional Graphical User Interface,Family,2017-01-27,0.102,0.434,28.98,132,English,2.1,3421
+item_000959,Operative 6thgeneration productivity,Documentary,2024-05-16,0.186,0.399,12.26,133,French,3.9,2535
+item_000960,Reverse-engineered bottom-line throughput,Comedy,2024-11-30,0.086,0.891,9.65,140,French,4.7,9897
+item_000961,Persevering stable parallelism,Crime,2025-07-23,0.229,0.435,11.4,54,French,3.5,8031
+item_000962,Devolved modular ability,Science Fiction,2021-04-20,0.162,0.777,26.67,151,French,3.7,6941
+item_000963,Business-focused neutral Internet solution,Animation,2024-05-21,0.292,0.663,22.93,124,Japanese,2.6,6989
+item_000964,Polarized multimedia time-frame,Animation,2025-03-18,0.176,0.746,2.16,117,German,4.0,2550
+item_000965,Enhanced system-worthy paradigm,Thriller,2017-09-25,0.185,1.0,0.0,164,Japanese,2.3,7681
+item_000966,De-engineered bi-directional info-mediaries,Romance,2022-07-28,0.282,0.677,3.29,152,French,2.4,2103
+item_000967,Robust fresh-thinking middleware,History,2024-10-23,0.104,0.835,0.0,93,Japanese,3.3,9324
+item_000968,Operative real-time solution,Adventure,2023-08-15,0.238,0.933,16.97,41,Japanese,2.3,6971
+item_000969,Grass-roots hybrid Graphical User Interface,Romance,2025-09-14,0.774,0.575,3.73,175,French,3.1,9603
+item_000970,Organized client-driven challenge,Animation,2020-02-15,0.371,0.752,0.0,158,English,2.3,7593
+item_000971,Total value-added migration,Documentary,2018-12-26,0.161,0.59,0.0,76,German,2.1,6829
+item_000972,Total neutral functionalities,History,2023-02-12,0.17,0.889,0.0,110,Japanese,4.2,7381
+item_000973,Reactive responsive data-warehouse,Fantasy,2018-01-02,0.36,0.344,10.89,77,Spanish,2.6,9906
+item_000974,Secured transitional frame,Fantasy,2022-11-12,0.238,0.848,0.0,57,German,3.6,105
+item_000975,Synergistic clear-thinking strategy,Mystery,2022-07-01,0.269,0.541,0.0,59,English,2.5,7827
+item_000976,Enhanced motivating moratorium,Science Fiction,2022-12-10,0.453,0.53,21.05,154,French,3.9,5920
+item_000977,Inverse tertiary budgetary management,Mystery,2023-08-10,0.135,0.523,0.0,107,English,2.4,237
+item_000978,Realigned mission-critical paradigm,Drama,2021-09-14,0.269,0.846,4.24,34,Spanish,4.6,3438
+item_000979,Synchronized tertiary instruction set,Thriller,2022-09-28,0.08,0.792,19.8,91,German,4.5,8834
+item_000980,Public-key executive interface,Drama,2024-01-30,0.091,0.98,0.0,52,French,4.3,2437
+item_000981,Programmable bi-directional algorithm,Thriller,2019-10-22,0.151,0.796,0.0,138,English,2.3,2507
+item_000982,Business-focused static approach,Science Fiction,2017-12-30,0.084,0.43,28.94,150,English,4.6,9598
+item_000983,Versatile zero tolerance complexity,Family,2025-10-31,0.218,1.0,0.0,81,French,3.7,6428
+item_000984,Synergized eco-centric circuit,Adventure,2024-05-23,0.321,0.555,10.67,56,German,4.9,8131
+item_000985,Team-oriented zero tolerance frame,Western,2018-01-14,0.299,0.807,29.96,39,German,3.2,8420
+item_000986,Quality-focused 5thgeneration help-desk,Thriller,2024-02-20,0.232,0.61,7.72,45,Japanese,2.1,9453
+item_000987,Customer-focused reciprocal service-desk,Horror,2023-05-24,0.1,0.91,17.03,98,German,4.7,1925
+item_000988,Face-to-face value-added project,Thriller,2021-08-11,0.146,0.817,19.05,118,German,4.1,350
+item_000989,Front-line multimedia toolset,Documentary,2023-12-19,0.184,0.515,9.34,79,German,3.0,3812
+item_000990,Total executive solution,War,2022-08-23,0.486,0.74,7.36,116,Japanese,4.6,7685
+item_000991,Multi-tiered human-resource instruction set,Crime,2025-07-25,0.092,0.902,0.0,105,German,4.9,5912
+item_000992,Synergized foreground neural-net,Thriller,2016-07-14,0.277,0.411,24.18,71,Japanese,2.6,1422
+item_000993,User-friendly eco-centric customer loyalty,Thriller,2022-03-15,0.379,0.828,4.73,81,Spanish,3.8,1663
+item_000994,Vision-oriented leadingedge definition,Romance,2025-02-10,0.553,0.428,0.0,156,French,2.7,9133
+item_000995,Triple-buffered tertiary project,Adventure,2019-09-04,0.146,0.716,0.0,34,French,4.6,5859
+item_000996,Reverse-engineered needs-based support,Documentary,2022-01-12,0.612,0.552,6.06,158,English,4.4,5543
+item_000997,Vision-oriented uniform core,Romance,2018-12-09,0.387,0.681,4.3,88,English,3.7,7978
+item_000998,Enhanced systemic archive,Fantasy,2017-11-13,0.344,0.742,0.0,117,French,4.3,9136
+item_000999,Enhanced user-facing migration,Fantasy,2017-03-10,0.021,0.789,26.98,161,Japanese,4.0,836
+item_001000,Balanced interactive focus group,Science Fiction,2021-07-25,0.048,0.943,24.16,58,English,4.3,9998
+item_001001,De-engineered cohesive paradigm,Comedy,2024-06-16,0.373,0.249,0.0,173,English,3.5,2746
+item_001002,Adaptive full-range Local Area Network,Comedy,2023-02-04,0.537,0.826,26.25,122,Spanish,4.2,7243
+item_001003,Distributed 6thgeneration collaboration,War,2025-04-14,0.795,0.56,15.44,55,Spanish,3.9,5492
+item_001004,Right-sized actuating time-frame,Crime,2025-04-27,0.121,0.727,0.0,61,Spanish,3.3,6821
+item_001005,Seamless stable framework,Action,2020-11-25,0.137,0.623,8.1,151,French,2.9,2815
+item_001006,Re-engineered neutral help-desk,Animation,2016-09-22,0.124,0.928,8.7,136,French,3.9,4031
+item_001007,Triple-buffered foreground moderator,Crime,2018-03-13,0.143,0.667,0.0,165,German,4.4,2270
+item_001008,Enterprise-wide multi-state architecture,Romance,2023-11-11,0.366,0.839,12.98,134,German,4.9,8466
+item_001009,Diverse intangible moratorium,Music,2021-05-14,0.596,0.839,28.36,143,Spanish,4.3,8486
+item_001010,Cross-group grid-enabled definition,Animation,2024-10-31,0.396,0.829,3.45,110,German,4.9,2702
+item_001011,Switchable full-range groupware,Romance,2019-08-09,0.096,0.929,2.77,39,Spanish,4.7,957
+item_001012,Extended web-enabled process improvement,War,2021-04-20,0.599,0.802,0.0,105,German,3.2,9080
+item_001013,Realigned web-enabled projection,History,2016-02-01,0.098,0.546,21.91,110,French,2.0,4593
+item_001014,Synchronized grid-enabled knowledge user,War,2018-05-26,0.561,0.749,18.69,67,German,3.3,3370
+item_001015,Stand-alone reciprocal process improvement,Western,2018-06-08,0.09,0.672,19.1,143,French,4.7,6637
+item_001016,Balanced systemic Graphic Interface,Drama,2019-10-24,0.119,1.0,26.54,51,English,3.6,6399
+item_001017,Customizable human-resource extranet,Crime,2021-05-26,0.098,0.872,0.0,163,Japanese,2.9,1530
+item_001018,Horizontal 4thgeneration model,War,2024-03-21,0.251,0.687,16.99,163,French,4.3,2631
+item_001019,Multi-layered multimedia website,Action,2021-01-31,0.421,0.789,1.8,168,Japanese,2.8,4989
+item_001020,Pre-emptive 6thgeneration frame,Romance,2024-12-24,0.109,0.874,29.61,58,English,4.5,4265
+item_001021,Ergonomic fresh-thinking migration,War,2016-10-26,0.167,0.729,0.0,120,English,2.1,2053
+item_001022,Cross-platform composite throughput,Science Fiction,2021-05-18,0.321,0.693,9.63,31,German,3.0,3878
+item_001023,Adaptive responsive architecture,Western,2018-02-07,0.413,0.464,0.0,89,French,2.9,9394
+item_001024,Self-enabling zero-defect data-warehouse,Crime,2024-08-24,0.572,0.411,21.71,163,Spanish,2.3,8471
+item_001025,Optimized bi-directional database,Drama,2021-05-17,0.216,0.833,24.85,122,German,2.3,6984
+item_001026,Total user-facing time-frame,Romance,2020-05-07,0.584,0.466,0.0,50,English,2.2,2140
+item_001027,Compatible value-added software,Thriller,2017-07-14,0.146,0.813,7.22,49,French,4.0,6608
+item_001028,Persevering transitional groupware,Western,2016-05-17,0.346,0.638,16.04,131,French,3.8,6947
+item_001029,Compatible actuating conglomeration,Science Fiction,2023-12-10,0.306,0.625,20.97,155,German,4.5,2374
+item_001030,Realigned asynchronous orchestration,War,2024-03-19,0.351,0.759,4.68,147,Spanish,4.9,8418
+item_001031,Fundamental incremental info-mediaries,War,2020-07-04,0.042,0.652,4.41,84,German,3.4,2579
+item_001032,Open-architected intermediate functionalities,Western,2016-03-01,0.672,0.726,11.7,60,Japanese,4.6,1817
+item_001033,Synergistic bottom-line monitoring,Comedy,2016-01-21,0.41,0.646,11.71,104,English,3.6,1939
+item_001034,Up-sized regional architecture,Music,2023-07-23,0.342,0.824,9.83,125,French,2.9,468
+item_001035,Reduced 6thgeneration standardization,Crime,2024-06-24,0.25,0.759,5.11,180,German,2.1,5009
+item_001036,Multi-channeled motivating benchmark,History,2018-11-23,0.577,0.687,7.24,155,English,2.4,5722
+item_001037,Synergized exuding portal,Animation,2016-11-11,0.193,0.856,26.23,136,German,3.7,9279
+item_001038,Virtual leadingedge implementation,Science Fiction,2019-12-13,0.119,0.631,27.1,126,German,4.5,9933
+item_001039,Switchable 4thgeneration leverage,Crime,2017-07-24,0.527,0.891,23.09,159,German,4.3,7367
+item_001040,Face-to-face client-driven synergy,Crime,2019-11-28,0.095,0.836,0.0,113,English,4.4,6721
+item_001041,Quality-focused explicit productivity,Mystery,2017-06-09,0.389,0.615,7.74,131,French,3.6,7269
+item_001042,Synergistic upward-trending project,Fantasy,2019-09-24,0.299,0.597,19.72,72,English,3.7,5070
+item_001043,Advanced neutral open architecture,Western,2017-05-30,0.282,0.938,19.7,173,English,2.6,8887
+item_001044,Balanced 24hour orchestration,Adventure,2021-12-18,0.279,0.527,28.75,163,Spanish,4.3,8245
+item_001045,Public-key neutral artificial intelligence,Action,2019-01-17,0.246,0.766,4.48,166,Spanish,4.9,4514
+item_001046,User-friendly user-facing success,Drama,2019-06-09,0.304,0.797,8.1,178,German,2.3,8751
+item_001047,Open-source secondary migration,Horror,2017-06-03,0.279,0.57,12.64,41,German,4.6,391
+item_001048,Enterprise-wide directional pricing structure,Horror,2024-05-06,0.103,0.623,13.66,136,English,4.6,5209
+item_001049,Ergonomic bifurcated contingency,Mystery,2022-09-16,0.136,0.696,8.45,59,English,3.6,4685
+item_001050,Re-contextualized actuating system engine,Crime,2025-04-27,0.412,0.559,0.0,76,French,4.3,2536
+item_001051,Reactive maximized project,History,2021-06-29,0.329,0.552,0.0,134,Spanish,2.2,5339
+item_001052,Implemented static architecture,Documentary,2018-07-03,0.149,0.367,0.0,36,English,2.9,1627
+item_001053,Exclusive uniform paradigm,Horror,2020-11-13,0.035,0.727,5.12,112,French,3.1,1991
+item_001054,Managed heuristic capacity,Adventure,2022-09-17,0.295,0.794,0.0,81,Spanish,4.3,9611
+item_001055,Front-line bandwidth-monitored forecast,Family,2022-03-12,0.451,0.427,15.29,159,German,4.8,4422
+item_001056,Ergonomic foreground matrix,Adventure,2020-07-03,0.062,0.645,0.0,111,German,3.7,1082
+item_001057,Seamless stable function,Thriller,2022-12-07,0.278,0.626,1.83,89,English,2.8,9613
+item_001058,Distributed non-volatile open system,Comedy,2019-08-23,0.473,0.768,0.0,93,Japanese,4.0,2067
+item_001059,Intuitive interactive concept,History,2016-01-17,0.271,0.806,17.47,144,English,4.5,8209
+item_001060,Fully-configurable zero tolerance definition,Drama,2023-02-13,0.053,0.488,23.69,66,French,3.6,2765
+item_001061,Stand-alone intermediate focus group,Family,2024-05-25,0.477,0.732,16.58,138,Japanese,3.4,26
+item_001062,Devolved systematic superstructure,Science Fiction,2019-04-25,0.575,0.524,28.86,104,Spanish,2.0,7910
+item_001063,Polarized maximized knowledge user,Fantasy,2019-08-02,0.163,0.756,18.33,127,French,4.5,3495
+item_001064,Integrated mobile neural-net,War,2017-01-31,0.584,1.0,0.0,102,English,2.5,8760
+item_001065,Stand-alone real-time artificial intelligence,Animation,2024-06-01,0.453,0.675,0.0,106,English,3.2,2024
+item_001066,Devolved national customer loyalty,Crime,2018-08-18,0.102,0.627,0.0,172,French,4.6,3464
+item_001067,Self-enabling asynchronous superstructure,War,2016-10-01,0.236,0.69,28.76,111,French,3.9,7427
+item_001068,Ameliorated motivating product,Fantasy,2016-04-22,0.057,0.983,0.0,92,French,3.0,7543
+item_001069,Reduced optimal initiative,Horror,2023-09-09,0.551,0.769,0.0,34,Spanish,3.9,43
+item_001070,Extended 5thgeneration neural-net,Thriller,2018-08-09,0.219,0.748,1.11,32,Spanish,3.2,8021
+item_001071,Quality-focused methodical projection,Mystery,2023-10-01,0.117,0.91,0.0,167,English,4.4,1280
+item_001072,Multi-lateral hybrid definition,Western,2024-11-29,0.443,0.751,1.89,143,English,3.1,6176
+item_001073,Reverse-engineered upward-trending frame,Music,2017-05-03,0.182,0.391,0.0,129,Spanish,4.5,148
+item_001074,Profit-focused multimedia array,Comedy,2019-12-19,0.22,0.568,0.0,148,French,4.8,7293
+item_001075,Profit-focused 24/7 protocol,Action,2018-05-21,0.43,0.69,7.41,35,French,4.0,5872
+item_001076,Seamless systemic concept,Drama,2023-07-28,0.136,0.655,0.0,53,Japanese,3.9,3633
+item_001077,Devolved local complexity,Family,2017-10-15,0.357,0.611,29.41,122,English,2.8,9939
+item_001078,Re-contextualized stable circuit,Drama,2023-05-11,0.458,0.696,0.0,31,Spanish,5.0,6499
+item_001079,Polarized heuristic analyzer,Comedy,2018-03-09,0.19,1.0,0.0,101,Japanese,3.5,2803
+item_001080,Pre-emptive discrete architecture,Western,2018-08-22,0.279,0.669,6.61,174,Japanese,3.7,1080
+item_001081,Focused 6thgeneration secured line,Crime,2018-01-24,0.097,0.93,22.62,62,French,4.8,3744
+item_001082,Multi-lateral human-resource leverage,War,2025-03-06,0.014,0.36,22.13,100,Spanish,4.5,388
+item_001083,Balanced 6thgeneration projection,Western,2019-03-28,0.148,1.0,0.0,94,Japanese,4.6,42
+item_001084,Triple-buffered multi-state productivity,Romance,2024-04-17,0.214,0.759,0.0,43,French,3.3,6676
+item_001085,User-centric empowering paradigm,Fantasy,2021-06-10,0.139,0.464,4.52,162,German,3.5,8484
+item_001086,Enhanced homogeneous projection,Adventure,2019-10-13,0.172,0.743,0.0,87,English,2.8,6892
+item_001087,Reverse-engineered solution-oriented archive,Western,2021-03-01,0.339,0.403,14.01,31,German,2.6,1350
+item_001088,Multi-tiered directional model,Action,2020-01-21,0.172,0.784,0.0,87,German,4.9,4105
+item_001089,Monitored mobile utilization,Drama,2020-10-26,0.246,0.562,5.76,109,English,3.9,1594
+item_001090,Robust 24hour middleware,Action,2024-10-26,0.246,0.68,0.0,152,German,4.4,9718
+item_001091,Organic composite emulation,Horror,2016-10-07,0.231,0.627,0.0,94,Spanish,2.3,3915
+item_001092,Stand-alone even-keeled data-warehouse,Horror,2017-07-01,0.112,0.885,25.13,115,Japanese,4.4,1204
+item_001093,Diverse high-level portal,Science Fiction,2023-03-04,0.092,1.0,23.15,144,Japanese,2.4,1004
+item_001094,Decentralized stable emulation,Adventure,2020-02-22,0.251,0.672,11.93,46,Spanish,2.2,7250
+item_001095,Managed uniform budgetary management,Adventure,2020-10-23,0.165,1.0,9.73,140,English,2.3,924
+item_001096,Polarized mission-critical database,Western,2021-11-27,0.409,0.943,2.5,127,German,2.3,6745
+item_001097,Stand-alone incremental adapter,Family,2018-06-08,0.435,0.454,26.06,32,German,3.2,7024
+item_001098,De-engineered object-oriented parallelism,Comedy,2017-08-10,0.149,0.502,10.84,36,German,3.6,9640
+item_001099,Self-enabling multimedia analyzer,Drama,2024-11-27,0.125,0.784,4.12,33,Japanese,4.1,9723
+item_001100,Digitized analyzing concept,Drama,2018-07-31,0.251,0.635,27.22,62,Japanese,2.8,6907
+item_001101,Enterprise-wide multi-state initiative,Thriller,2021-12-28,0.424,0.683,22.0,143,Spanish,2.7,732
+item_001102,Re-contextualized scalable adapter,Adventure,2024-10-13,0.397,0.703,4.69,179,German,3.5,5871
+item_001103,Upgradable stable forecast,History,2025-06-21,0.447,0.944,17.92,168,Spanish,2.4,5067
+item_001104,Extended local portal,Horror,2025-12-04,0.737,0.594,9.43,32,Japanese,3.8,2379
+item_001105,Polarized composite definition,Adventure,2024-04-20,0.131,0.75,0.0,90,Japanese,4.5,9176
+item_001106,Right-sized client-server utilization,Adventure,2021-10-28,0.226,0.604,0.0,138,French,2.6,3292
+item_001107,Visionary contextually-based process improvement,Drama,2022-08-05,0.34,0.641,23.76,117,Spanish,4.0,7667
+item_001108,Fundamental composite success,Horror,2022-11-08,0.119,0.938,0.0,178,Japanese,4.9,4919
+item_001109,Persevering radical parallelism,Romance,2016-09-07,0.267,0.449,10.52,56,German,4.6,701
+item_001110,Multi-tiered human-resource capacity,Thriller,2017-01-30,0.203,0.709,7.35,30,Spanish,4.1,7653
+item_001111,Exclusive multi-state middleware,Drama,2022-11-03,0.476,0.952,7.92,114,German,2.6,3028
+item_001112,Distributed real-time attitude,Action,2017-10-09,0.193,0.622,0.0,122,English,2.2,501
+item_001113,Seamless radical alliance,Western,2024-10-10,0.243,0.358,0.0,59,Spanish,2.9,3195
+item_001114,Public-key motivating system engine,Music,2017-03-04,0.332,1.0,2.26,37,Spanish,2.6,2863
+item_001115,Polarized stable capacity,Family,2025-01-06,0.323,1.0,26.67,74,French,4.5,4039
+item_001116,Quality-focused 24hour time-frame,Documentary,2022-10-13,0.314,0.605,0.0,80,English,2.5,4299
+item_001117,Optional multi-state instruction set,Comedy,2019-09-13,0.243,0.911,0.0,35,Spanish,3.1,1828
+item_001118,Balanced tangible moderator,Horror,2020-04-14,0.044,0.877,28.14,108,German,2.7,6110
+item_001119,Polarized zero administration implementation,Documentary,2019-07-03,0.05,0.807,28.28,141,English,2.4,2152
+item_001120,User-centric well-modulated standardization,Drama,2021-10-04,0.416,0.52,0.0,79,Japanese,3.1,6141
+item_001121,Optimized client-driven extranet,Horror,2020-10-07,0.145,0.394,0.0,139,Spanish,4.8,9632
+item_001122,Focused attitude-oriented forecast,Drama,2021-12-24,0.244,0.689,0.0,167,French,4.4,5378
+item_001123,Quality-focused incremental extranet,Family,2017-11-20,0.257,0.438,2.53,101,Spanish,4.6,9579
+item_001124,Triple-buffered value-added utilization,Thriller,2016-01-25,0.242,0.697,0.0,83,English,4.4,1072
+item_001125,Programmable bottom-line model,Documentary,2016-01-26,0.099,0.502,15.74,160,French,3.5,7616
+item_001126,Streamlined demand-driven solution,Documentary,2024-01-16,0.68,0.539,0.0,112,French,3.6,7928
+item_001127,Open-source high-level benchmark,Thriller,2017-07-18,0.488,0.605,14.73,178,German,3.9,9577
+item_001128,Streamlined optimal extranet,Adventure,2018-08-11,0.67,0.822,0.0,83,Spanish,4.7,7416
+item_001129,Public-key interactive open system,Family,2019-08-27,0.227,0.835,12.47,108,German,4.7,9371
+item_001130,Grass-roots systemic infrastructure,Documentary,2023-07-19,0.579,0.5,28.12,125,French,3.7,2210
+item_001131,Open-source neutral toolset,Animation,2021-07-28,0.471,0.78,0.0,105,German,3.6,3781
+item_001132,Enhanced holistic open architecture,Adventure,2021-07-19,0.22,0.531,14.48,116,German,3.4,7096
+item_001133,Function-based fault-tolerant orchestration,Romance,2019-06-10,0.327,0.778,11.65,157,French,2.8,414
+item_001134,Triple-buffered hybrid support,Documentary,2017-05-18,0.148,1.0,0.0,143,Spanish,2.8,1253
+item_001135,Switchable bottom-line synergy,Music,2018-04-18,0.176,0.558,27.13,105,Japanese,3.5,1290
+item_001136,Total cohesive attitude,Fantasy,2018-02-21,0.403,0.807,27.86,55,English,2.2,637
+item_001137,Open-architected zero tolerance Graphical User Interface,Western,2024-01-03,0.038,0.775,6.8,80,French,2.8,4506
+item_001138,Seamless tangible software,Drama,2023-01-24,0.659,0.916,0.0,65,Japanese,4.7,149
+item_001139,Diverse human-resource productivity,History,2016-01-19,0.276,0.501,9.16,118,German,4.8,9511
+item_001140,Cross-group client-server leverage,Action,2025-04-04,0.231,0.411,14.68,161,Spanish,4.6,3738
+item_001141,Optional background architecture,Family,2018-08-18,0.296,0.821,21.97,83,German,2.7,9627
+item_001142,Multi-layered attitude-oriented portal,Western,2016-05-16,0.131,0.978,22.96,148,French,4.4,5139
+item_001143,Networked impactful pricing structure,Drama,2022-07-24,0.325,0.716,13.42,136,Spanish,3.3,9159
+item_001144,Horizontal transitional policy,Action,2016-07-27,0.283,0.822,11.86,177,Spanish,2.9,168
+item_001145,Vision-oriented context-sensitive productivity,Thriller,2020-12-09,0.312,0.734,24.49,120,French,2.7,6984
+item_001146,Advanced dedicated protocol,Mystery,2025-04-22,0.292,0.621,0.0,167,French,3.0,390
+item_001147,Programmable executive core,Adventure,2016-05-01,0.199,0.983,27.73,69,French,3.7,9889
+item_001148,Right-sized multimedia model,Mystery,2022-12-25,0.626,0.635,29.41,82,German,2.2,6341
+item_001149,Seamless composite service-desk,Drama,2016-05-10,0.658,0.69,0.0,151,English,3.0,7407
+item_001150,Front-line solution-oriented ability,History,2025-10-03,0.158,0.287,3.69,56,Japanese,2.5,9895
+item_001151,Cross-group even-keeled time-frame,Thriller,2019-12-29,0.449,0.487,0.0,36,Spanish,2.6,6332
+item_001152,Synchronized hybrid initiative,History,2021-11-09,0.14,0.541,6.96,104,Japanese,2.2,951
+item_001153,Programmable 24/7 support,Music,2023-01-13,0.536,1.0,0.0,162,English,2.5,6741
+item_001154,Cross-group neutral forecast,Mystery,2023-04-05,0.23,0.827,5.54,58,Spanish,3.6,7845
+item_001155,Realigned optimal hardware,Animation,2019-06-22,0.15,0.621,0.0,129,Spanish,2.4,3379
+item_001156,Grass-roots directional portal,History,2025-08-18,0.075,0.46,13.52,151,Spanish,3.8,5094
+item_001157,Persevering impactful orchestration,Drama,2016-01-16,0.204,0.519,0.0,158,German,2.8,131
+item_001158,Enhanced incremental middleware,Crime,2017-01-22,0.394,0.455,13.92,132,Japanese,4.4,8625
+item_001159,Compatible motivating frame,Horror,2019-05-25,0.134,0.65,27.39,155,German,3.4,650
+item_001160,Customizable multimedia extranet,Animation,2024-10-04,0.296,0.504,9.34,146,French,4.1,4883
+item_001161,Re-engineered eco-centric solution,Mystery,2020-06-04,0.128,0.534,18.77,74,German,2.7,7089
+item_001162,Multi-tiered non-volatile matrices,Science Fiction,2023-09-12,0.672,0.865,12.15,76,Japanese,2.3,725
+item_001163,Versatile global time-frame,Family,2020-08-02,0.349,0.716,26.67,70,French,4.6,8820
+item_001164,Persevering optimizing algorithm,History,2020-10-25,0.189,0.624,20.32,47,Spanish,4.7,6748
+item_001165,Fundamental asymmetric implementation,Western,2022-05-02,0.45,0.746,4.51,124,English,4.3,8274
+item_001166,Face-to-face systematic standardization,Horror,2018-04-18,0.377,0.776,12.88,72,French,2.6,741
+item_001167,Intuitive incremental help-desk,Science Fiction,2021-02-28,0.214,0.45,1.76,148,German,3.0,6552
+item_001168,Advanced tangible firmware,Drama,2018-06-24,0.562,0.681,12.49,32,French,2.3,2246
+item_001169,Cross-group impactful service-desk,Horror,2023-06-27,0.06,0.754,20.43,148,German,3.4,1362
+item_001170,Mandatory asynchronous neural-net,Western,2025-04-24,0.436,0.613,0.0,92,German,2.4,4583
+item_001171,Phased foreground help-desk,Documentary,2018-03-08,0.046,0.604,5.94,34,Japanese,2.3,4829
+item_001172,Re-engineered encompassing contingency,Comedy,2025-06-20,0.35,0.778,16.49,130,Spanish,2.2,193
+item_001173,Synergized content-based methodology,Fantasy,2023-05-15,0.374,0.646,0.0,69,German,3.1,3559
+item_001174,Front-line user-facing encoding,Adventure,2024-09-22,0.289,0.898,26.88,166,Spanish,3.3,792
+item_001175,Expanded discrete customer loyalty,War,2024-05-07,0.152,0.896,0.0,56,German,4.1,7284
+item_001176,Secured heuristic collaboration,Adventure,2023-10-15,0.121,0.938,0.0,31,English,4.3,3315
+item_001177,Decentralized attitude-oriented service-desk,Family,2025-07-22,0.27,0.891,0.0,125,Spanish,2.6,272
+item_001178,Proactive reciprocal ability,Romance,2023-08-22,0.714,0.788,1.8,33,French,4.5,1045
+item_001179,Quality-focused 6thgeneration matrices,Family,2019-09-16,0.272,0.864,28.79,54,Spanish,4.2,731
+item_001180,Intuitive modular orchestration,Romance,2024-09-07,0.321,0.64,15.85,113,French,3.7,3115
+item_001181,Pre-emptive contextually-based task-force,Drama,2025-02-27,0.45,0.982,28.09,131,German,2.4,3512
+item_001182,Grass-roots hybrid definition,Comedy,2023-07-02,0.305,0.289,11.33,74,English,3.2,5191
+item_001183,De-engineered actuating moderator,Action,2023-12-28,0.373,0.614,12.28,147,Spanish,2.2,4572
+item_001184,Polarized needs-based alliance,Music,2021-01-08,0.623,0.633,2.26,85,German,2.9,9821
+item_001185,Object-based systemic time-frame,Thriller,2017-09-29,0.231,0.794,29.5,56,Japanese,4.4,9335
+item_001186,Decentralized tangible model,Documentary,2020-08-06,0.14,0.624,0.0,94,English,3.8,6376
+item_001187,Team-oriented 24/7 access,Crime,2022-09-27,0.256,0.781,10.62,111,German,2.2,299
+item_001188,Multi-tiered optimal attitude,Science Fiction,2019-04-02,0.228,0.632,12.08,89,Japanese,3.8,227
+item_001189,Seamless empowering contingency,Family,2021-06-25,0.065,0.782,1.61,61,French,2.7,7030
+item_001190,Front-line encompassing leverage,Family,2025-08-01,0.271,0.638,18.96,45,Spanish,3.1,4869
+item_001191,Mandatory high-level contingency,Drama,2020-12-26,0.338,0.505,0.0,68,German,2.6,631
+item_001192,Expanded intangible standardization,Family,2023-07-09,0.546,0.954,27.77,143,French,2.4,5212
+item_001193,Multi-lateral impactful focus group,Adventure,2020-07-03,0.257,0.415,16.1,136,French,4.3,3762
+item_001194,Re-engineered clear-thinking orchestration,Horror,2022-11-10,0.395,0.325,0.0,117,Spanish,2.6,895
+item_001195,Cross-platform uniform flexibility,Family,2024-01-15,0.566,0.772,0.0,86,Japanese,4.6,8553
+item_001196,Realigned intermediate implementation,Horror,2017-12-16,0.177,0.878,0.0,76,German,3.9,1068
+item_001197,User-centric coherent leverage,Thriller,2024-01-21,0.387,1.0,3.02,79,English,3.9,2328
+item_001198,Enhanced intangible methodology,Drama,2017-05-05,0.283,0.686,4.63,74,Japanese,3.6,3358
+item_001199,Self-enabling multi-state monitoring,Family,2023-03-16,0.11,0.652,0.0,159,English,3.3,7662
+item_001200,Pre-emptive exuding extranet,History,2021-08-14,0.297,0.8,5.75,80,Spanish,3.3,9936
+item_001201,Re-contextualized actuating infrastructure,Family,2016-12-26,0.178,0.835,9.78,177,German,4.9,3309
+item_001202,Diverse analyzing data-warehouse,Fantasy,2024-02-19,0.219,0.961,26.0,153,English,4.9,5901
+item_001203,Phased responsive attitude,Mystery,2020-06-30,0.318,0.745,11.94,150,German,3.3,9994
+item_001204,Managed empowering hierarchy,Romance,2019-08-08,0.282,0.737,23.04,153,English,4.3,7012
+item_001205,Realigned eco-centric hardware,Animation,2016-03-12,0.265,0.997,23.0,106,Japanese,3.6,9067
+item_001206,Decentralized grid-enabled service-desk,Documentary,2025-08-18,0.307,0.898,8.45,148,French,3.4,6156
+item_001207,Exclusive object-oriented orchestration,Western,2022-06-30,0.29,0.797,18.56,48,French,2.4,7698
+item_001208,Public-key context-sensitive time-frame,Drama,2018-11-04,0.238,0.541,5.48,78,English,2.0,8213
+item_001209,Inverse systematic migration,Music,2020-11-14,0.638,0.817,0.0,155,German,4.8,6475
+item_001210,User-centric local artificial intelligence,Music,2019-10-23,0.158,0.899,12.13,108,Japanese,2.2,646
+item_001211,Horizontal maximized product,Comedy,2025-07-25,0.093,0.791,0.0,128,Japanese,2.5,7158
+item_001212,Down-sized scalable workforce,Fantasy,2025-04-14,0.207,0.577,0.0,119,Japanese,4.1,6042
+item_001213,Operative responsive pricing structure,Adventure,2021-09-18,0.276,0.55,0.0,128,German,4.2,3980
+item_001214,Compatible attitude-oriented complexity,Thriller,2019-06-08,0.259,0.778,1.99,122,English,4.1,2432
+item_001215,Intuitive foreground projection,Fantasy,2018-11-29,0.613,0.784,0.0,146,Spanish,2.8,9875
+item_001216,Future-proofed real-time project,Documentary,2019-12-14,0.137,0.781,1.35,53,German,3.2,9613
+item_001217,Organic zero-defect hierarchy,Animation,2023-06-24,0.073,0.676,16.03,78,German,2.5,7003
+item_001218,Programmable local installation,Fantasy,2017-09-02,0.135,0.729,0.0,107,Japanese,4.9,6281
+item_001219,Ameliorated clear-thinking superstructure,History,2018-05-06,0.135,0.675,22.27,52,English,3.9,5652
+item_001220,Function-based value-added standardization,Crime,2023-06-30,0.171,0.765,8.79,83,German,4.1,115
+item_001221,Expanded composite infrastructure,Documentary,2017-01-10,0.399,0.0,24.67,30,English,2.2,6855
+item_001222,Cloned methodical neural-net,War,2016-07-14,0.338,1.0,0.0,136,French,4.2,2805
+item_001223,Visionary hybrid moderator,Documentary,2023-08-25,0.308,0.608,11.85,64,Spanish,3.5,8244
+item_001224,Configurable bi-directional firmware,Comedy,2022-03-06,0.628,0.741,14.06,84,Spanish,2.6,3003
+item_001225,Configurable solution-oriented info-mediaries,Drama,2019-02-03,0.131,0.767,8.51,134,German,3.9,1799
+item_001226,Fully-configurable user-facing forecast,Documentary,2020-06-05,0.398,0.69,0.0,50,French,2.3,2052
+item_001227,De-engineered clear-thinking moderator,Fantasy,2024-05-20,0.239,0.801,2.85,37,Japanese,2.7,7959
+item_001228,Assimilated 5thgeneration protocol,Comedy,2019-07-26,0.556,0.731,0.0,32,English,2.8,128
+item_001229,Inverse methodical Local Area Network,Adventure,2025-09-30,0.69,0.659,0.0,54,Spanish,3.6,128
+item_001230,Quality-focused encompassing neural-net,Mystery,2020-06-12,0.227,0.723,18.48,98,German,3.4,5531
+item_001231,Total needs-based conglomeration,Romance,2021-11-27,0.238,0.779,10.75,117,French,4.5,5928
+item_001232,Persevering responsive synergy,Mystery,2022-05-10,0.181,0.362,0.0,126,Japanese,2.2,5843
+item_001233,Re-contextualized intermediate moderator,Horror,2022-05-25,0.265,0.537,0.0,55,English,3.4,6593
+item_001234,Public-key fault-tolerant hardware,Crime,2020-10-24,0.463,0.5,1.73,61,Japanese,2.8,4082
+item_001235,Focused background intranet,Music,2019-01-28,0.13,0.45,0.0,145,Japanese,4.1,7795
+item_001236,Open-source empowering collaboration,War,2019-01-12,0.28,0.534,12.97,78,English,5.0,5288
+item_001237,Adaptive multi-state task-force,Action,2024-06-23,0.301,0.572,0.0,122,English,4.9,5343
+item_001238,Monitored executive leverage,Science Fiction,2021-05-07,0.168,0.811,7.76,154,German,4.2,1343
+item_001239,Team-oriented mobile system engine,Music,2020-10-07,0.503,0.485,13.4,151,English,4.2,4824
+item_001240,Advanced zero administration Internet solution,Drama,2023-12-23,0.301,0.712,21.64,163,Japanese,4.4,8277
+item_001241,Right-sized discrete utilization,Adventure,2016-01-26,0.09,0.696,4.7,52,French,4.5,9000
+item_001242,Multi-layered content-based installation,Science Fiction,2024-10-26,0.06,0.46,0.0,73,German,4.9,7909
+item_001243,Optional hybrid encryption,Western,2017-08-18,0.346,0.633,7.98,84,Spanish,4.3,1475
+item_001244,User-centric secondary info-mediaries,Comedy,2024-04-13,0.358,0.673,13.6,37,Spanish,4.8,5359
+item_001245,Face-to-face empowering artificial intelligence,Mystery,2020-03-21,0.184,0.646,23.21,86,French,4.0,2026
+item_001246,Front-line multi-state task-force,Crime,2023-12-31,0.366,0.894,27.75,155,English,4.4,5462
+item_001247,Seamless system-worthy software,Family,2018-09-19,0.065,0.983,28.01,46,French,3.1,6262
+item_001248,Streamlined value-added monitoring,Western,2024-02-01,0.12,0.963,29.01,141,Spanish,2.7,1905
+item_001249,Open-source content-based architecture,History,2017-10-27,0.277,0.745,3.53,52,French,4.2,3092
+item_001250,Implemented bifurcated productivity,Comedy,2020-07-20,0.038,0.533,17.6,62,French,4.9,9462
+item_001251,Organized encompassing standardization,Action,2022-03-23,0.179,0.81,0.0,109,English,3.8,3120
+item_001252,Ergonomic fresh-thinking adapter,Mystery,2017-07-08,0.449,0.762,29.41,111,French,4.4,2079
+item_001253,Public-key 3rdgeneration contingency,War,2025-09-20,0.462,1.0,20.24,86,English,3.2,8829
+item_001254,Horizontal encompassing capacity,Science Fiction,2023-02-24,0.446,0.66,10.15,105,Spanish,3.5,7477
+item_001255,Upgradable 24/7 emulation,Crime,2016-11-24,0.57,0.508,18.43,67,English,3.8,5070
+item_001256,Advanced modular data-warehouse,War,2019-06-02,0.446,0.486,29.71,61,French,5.0,9413
+item_001257,Integrated zero tolerance website,Thriller,2020-12-24,0.086,0.8,0.0,85,German,2.9,6181
+item_001258,Multi-layered maximized standardization,Adventure,2023-11-30,0.349,0.869,29.44,115,Spanish,4.5,3460
+item_001259,Managed attitude-oriented system engine,Family,2025-07-07,0.217,0.52,21.3,43,Spanish,4.6,6429
+item_001260,Centralized encompassing time-frame,History,2019-12-03,0.271,0.805,29.54,70,English,3.6,5538
+item_001261,Quality-focused methodical contingency,Romance,2017-12-02,0.339,0.345,0.0,151,French,4.3,6417
+item_001262,Function-based homogeneous access,Animation,2017-03-20,0.457,0.939,16.3,102,French,4.1,3206
+item_001263,Visionary transitional encryption,Western,2019-11-05,0.406,0.829,0.0,130,English,2.4,9519
+item_001264,Organic dynamic support,Adventure,2025-12-11,0.17,0.9,25.63,107,German,4.0,9466
+item_001265,Exclusive logistical support,Crime,2023-09-16,0.109,0.87,0.0,143,German,2.9,2382
+item_001266,Programmable static database,Drama,2020-09-22,0.384,0.557,7.32,80,English,3.1,9441
+item_001267,Synergized fault-tolerant Graphic Interface,Comedy,2017-08-01,0.387,0.713,20.66,67,German,4.9,7007
+item_001268,Upgradable 6thgeneration synergy,Documentary,2025-05-16,0.326,0.359,27.84,54,French,4.9,2953
+item_001269,Programmable bottom-line extranet,Adventure,2020-10-22,0.211,0.592,4.39,161,French,3.8,2444
+item_001270,Innovative dedicated hierarchy,Mystery,2024-11-15,0.245,0.725,8.1,60,Spanish,3.2,4969
+item_001271,Synchronized didactic budgetary management,Documentary,2018-05-10,0.312,0.724,19.92,126,English,4.3,6270
+item_001272,Optional fresh-thinking access,Fantasy,2017-09-02,0.311,0.346,0.0,143,French,2.0,1920
+item_001273,Grass-roots optimal capability,Animation,2019-12-15,0.497,0.787,4.53,160,Spanish,2.1,9397
+item_001274,Fully-configurable 24/7 analyzer,Thriller,2021-10-22,0.518,0.877,8.93,54,Japanese,2.5,7942
+item_001275,Team-oriented methodical solution,Romance,2021-12-16,0.559,0.787,9.64,62,English,3.0,8816
+item_001276,Multi-layered zero administration array,Documentary,2018-06-26,0.305,0.898,12.74,35,German,3.7,8798
+item_001277,Proactive background software,War,2022-03-08,0.408,0.484,15.16,162,Japanese,3.6,2043
+item_001278,Virtual responsive approach,Drama,2016-08-05,0.694,0.82,0.0,60,Spanish,4.6,2958
+item_001279,Stand-alone coherent standardization,Action,2021-05-12,0.226,1.0,17.08,110,English,2.1,9432
+item_001280,Customer-focused clear-thinking matrix,Drama,2018-04-28,0.028,0.677,19.92,52,Japanese,2.8,583
+item_001281,Realigned zero tolerance project,Animation,2023-07-26,0.549,0.583,29.41,159,French,3.1,8929
+item_001282,Organic upward-trending core,Documentary,2016-03-18,0.045,0.813,13.26,30,Spanish,2.9,8520
+item_001283,Multi-tiered heuristic success,History,2017-05-06,0.316,1.0,0.0,166,German,2.4,8045
+item_001284,Balanced mobile strategy,Horror,2020-05-16,0.212,0.549,16.15,120,Japanese,3.6,3448
+item_001285,Implemented needs-based standardization,Comedy,2020-11-24,0.086,0.378,0.0,41,Spanish,2.1,2331
+item_001286,Re-contextualized contextually-based moratorium,History,2019-06-23,0.721,0.765,25.82,85,Spanish,3.8,3549
+item_001287,Upgradable maximized focus group,Music,2024-09-03,0.177,0.645,0.0,101,Spanish,4.2,6924
+item_001288,Right-sized neutral complexity,Animation,2016-09-07,0.243,0.664,0.0,170,French,2.8,2685
+item_001289,Distributed local frame,Mystery,2024-03-11,0.354,0.924,0.0,146,English,4.8,6978
+item_001290,Quality-focused high-level knowledgebase,Crime,2016-01-02,0.203,0.529,16.53,48,French,5.0,3166
+item_001291,Sharable motivating implementation,Music,2023-05-03,0.194,0.801,17.34,160,Japanese,2.5,2524
+item_001292,Ameliorated regional hierarchy,Horror,2023-10-04,0.416,0.68,29.77,141,German,2.1,9899
+item_001293,Front-line fresh-thinking success,Family,2016-08-18,0.477,1.0,3.24,61,Japanese,2.3,8994
+item_001294,Public-key human-resource core,Romance,2021-03-28,0.482,0.66,2.9,52,French,4.7,4486
+item_001295,Proactive zero administration neural-net,Crime,2017-07-16,0.373,0.847,26.19,87,French,2.0,6189
+item_001296,Horizontal fresh-thinking installation,Family,2022-05-29,0.518,0.483,11.97,56,English,2.5,5032
+item_001297,Customizable bandwidth-monitored model,Thriller,2022-08-02,0.392,0.647,3.76,119,Japanese,4.6,9046
+item_001298,Balanced clear-thinking conglomeration,Fantasy,2024-09-24,0.175,0.755,18.61,42,Spanish,3.0,6392
+item_001299,Exclusive bi-directional matrix,Documentary,2017-11-29,0.388,0.743,11.0,166,Japanese,3.8,6607
+item_001300,Automated object-oriented project,Thriller,2024-05-12,0.177,0.702,18.17,96,English,4.1,2557
+item_001301,Switchable mobile moderator,Crime,2022-03-28,0.129,0.678,5.13,175,French,2.2,6074
+item_001302,Reverse-engineered eco-centric application,Family,2019-08-30,0.776,0.963,20.66,137,German,2.5,5809
+item_001303,Robust transitional archive,Science Fiction,2016-02-16,0.151,0.885,0.0,158,French,2.8,7018
+item_001304,Expanded solution-oriented matrix,War,2025-04-13,0.256,0.521,28.3,88,French,3.9,1434
+item_001305,Configurable maximized website,History,2022-05-21,0.074,0.663,0.0,134,French,4.5,1312
+item_001306,Multi-lateral next generation synergy,Animation,2025-05-19,0.206,0.803,0.0,91,English,2.5,950
+item_001307,Operative holistic utilization,Animation,2023-01-30,0.567,0.86,22.55,171,German,4.4,185
+item_001308,Seamless encompassing moderator,Romance,2016-05-27,0.221,0.546,20.62,64,German,3.5,8732
+item_001309,Compatible exuding archive,Comedy,2025-06-11,0.397,0.613,12.75,78,English,4.1,8764
+item_001310,Programmable bandwidth-monitored attitude,Music,2023-04-02,0.211,0.669,8.07,165,Japanese,2.1,7360
+item_001311,Public-key human-resource core,Documentary,2017-12-05,0.211,0.67,0.0,164,Spanish,2.5,6023
+item_001312,Switchable dynamic open system,Crime,2022-04-02,0.381,0.622,15.89,43,German,3.5,2803
+item_001313,Enhanced next generation synergy,Music,2021-07-30,0.126,0.727,29.11,116,Spanish,4.5,1941
+item_001314,User-friendly bi-directional throughput,History,2022-05-20,0.338,0.747,9.67,105,French,2.6,9329
+item_001315,Multi-channeled systematic knowledgebase,Mystery,2023-01-09,0.248,0.583,7.3,108,Japanese,4.5,590
+item_001316,Optimized bi-directional concept,Science Fiction,2023-12-03,0.225,0.665,26.87,154,English,3.1,7552
+item_001317,Reactive impactful middleware,Horror,2019-05-16,0.011,1.0,9.64,57,English,3.0,3060
+item_001318,Diverse national policy,Mystery,2020-06-05,0.065,0.507,11.27,55,German,3.5,1398
+item_001319,Multi-channeled foreground neural-net,War,2025-11-29,0.233,0.72,0.0,161,Spanish,3.2,7995
+item_001320,Inverse holistic installation,Action,2023-08-22,0.233,0.862,0.0,69,French,2.7,6487
+item_001321,Optional uniform Graphic Interface,Music,2022-01-30,0.665,0.75,9.67,139,Spanish,3.6,4425
+item_001322,Re-contextualized needs-based data-warehouse,Comedy,2019-10-01,0.336,0.437,29.68,142,Spanish,2.4,7120
+item_001323,Reactive value-added extranet,Action,2019-08-07,0.248,0.545,11.41,80,English,2.6,669
+item_001324,Organized local infrastructure,Crime,2015-12-31,0.173,0.687,12.43,114,English,2.5,3270
+item_001325,Automated executive policy,Thriller,2016-02-28,0.29,0.61,0.0,98,English,3.3,9023
+item_001326,Devolved exuding ability,Thriller,2019-01-01,0.03,0.565,24.18,62,French,4.3,6561
+item_001327,Face-to-face didactic functionalities,War,2016-03-19,0.407,0.728,0.0,129,Spanish,2.3,1777
+item_001328,Team-oriented even-keeled neural-net,Action,2021-02-09,0.055,1.0,4.65,118,Japanese,2.0,3884
+item_001329,Re-engineered object-oriented collaboration,Adventure,2016-12-09,0.201,0.749,20.66,117,German,4.9,141
+item_001330,Persevering heuristic collaboration,Romance,2017-05-19,0.157,0.808,14.92,102,German,2.2,7037
+item_001331,Multi-lateral optimal encryption,Family,2018-04-30,0.169,0.729,18.9,160,Spanish,2.7,1894
+item_001332,Innovative background orchestration,Fantasy,2019-12-30,0.37,0.671,0.0,93,German,2.6,1698
+item_001333,Extended upward-trending archive,War,2023-03-27,0.496,0.633,18.71,78,Japanese,3.9,2446
+item_001334,Polarized context-sensitive matrix,Family,2024-04-03,0.133,0.816,4.48,132,English,2.8,3158
+item_001335,Team-oriented tangible orchestration,Crime,2024-03-11,0.471,0.606,0.0,139,English,3.8,1499
+item_001336,Cross-platform radical project,Adventure,2019-01-01,0.495,0.684,12.02,164,French,4.1,3801
+item_001337,Upgradable object-oriented implementation,Family,2016-10-12,0.139,0.931,10.74,152,English,3.5,856
+item_001338,Centralized zero administration groupware,History,2019-06-23,0.415,0.594,4.18,123,French,4.8,6859
+item_001339,Optional intangible capability,Family,2024-09-11,0.431,0.911,0.0,111,English,2.5,18
+item_001340,Focused value-added projection,Adventure,2024-06-29,0.436,0.801,20.14,112,Spanish,2.9,4600
+item_001341,Advanced scalable time-frame,Comedy,2022-04-27,0.306,0.616,13.49,94,German,3.1,4996
+item_001342,Business-focused fault-tolerant moderator,Comedy,2016-05-29,0.392,0.736,0.0,54,English,4.0,2144
+item_001343,Quality-focused non-volatile collaboration,Horror,2019-04-07,0.584,0.683,11.45,122,Japanese,3.6,6098
+item_001344,Total directional collaboration,Family,2016-07-02,0.15,0.739,19.85,83,Japanese,3.2,1752
+item_001345,Upgradable hybrid knowledge user,Crime,2023-07-12,0.232,0.883,19.25,60,English,3.8,3130
+item_001346,Re-engineered motivating array,Drama,2018-03-21,0.507,1.0,21.43,55,English,4.8,5628
+item_001347,Implemented zero tolerance infrastructure,History,2017-06-23,0.152,0.646,0.0,151,Spanish,3.6,2527
+item_001348,Mandatory attitude-oriented leverage,Adventure,2021-09-17,0.226,0.932,4.7,137,Japanese,4.1,9190
+item_001349,Business-focused neutral initiative,Music,2018-08-16,0.334,0.601,0.0,123,German,3.9,1933
+item_001350,Open-architected motivating Internet solution,Romance,2023-09-26,0.201,0.931,2.95,137,Japanese,4.8,8265
+item_001351,De-engineered well-modulated challenge,Action,2020-10-21,0.46,0.432,5.83,100,Spanish,2.9,9286
+item_001352,Exclusive mobile infrastructure,Adventure,2022-07-09,0.383,0.892,0.0,78,German,3.5,8733
+item_001353,Exclusive next generation pricing structure,War,2025-12-20,0.122,0.482,29.16,72,German,4.3,6303
+item_001354,Progressive dynamic encryption,Western,2016-09-17,0.22,0.648,0.0,129,German,3.8,3400
+item_001355,Vision-oriented intermediate Graphic Interface,Documentary,2022-11-05,0.437,0.856,1.09,176,Spanish,3.8,155
+item_001356,Re-engineered background budgetary management,War,2022-09-18,0.313,0.323,14.2,164,French,2.9,3619
+item_001357,Optimized high-level hardware,History,2017-11-25,0.132,0.733,21.53,171,English,2.5,757
+item_001358,Monitored radical projection,Western,2016-03-28,0.614,1.0,0.0,90,French,2.1,2437
+item_001359,Integrated composite hardware,Fantasy,2022-02-28,0.047,0.587,27.88,99,English,3.9,4089
+item_001360,Organic regional circuit,Drama,2020-05-27,0.075,0.595,16.49,30,French,3.9,6057
+item_001361,Focused dedicated software,Horror,2019-09-26,0.115,0.919,3.4,170,French,4.2,6700
+item_001362,Versatile upward-trending artificial intelligence,History,2017-02-13,0.2,0.737,10.4,44,English,4.5,3602
+item_001363,Business-focused dynamic process improvement,Fantasy,2025-04-07,0.191,0.623,0.0,75,French,4.9,8814
+item_001364,Horizontal 24/7 Graphical User Interface,Comedy,2022-12-08,0.537,0.408,21.95,127,French,4.6,9911
+item_001365,Customizable fault-tolerant knowledge user,Western,2020-09-16,0.332,0.612,0.0,82,German,2.7,4413
+item_001366,Managed demand-driven support,Drama,2021-05-18,0.182,0.412,17.86,131,Spanish,3.3,7119
+item_001367,Expanded needs-based model,Music,2023-07-03,0.388,0.604,5.29,152,English,3.5,7536
+item_001368,Reactive mission-critical process improvement,Documentary,2023-04-19,0.655,0.782,0.0,75,Spanish,3.7,2965
+item_001369,Digitized system-worthy standardization,History,2022-09-06,0.279,0.482,0.0,35,French,2.5,2921
+item_001370,Multi-tiered optimal protocol,Mystery,2021-04-07,0.698,0.256,20.92,78,English,2.4,6996
+item_001371,Function-based composite approach,Family,2018-11-02,0.356,0.644,0.0,146,German,2.3,8640
+item_001372,Total regional flexibility,Crime,2016-07-11,0.215,0.867,22.07,33,Japanese,2.3,6301
+item_001373,Streamlined 24/7 architecture,Action,2019-11-19,0.268,0.8,4.18,33,English,2.4,1379
+item_001374,Future-proofed stable protocol,Fantasy,2019-08-07,0.285,0.567,5.13,33,English,4.9,1752
+item_001375,Customer-focused 3rdgeneration frame,Western,2024-09-02,0.53,0.927,22.34,116,English,2.6,7881
+item_001376,Streamlined human-resource emulation,Science Fiction,2025-10-18,0.101,0.564,24.64,108,French,3.4,4004
+item_001377,Profound tertiary attitude,Adventure,2025-01-13,0.348,0.616,16.75,98,Japanese,2.4,739
+item_001378,Pre-emptive radical monitoring,Comedy,2016-11-16,0.23,0.643,0.0,169,French,2.3,6814
+item_001379,Exclusive motivating knowledgebase,Crime,2021-08-09,0.547,0.943,0.0,30,Spanish,2.1,7008
+item_001380,Universal 3rdgeneration analyzer,Mystery,2018-06-21,0.252,0.477,5.26,103,Spanish,4.8,6313
+item_001381,Progressive fault-tolerant groupware,Comedy,2020-11-23,0.198,0.914,15.25,58,Spanish,2.3,4627
+item_001382,User-friendly cohesive adapter,Music,2019-06-19,0.309,0.745,3.2,115,English,3.1,1399
+item_001383,Multi-channeled heuristic product,Adventure,2019-01-08,0.512,0.656,0.0,68,Spanish,3.3,5496
+item_001384,Profit-focused even-keeled workforce,Documentary,2016-08-13,0.394,0.991,0.0,138,Spanish,4.7,4950
+item_001385,Function-based human-resource algorithm,History,2025-06-09,0.588,0.981,11.09,56,French,4.7,6057
+item_001386,Grass-roots directional collaboration,Fantasy,2019-06-01,0.242,0.698,24.5,49,English,4.6,2445
+item_001387,Object-based stable challenge,Crime,2016-11-15,0.335,0.525,10.28,129,German,4.2,7848
+item_001388,Multi-tiered multi-state service-desk,Animation,2022-02-14,0.09,0.736,0.0,58,Japanese,3.3,4572
+item_001389,Self-enabling systemic emulation,Crime,2020-03-03,0.142,0.385,3.61,62,Spanish,4.3,5787
+item_001390,Re-engineered coherent interface,Horror,2025-09-14,0.092,0.599,15.32,153,German,3.8,5473
+item_001391,Robust full-range knowledge user,Crime,2021-06-02,0.436,0.837,24.25,92,German,3.3,8154
+item_001392,Expanded solution-oriented challenge,Western,2021-10-22,0.096,0.283,0.0,166,German,3.6,3780
+item_001393,Synergized dedicated challenge,Mystery,2019-02-01,0.129,0.706,0.0,51,Japanese,4.1,8643
+item_001394,Triple-buffered multi-tasking challenge,Family,2020-04-19,0.09,1.0,21.38,90,French,2.0,291
+item_001395,Visionary client-server projection,Music,2025-04-30,0.395,0.709,17.18,64,English,2.2,5733
+item_001396,Diverse foreground architecture,Music,2021-07-27,0.399,0.304,25.6,65,French,3.4,9045
+item_001397,Up-sized bottom-line contingency,Romance,2019-03-05,0.444,0.613,8.02,87,English,4.2,1930
+item_001398,Digitized upward-trending algorithm,Crime,2023-08-27,0.238,0.478,0.0,126,English,4.1,6968
+item_001399,Open-source incremental framework,Music,2020-06-05,0.231,1.0,0.0,43,English,4.0,1218
+item_001400,Sharable user-facing focus group,Thriller,2017-07-08,0.087,0.729,0.0,70,English,2.4,2324
+item_001401,Ergonomic bi-directional capacity,Animation,2017-11-04,0.521,0.321,8.1,33,Japanese,4.5,6833
+item_001402,Virtual reciprocal pricing structure,Crime,2018-08-31,0.53,0.475,0.0,76,German,4.2,8651
+item_001403,Re-contextualized reciprocal emulation,History,2021-12-17,0.252,0.887,14.63,116,German,4.3,226
+item_001404,Focused systemic algorithm,History,2019-08-04,0.205,0.887,4.22,45,English,3.8,2853
+item_001405,Team-oriented zero-defect matrices,War,2017-05-03,0.218,0.876,5.64,131,German,4.0,7453
+item_001406,Robust methodical structure,Western,2022-06-29,0.668,0.639,21.62,96,Japanese,3.5,3734
+item_001407,Enterprise-wide human-resource matrix,Romance,2020-09-25,0.315,0.552,28.0,99,English,3.6,2060
+item_001408,Diverse content-based definition,Drama,2016-04-26,0.286,0.684,0.0,132,Japanese,2.2,6437
+item_001409,Virtual 24/7 flexibility,Documentary,2025-07-02,0.269,0.871,24.84,173,Japanese,4.5,7684
+item_001410,Face-to-face value-added secured line,Thriller,2025-11-18,0.219,0.945,0.0,110,German,4.5,2710
+item_001411,Versatile demand-driven architecture,Adventure,2017-10-07,0.303,0.585,24.29,138,Spanish,2.8,1720
+item_001412,Organic reciprocal matrix,Animation,2022-11-16,0.334,0.745,0.0,122,Japanese,4.3,5506
+item_001413,Persevering dynamic interface,Action,2020-01-17,0.223,0.699,7.94,71,Japanese,2.3,3481
+item_001414,Balanced real-time support,Action,2024-03-29,0.711,0.774,22.93,109,Spanish,3.7,540
+item_001415,Up-sized foreground infrastructure,Family,2022-02-10,0.128,0.589,8.8,175,Japanese,2.1,7936
+item_001416,User-friendly object-oriented policy,Adventure,2021-05-11,0.221,0.65,2.38,53,French,2.0,5853
+item_001417,Stand-alone tertiary toolset,History,2016-05-19,0.217,0.59,28.79,158,Spanish,2.9,6410
+item_001418,Customer-focused local knowledgebase,Music,2024-04-08,0.246,0.818,29.23,54,French,3.2,8260
+item_001419,Balanced dynamic model,Comedy,2021-05-17,0.224,0.644,15.55,68,English,3.8,6270
+item_001420,User-centric 6thgeneration open architecture,Thriller,2019-11-15,0.244,0.839,0.0,180,English,2.9,2492
+item_001421,Virtual responsive application,Science Fiction,2017-11-23,0.205,0.899,0.0,50,English,4.9,3804
+item_001422,Organic hybrid framework,Drama,2023-09-26,0.187,0.634,24.41,66,Spanish,5.0,8228
+item_001423,Horizontal maximized concept,War,2020-03-22,0.157,0.558,29.77,163,French,3.3,2159
+item_001424,Seamless actuating solution,Horror,2021-03-02,0.288,0.822,9.42,140,English,4.7,6360
+item_001425,Digitized maximized project,Family,2020-07-07,0.727,0.432,0.0,83,Japanese,3.8,2506
+item_001426,Up-sized motivating budgetary management,Thriller,2017-10-17,0.171,0.749,3.81,33,Spanish,4.3,5081
+item_001427,Reduced tangible moratorium,Western,2017-05-08,0.207,0.717,26.15,52,German,2.3,5149
+item_001428,Open-source fresh-thinking knowledge user,Documentary,2016-03-31,0.339,0.805,0.0,105,Spanish,2.2,9455
+item_001429,Persevering optimizing structure,Music,2024-12-15,0.102,0.515,11.24,48,Spanish,4.1,7558
+item_001430,Persevering background extranet,Fantasy,2019-03-28,0.192,0.359,0.0,151,French,4.3,7252
+item_001431,Streamlined transitional utilization,Crime,2017-08-21,0.242,0.413,28.25,175,German,2.1,4706
+item_001432,Upgradable bottom-line array,Mystery,2017-02-20,0.351,0.595,0.0,134,Japanese,4.8,2123
+item_001433,Organized scalable hierarchy,Science Fiction,2016-11-06,0.675,1.0,0.0,123,Japanese,4.5,5148
+item_001434,Triple-buffered human-resource superstructure,Music,2023-11-28,0.298,0.599,0.0,51,German,3.5,4316
+item_001435,Profound reciprocal complexity,Adventure,2019-10-14,0.108,0.75,18.99,44,Spanish,4.1,9198
+item_001436,Multi-tiered 6thgeneration throughput,Action,2017-09-15,0.091,0.62,5.47,56,French,3.1,9351
+item_001437,Managed non-volatile protocol,Mystery,2024-08-16,0.012,0.838,25.75,87,German,4.6,1541
+item_001438,Diverse client-server conglomeration,Music,2023-09-09,0.27,0.859,14.5,166,German,2.3,2963
+item_001439,Business-focused intangible function,Comedy,2019-02-03,0.113,0.566,27.6,131,German,2.6,5395
+item_001440,Visionary local forecast,Animation,2022-04-06,0.213,0.727,10.19,154,Spanish,4.1,7812
+item_001441,Decentralized clear-thinking customer loyalty,Comedy,2016-01-12,0.141,0.827,9.06,39,Japanese,2.5,7709
+item_001442,Virtual eco-centric access,Crime,2020-08-01,0.107,0.664,19.56,111,Japanese,2.1,9858
+item_001443,Proactive needs-based workforce,Mystery,2016-01-21,0.119,0.85,2.8,122,German,4.9,3506
+item_001444,Proactive disintermediate data-warehouse,Adventure,2021-11-20,0.16,0.619,7.12,35,German,2.8,2895
+item_001445,Phased logistical installation,Animation,2020-06-01,0.26,0.739,5.1,100,German,2.2,7406
+item_001446,Right-sized radical ability,Romance,2018-06-11,0.282,0.581,16.21,96,Spanish,4.5,1524
+item_001447,Reactive even-keeled process improvement,Romance,2022-04-14,0.179,0.936,10.91,106,Spanish,2.6,6876
+item_001448,Expanded actuating contingency,Thriller,2017-06-24,0.09,0.917,0.0,151,Japanese,4.1,2642
+item_001449,Streamlined grid-enabled alliance,Romance,2017-06-14,0.236,0.684,11.28,176,German,4.5,9199
+item_001450,Automated static orchestration,Drama,2024-05-18,0.32,0.665,3.25,178,Japanese,2.4,5195
+item_001451,Innovative full-range array,Action,2016-06-27,0.128,0.375,0.0,68,German,4.8,8192
+item_001452,Operative context-sensitive complexity,Horror,2022-09-20,0.291,0.725,0.0,59,German,2.8,70
+item_001453,Seamless stable solution,Science Fiction,2022-12-30,0.461,0.749,0.0,62,German,3.9,9486
+item_001454,Re-engineered zero tolerance open architecture,Comedy,2017-10-09,0.041,0.524,2.05,78,German,4.1,2731
+item_001455,Persevering value-added paradigm,Mystery,2019-08-07,0.121,0.551,7.26,83,Spanish,4.9,9460
+item_001456,Automated background throughput,Action,2018-12-28,0.159,0.991,0.0,124,French,2.0,5039
+item_001457,Multi-layered homogeneous architecture,War,2023-08-01,0.192,1.0,24.74,61,German,3.9,7481
+item_001458,Reactive asymmetric frame,Romance,2020-09-14,0.392,0.551,0.0,135,French,3.1,8897
+item_001459,Decentralized system-worthy focus group,Romance,2019-04-16,0.134,0.342,16.16,115,English,4.8,7527
+item_001460,Open-source multi-tasking database,Romance,2022-12-15,0.295,0.635,0.0,125,Spanish,3.7,2674
+item_001461,Seamless analyzing benchmark,Western,2021-09-17,0.439,0.477,0.0,141,German,2.9,7177
+item_001462,Self-enabling multi-tasking array,History,2020-10-31,0.342,0.739,21.35,55,English,4.4,1710
+item_001463,Team-oriented real-time toolset,Animation,2025-11-10,0.059,0.808,19.83,135,English,3.5,8934
+item_001464,Horizontal interactive portal,Comedy,2024-06-23,0.185,0.691,19.36,158,Japanese,4.4,4759
+item_001465,Fundamental multi-tasking orchestration,Romance,2025-12-12,0.51,0.733,0.0,84,Spanish,4.3,9047
+item_001466,Multi-channeled clear-thinking pricing structure,Mystery,2021-08-16,0.087,0.774,4.31,150,English,3.1,7611
+item_001467,Programmable upward-trending product,Romance,2020-12-22,0.098,0.325,27.32,131,English,4.8,3678
+item_001468,Enterprise-wide reciprocal emulation,War,2023-01-31,0.38,0.707,9.21,97,French,4.5,6804
+item_001469,Ergonomic 24hour capability,Family,2016-03-27,0.177,0.685,1.11,136,English,2.0,2522
+item_001470,Self-enabling bottom-line support,Music,2024-06-23,0.321,0.912,0.0,162,Japanese,3.0,2802
+item_001471,Seamless intangible installation,Romance,2016-06-14,0.485,0.895,0.0,91,Japanese,4.9,3166
+item_001472,Monitored next generation workforce,Mystery,2022-05-16,0.222,0.508,25.02,177,German,2.4,6406
+item_001473,Advanced scalable customer loyalty,Documentary,2022-11-24,0.178,0.994,12.68,111,Japanese,2.5,3794
+item_001474,Function-based asymmetric function,Comedy,2018-12-31,0.35,0.445,0.0,62,Japanese,2.4,9462
+item_001475,Reactive fresh-thinking throughput,Mystery,2016-01-22,0.558,0.204,25.44,96,Japanese,2.5,5292
+item_001476,Synergized full-range Graphical User Interface,Drama,2019-12-16,0.218,0.965,3.69,36,German,2.0,9730
+item_001477,Re-contextualized reciprocal algorithm,Crime,2024-04-26,0.057,0.738,0.0,37,Japanese,4.1,1300
+item_001478,Ergonomic full-range Graphical User Interface,Mystery,2025-03-22,0.257,0.463,1.72,63,German,3.9,5877
+item_001479,Polarized methodical website,Documentary,2016-05-08,0.196,0.887,0.0,91,Spanish,2.9,8782
+item_001480,Devolved mission-critical collaboration,Family,2022-04-09,0.197,0.853,0.0,126,French,4.0,4515
+item_001481,Public-key full-range Local Area Network,Animation,2023-11-02,0.144,0.81,28.1,35,Japanese,4.6,1827
+item_001482,Open-source value-added approach,Science Fiction,2024-05-07,0.618,0.644,27.88,61,English,2.4,4302
+item_001483,Innovative non-volatile success,Documentary,2022-10-12,0.378,1.0,3.68,156,French,4.7,3417
+item_001484,Realigned national adapter,Mystery,2018-01-29,0.59,0.973,0.0,55,German,4.4,6788
+item_001485,Synergized full-range website,Animation,2025-02-27,0.22,0.582,15.1,49,Spanish,4.1,6158
+item_001486,Multi-channeled asymmetric collaboration,Horror,2018-10-20,0.424,0.801,19.36,145,Spanish,2.5,176
+item_001487,Assimilated global implementation,Documentary,2022-04-06,0.365,0.623,0.0,175,Japanese,4.6,1930
+item_001488,Down-sized object-oriented portal,Horror,2019-11-23,0.188,0.147,29.81,153,Japanese,3.8,92
+item_001489,Right-sized bifurcated toolset,Documentary,2023-07-07,0.224,0.761,0.0,163,French,4.8,3169
+item_001490,Triple-buffered foreground strategy,Action,2016-04-24,0.185,0.736,0.0,167,English,3.6,2506
+item_001491,Open-source background methodology,Drama,2024-10-07,0.276,0.629,0.0,123,English,4.7,493
+item_001492,Multi-layered local framework,Horror,2018-02-27,0.197,0.684,5.01,51,Spanish,2.8,7900
+item_001493,Innovative context-sensitive budgetary management,Drama,2019-09-28,0.305,0.947,28.63,119,Japanese,4.0,7662
+item_001494,Automated zero-defect customer loyalty,Thriller,2025-02-17,0.308,0.836,0.0,141,Japanese,4.8,3173
+item_001495,Organic motivating algorithm,Fantasy,2023-12-27,0.175,0.608,0.0,74,Spanish,4.1,4615
+item_001496,Profit-focused coherent core,Mystery,2019-05-26,0.122,0.427,3.97,180,French,2.5,3382
+item_001497,Polarized upward-trending moderator,Thriller,2019-02-06,0.236,1.0,0.0,140,German,3.3,4461
+item_001498,Inverse client-server throughput,Horror,2024-09-18,0.251,0.857,0.0,57,Japanese,3.1,3282
+item_001499,Programmable systematic capacity,Music,2018-01-18,0.296,1.0,0.0,125,English,3.3,563

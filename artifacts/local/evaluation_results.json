@@ -1,0 +1,16 @@
+{
+  "k_values": [
+    5,
+    10,
+    20
+  ],
+  "recall": {
+    "recall@5": 0.0,
+    "recall@10": 0.0,
+    "recall@20": 0.0
+  },
+  "coverage": 0.019333333333333334,
+  "diversity": 0.242,
+  "sample_size": 100,
+  "test_rows": 4000
+}

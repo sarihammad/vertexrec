@@ -1,0 +1,10 @@
+{
+  "pipeline_runtime_secs": 39.53,
+  "data_generation_secs": 39.53,
+  "tf_training_secs": 0.0,
+  "xgb_training_secs": 0.0,
+  "tf_training_executed": false,
+  "xgb_training_executed": false,
+  "data_dir": "data/local",
+  "artifact_dir": "artifacts/local"
+}

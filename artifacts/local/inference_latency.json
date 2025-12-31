@@ -1,0 +1,6 @@
+{
+  "avg_latency_ms": 34.43,
+  "p95_latency_ms": 50.31,
+  "sample_users": 100,
+  "k": 10
+}
